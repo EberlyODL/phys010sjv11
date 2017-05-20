@@ -1,5 +1,7 @@
 ## Welcome to Phys 010: Physics Behind the Headlines!
 
+Change from Drupal
+
 [ciscode|rev=1|tool=elmsmedia|item=2057|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
 In the weekly lessons, you will often see many discussions between Sophie and Marie. Sophie is a virtual student at Penn State and just like you she is super interested in learning physics and she is full of questions. Marie is a successful (but still virtual :) graduate student in physics who will try to answer all of Sophie's questions.
