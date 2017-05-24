@@ -48,5 +48,6 @@
     * [Special Relativity](special_relativity.md)
     * [Time Dilation](time_dilation.md)
     * [Energy and Mass](energy_and_mass.md)
+    * [Week 5 Summary](week_5_summary.md)
 * [End of Book](README.md)
 
