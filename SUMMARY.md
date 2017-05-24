@@ -40,5 +40,8 @@
     * [Week 3 Summary](week_3_summary.md)
   * [Week 4: Space-time](week_5_space_time.md)
     * [Space and Motion](space_and_motion.md)
+    * [Motion is Relative](motion_is_relative.md)
+    * [Interlude: Dealing with Errors--Systematic vs. Statistical](interlude_dealing_with_errors_systematic_vs_statistical.md)
+    *[Life of the Neutrino](life_of_the_neutrino.md)
 * [End of Book](README.md)
 
