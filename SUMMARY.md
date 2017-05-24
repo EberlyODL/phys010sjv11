@@ -45,5 +45,7 @@
     * [Life of the Neutrino](life_of_the_neutrino.md)
     * [Newsflash 4](newsflash_4.md)
     * [Good Old Relativity](good_old_relativity.md)
+    * [Special Relativity](special_relativity.md)
+    * [Time Dilation](time_dilation.md)
 * [End of Book](README.md)
 
