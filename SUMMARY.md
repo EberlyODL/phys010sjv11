@@ -13,7 +13,7 @@
     * [Building Atoms in the Lab](building_atoms_in_the_lab.md)
     * [Space and graphs](space-speed-and-momentum.md)
     * [Week 1 Summary](week_1_summary.md)
-  * [Week 2: Energy](week_2_energy.md)
+  * [Week 2: Energy and Momentum](week_2_energy.md)
     * [Calories and Food](calories_and_food.md)
     * [Power and Energy in your daily life](power_and_energy_in_your_daily_life.md)
     * [Units](units.md)
