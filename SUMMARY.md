@@ -42,6 +42,8 @@
     * [Space and Motion](space_and_motion.md)
     * [Motion is Relative](motion_is_relative.md)
     * [Interlude: Dealing with Errors--Systematic vs. Statistical](interlude_dealing_with_errors_systematic_vs_statistical.md)
-    *[Life of the Neutrino](life_of_the_neutrino.md)
+    * [Life of the Neutrino](life_of_the_neutrino.md)
+    * [Newsflash 4](newsflash_4.md)
+    * [Good Old Relativity](good_old_relativity.md)
 * [End of Book](README.md)
 
