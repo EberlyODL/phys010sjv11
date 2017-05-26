@@ -1,45 +1,21 @@
-![pocket watch](https://online.science.psu.edu/sites/default/files/phys010/W4spacetime/MontreGousset001.jpg)
-------------------------------------------------------------------------------------------------------------
+## Errors in Measurements
 
-Errors in Measurements
-----------------------
+[ciscode|rev=1|tool=elmsmedia|item=2131|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]
 
-As we saw before, physics is an experimental science and it all starts by taking measurements. Let's do a simple experiment. Pick up a pendulum in your house. Any object of some length with a mass at the tip will do. (I like to use my grandfather's watch as you can see on the side.) The pendulum oscillates because of the force of gravity. The period is just a function of the length of the pendulum and of a constant of nature \(g\) which is called the gravitational acceleration. Never mind what that is but let us imagine that you have your own hypothesis for what gravity is and given the length of the pendulum and the period (how long for a back and forth) you are able to calculate g.![pendulum with a period of one second. ](https://online.science.psu.edu/sites/default/files/phys010/W4spacetime/Pendulum2secondclock.gif) You want to check whether your prediction agrees with experiments.
+As we saw before, physics is an experimental science and every inquiry into Nature starts by making observation and taking measurements. Let us do a simple experiment. Pick up a pendulum in your house. Any object of some length with a mass at the tip will do. (I like to use my grandfather's watch as you can see on the side.) The pendulum oscillates because of the force of gravity. The period is just a function of the length of the pendulum and of a constant of nature $g$ which is called the gravitational acceleration. Never mind what that is but let us imagine that you have your own hypothesis for what gravity is and given the length of the pendulum and the period (how long for a back and forth) you are able to calculate $g$.
+
+[ciscode|rev=1|tool=elmsmedia|item=2133|entity_type=node|render=display_mode|display_mode=image]
+
+You want to check whether your prediction agrees with experiments.
 
 To make sure you are doing things right, you take multiple measurements. I did it at home and here are my results for my own grandfather watch whose length I measured to be 20 cm.
 
-<table border="1" cellpadding="0" cellspacing="0" style="width: 20px;"><thead><tr><th scope="col" style="width: 300px; text-align: center;">**Period (s)**
-
-</th><th scope="col" style="width: 300px; text-align: center;">**Length (m)**
-
-</th><th scope="col" style="width: 300px; text-align: center;">**Gravitational constant "g" (m/\(s^2\))**
-
-</th></tr></thead><tbody><tr><td style="width: 300px; text-align: center;">0\.95
-
-</td><td style="width: 300px; text-align: center;">0\.2
-
-</td><td style="width: 300px; text-align: center;">8\.75
-
-</td></tr><tr><td style="width: 300px; text-align: center;">1\.05
-
-</td><td style="width: 300px; text-align: center;">0\.2
-
-</td><td style="width: 300px; text-align: center;">7\.16
-
-</td></tr><tr><td style="width: 300px; text-align: center;">0\.75
-
-</td><td style="width: 300px; text-align: center;">0\.2
-
-</td><td style="width: 300px; text-align: center;">14\.03
-
-</td></tr><tr><td style="width: 300px; text-align: center;">0\.8
-
-</td><td style="width: 300px; text-align: center;">0\.2
-
-</td><td style="width: 300px; text-align: center;">12\.33
-
-</td></tr></tbody></table>The average of my four measurements is \(g =10.57\;m/s^2\). The correct (average) value is \(9,8\;m/s^2\). What is going on here?
-
+|Period (s)|Lenght(m)| Gravitational constant "g" ($m/s^2$)
+|--------
+|0.95|2|9.75
+|1.05|0.2|7.16
+|0.75|0.2|14.03
+|0.8|0.2|12.33
 - S: Your measurements of the period are all over the place. They vary a lot.
 - M: Yes right.
 

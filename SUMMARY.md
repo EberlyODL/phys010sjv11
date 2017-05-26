@@ -48,12 +48,12 @@
     * [Special Relativity](special_relativity.md)
     * [Time Dilation](time_dilation.md)
     * [Energy and Mass](energy_and_mass.md)
-    * [Week 5 Summary](week_5_summary.md)
   * [Week 5: Force and Electricity](week_6_review_and_the_notion_of_force.md)
     * [The Basic Concept of Force](the_basic_concept_of_force.md)
     * [Newton's Laws of Motion](newton_s_laws_of_motion.md)
     * [Force as a Change of Momentum](force_as_a_change_of_momentum.md)
     * [Action and Reaction](action_and_reaction.md)
     * [Review of the Important Concept of Force](review_of_the_important_concept_of_force_.md)
+  * [Week 5 Summary](week_5_summary.md)
   * [End of Book](README.md)
 
