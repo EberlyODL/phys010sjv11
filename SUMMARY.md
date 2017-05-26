@@ -48,6 +48,7 @@
     * [Special Relativity](special_relativity.md)
     * [Time Dilation](time_dilation.md)
     * [Energy and Mass](energy_and_mass.md)
+    * [Week 4 Summary](week_5_summary.md)
   * [Week 5: Force and Electricity](week_6_review_and_the_notion_of_force.md)
     * [The Basic Concept of Force](the_basic_concept_of_force.md)
     * [Newton's Laws of Motion](newton_s_laws_of_motion.md)
