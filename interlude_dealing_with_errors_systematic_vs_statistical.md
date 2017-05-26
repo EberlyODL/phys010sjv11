@@ -16,38 +16,27 @@ To make sure you are doing things right, you take multiple measurements. I did i
 |1.05|0.2|7.16
 |0.75|0.2|14.03
 |0.8|0.2|12.33
+
 - S: Your measurements of the period are all over the place. They vary a lot.
 - M: Yes right.
 
-<div class="question">Q. Why do you think there is a such a variance in the measurements of the period?
-
-1. [Because you are holding the pendulum in a non-steady way.](#)**No.** Maybe a little bit but this is not the main reason.
-2. [Because of the reaction time on the clock.](#)**Correct!** Reaction time for humans is between 0.15 and 0.3 second. So it's just our reflex of measuring the period using a stopwatch.
-3. [Because the period randomly changes all the time](#)**No.** It should not.
-4. [All of the above.](#)**No.** There is a preferred answer.
-
-</div>
-
+<iframe src="https://h5p.org/h5p/embed/82373" width="1090" height="365" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 Random Statistical Errors
 -------------------------
 
 You have just seen the most typical type of error: the statistical error. As its name implies, it is due to the random fluctuations in the measurements. It's source is often easily identifiable and experimentalists work very hard to reduce this ever-present source of uncertainty.
 
-<div class="question">Q. In the measurement above, can you think of a way to reduce the error?
+<iframe src="https://h5p.org/h5p/embed/82375" width="1090" height="207" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-1. [Click here for answer.](#)You can try to keep the human out of the picture but every measuring devices, even computers, have a "reflex time." Another possibility is to make the pendulum longer and the period bigger. The reflex time will then be a smaller fraction of the period. It is difficult to measure precisely a period of 1 second using a stopwatch if your reflex time are 0.2 s. But if you are trying to measure a period of 1 minute, the random error of 0.2 s will not be so significant anymore.
+## Sample Size
 
-</div>Sample Size
------------
-
-The most important thing about statistical random errors is that they are random. So once you have tried everything you could to minimize them, you can still reduce their effects by making many, many measurements. Sometimes you will measure a bigger value, sometimes a smaller value; by taking the average, you reduce the error.
+The most important thing about statistical random errors is that they are random. So once you have tried everything you can to minimize them, you can still reduce their effects by making many, many measurements. Sometimes you will measure a bigger value, sometimes a smaller value; by taking the average, you reduce the error.
 
 Sample size is really important in science and many studies should not be trusted because of a small sample and uncontrolled random errors. If you ask ten of your friends about what their favorite color is, and you find a big preference for blue. You cannot conclude that this is true for the whole population, your sample size is too small.
 
-Systematic Errors
------------------
+## Systematic Errors
 
-The most dangerous source of error is the non-random one. These systematic (one way or the other) errors cannot be eliminated by taking many many measurements. They don't average out. If you don't know what they are, its very hard to eliminate them or even quantify their size. Here is an example.
+The most dangerous source of error is the non-random one. These systematic (one way or the other) errors cannot be eliminated by taking many many measurements. They don't average out. If you don't know what they are, it is very hard to eliminate them or even quantify their size. Here is an example.
 
-In the measurement of the pendulum above, I never specified how exactly I measured length. From the tip to the top of the watch or to the middle of the watch. The formula for the period is correct if I measure the length to the center of mass of the watch roughly in the middle, but if somebody had used the top (where the string attaches), they would have made a **_systematic error_**. All of their measurements would have been wrong (by a little bit).
+In the measurement of the pendulum above, I never specified how exactly I measured the length. From the tip to the top of the watch or to the middle of the watch? The formula for the period is correct if I measure the length to the center of mass of the watch roughly in the middle, but if somebody had used the top (where the string attaches), they would have made a **_systematic error_**. All of their measurements would have been wrong (by a little bit).
