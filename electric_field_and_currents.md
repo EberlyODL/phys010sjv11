@@ -9,7 +9,7 @@ $F = q E$
 
 <iframe src="https://h5p.org/h5p/embed/84196" width="1090" height="638" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
   
-> Even though the protons and electron have very different mass (by a factor of a thousand), the magnitude of their electric charge is the same at $e = \pm 1.602\times10^{-19}$ C. So they usually feel the same magnitude of the electric force but in different directions. 
+> Even though the protons and electron have very different mass (by a factor of a thousand), the magnitude of their electric charge is the same at $e = \pm 1.602\times10^{-19}$ C. They usually feel the same magnitude of the electric force but in different directions. 
 
 ## Circuits
 
