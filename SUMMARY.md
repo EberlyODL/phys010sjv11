@@ -61,5 +61,5 @@
     * [Batteries and the Volt](batteries_and_the_volt.md)
     * [Newsflash 5](newsflash_5.md)
     * [Week 5 Summary](week_6_summary.md)
-  * [End of Book](README.md)
+* [End of Book](README.md)
 
