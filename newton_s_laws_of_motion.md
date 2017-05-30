@@ -1,6 +1,7 @@
-The basic laws of motion were synthesized by Isaac Newton's in the 17<sup>th</sup> century. We now know that these laws are not quite right. They are corrected by both relativity and quantum mechanics (as we will see later). Since this is a class on Modern physics, we will not spend much time on Newton's laws. 
+The basic laws of motion were discovered/synthesized by Isaac Newton's in the 17<sup>th</sup> century. We now know that these laws are not quite right; they are corrected by both relativity and quantum mechanics (as we will see later). For most motion of large objects at normal speed, the correction are very small and Newton's laws work beautifully well. 
 
-We do need them a little bit though to build a foundation for what is to come. 
+Since this is a class on modern physics, we will not spend much time on Newton's laws. 
+We do need to discuss still to build a foundation for what is to come. 
 
 ### The First law.
 
