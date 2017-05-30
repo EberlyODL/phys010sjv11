@@ -2,8 +2,7 @@ The current that you get by discharging a capacitor is quick and intense. In man
 
 But most of the time, we need a more constant source of current. Here comes the battery.
 
-Battery
--------
+## Battery
 
 [ciscode|rev=1|tool=elmsmedia|item=791|entity_type=node|render=display_mode|display_mode=image]
 
@@ -11,7 +10,7 @@ Battery technology is a vast subject and one of active research nowadays. Most b
 
 You take two metals. One is a donor like Zinc (atomic symbol Zn) who wants to get rid of its electron while the other is a receiver like silver (Ag) who would like to get some extra electrons.
 
-You can think of the situation as the energy diagram in Fig 6. The electron in the zinc can, with a very small push, be transferred to the silver. On the way down there, we can use their kinetic energy to light up our light bulbs.
+You can think of the situation as the energy diagram in the figure below. The electron in the zinc can, with a very small push, be transferred to the silver. On the way down, we can use their kinetic energy to light up our light bulbs.
 
 [ciscode|rev=1|tool=elmsmedia|item=792|entity_type=node|render=display_mode|display_mode=image]
 
@@ -23,8 +22,7 @@ The solution is to use an electrolyte. We put a substance in between the zinc an
 
 The battery still has a finite lifetime since the electrolyte and the metals have finite amount of ions and electrons. Also, the electrolyte is usually a dangerous acid, which can corrode the battery and this is why batteries require special care when disposed.
 
-Voltage
--------
+## Voltage
 
 As you well know, different batteries have different voltage.
 
@@ -36,7 +34,7 @@ B battery: 18 V
 
 Voltage is defined as Energy per unit of charge (Energy/charge) provided by the battery
 
-Roughly speaking, Voltage is a measure of the “push” each charge gets from the battery. Batteries are also characterized by the maximum current they can output and by the total amount of charge or energy available.
+Roughly speaking, voltage is a measure of the “push” each charge gets from the battery. Batteries are also characterized by the maximum current they can output and by the total amount of charge or energy available.
 
 ### The Water Tower Analogy
 
@@ -52,21 +50,4 @@ In the water tower analogy, we have
 
 Try the following exercise.
 
-<div class="question">Q. Remember that an AA and D battery are both 1.5 V while a 9 Volts battery is, well, 9 Volts.
-
-![Which battery is which?](https://online.science.psu.edu/sites/default/files/phys010/W5electron/Qwatertower.png)
-
-1. [I is AA, II is D, III is 9 V](#)**No.** Remember the height of the water tower is voltage.
-2. [I is D, II is AA, III is 9 V](#)**No.** Remember the height of the water tower is voltage.
-3. [I is 9 V, II is AA, III is D](#)**Correct!** Indeed the first battery has the highest voltage since it has the highest pipe. The energy for each charge is higher for the 9 V battery. This is good if you need to operate something that require each electron to have more energy. The AA and D battery both have the same voltage but the D battery is much bigger and contain more electrons and more stored electrical energy. In the water tower analogy, the D battery has a bigger tank and thus it is the # III.
-4. [I is 9 V, II is D, III is AA](#)**No.** Remember that size of water tank is how long the battery will last.
-5. [I is D, II is 9V, III is AA](#)**No.** Remember the height of the water tower is voltage.
-
-</div>A unit of energy: the electron-volt.
-------------------------------------
-
-Voltage is energy per charge. This means that charge times voltage is an energy.
-
-We define a new unit of energy, the electron volt eV, to be the charge of an electron \(1.602\times 10^{-19}\) C times one volt
-
-1 eV = \(1.602\times 10^{-19}\) C \(\times\) 1 Volt = \(1.602\times 10^{-19}\) Joules
+<iframe src="https://h5p.org/h5p/embed/84222" width="1090" height="694" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
