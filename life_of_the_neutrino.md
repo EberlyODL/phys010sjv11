@@ -10,6 +10,6 @@ Hello World! My name is the electron neutrino and my symbol is $\nu_e$. I have t
 - S: Ok this is really strange. Why have I not heard about you before?
 - $\nu_e$: This is a bit shameful. You see, we don't like to interact with anybody very much. We just pass through everything and we very, very, very rarely stop to enjoy the sights.
 - S: So what is your goal in life? What's the point of having three neutrinos?
-- \(\nu_e\): Well. . . thanks for the confidence! What is your point in life? We are very important. I am not sure what my two sisters are good for, but I—the super important electron neutrino—do tons of stuff. For one, I cool down stars (stars get rid of their energy by sending me away) and that's kind of important for life on Earth isn't it?
+- $\nu_e$: Well. . . thanks for the confidence! What is your point in life? We are very important. I am not sure what my two sisters are good for, but I—the super important electron neutrino—do tons of stuff. For one, I cool down stars (stars get rid of their energy by sending me away) and that's kind of important for life on Earth isn't it?
 - S: Ok, anything else?
 - $\nu_e$: I participate in nuclear reactions and I am an important participant in the structure of the whole cosmos (power by the number is what I say!)
