@@ -20,7 +20,7 @@ This is just distance divided by the speed, in this case the speed of light.
 
 Now another observer passes by and he/she measures the time on his/her clock (denoted $\Delta t'$ pronounced "delta t prime) between the start and the end of the pulse of light.
 
-> prime quantity is just a notation to differentiate between two cases. Here $\Dela t$ is the time interval measured by the observer at rest.  $\Delta t'$ is the time interval measure by the observer moving
+> prime quantity is just a notation to differentiate between two cases. Here $\Delta t$ is the time interval measured by the observer at rest.  $\Delta t'$ is the time interval measure by the observer moving
 
   As you can see from the figure on the bottom, the distance travelled as seen by the observer moving is bigger. But the speed is supposed to be the same. Since $\Delta t' = \frac{\rm{distance}}{c}$ and the distance is bigger, it must be that the time is longer
 
