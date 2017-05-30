@@ -13,7 +13,10 @@ $F = q E$
 
 ## Circuits
 
-The reason electricity is so important in our daily life, is because we have so much control over it. We have through the years invented all sorts of circuit elements that are now the basis of all electronics. It all started with the **capacitor**.
+The reason electricity is so important in our daily life, is because we have so much control over it. In some material, we can easily free the electrons out of the individual atoms and make them move. These are conductor and a good example is copper. Other material, the electrons are completely stuck and it is very hard to make them move. These are insulators and a good example is 
+
+
+We have through the years invented all sorts of circuit elements that are now the basis of all electronics. It all started with the **capacitor**.
 
 [ciscode|rev=1|tool=elmsmedia|item=2143|entity_type=node|render=display_mode|display_mode=image__left]
 
