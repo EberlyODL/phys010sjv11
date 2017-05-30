@@ -19,6 +19,7 @@ The SI unit for force is called the Newton (N).
 
 This is one part of the class where you are expected to be able to do some numerical computation. Look a the following example. We have a 1000 kg car initially moving at $20 m/s$. The driver breaks upon seeing an accident and successfully stop in 5 seconds (this is $\Delta t$, the interval of time). What was the force?
 
+[ciscode|rev=1|tool=elmsmedia|item=2137|entity_type=node|render=display_mode|display_mode=image]
 
 > We use the "i" subscript for initial and "f" subscript for final. The change in momentum is always "final" - "initial" so $\Delta p= p_f-p_i$. Be careful with signs! We could have a situation, for example, where both the initial momentum and final momentum are positive (to the right) but the change in momenta is negative (to the left). This would occur if the object is slowing down and the change in momentum being negative means the force is negative (to the left). 
 
