@@ -40,8 +40,6 @@ Roughly speaking, voltage is a measure of the “push” each charge gets from t
 
 Here is a good analogy for batteries (look at Fig. 9). You can think of a battery as a water tower where water is stored way up and flows down through a pipe whenever the appropriate gate is open.
 
-[ciscode|rev=1|tool=elmsmedia|item=795|entity_type=node|render=display_mode|display_mode=image]
-
 In the water tower analogy, we have
 
 1. The bigger the water tank, the bigger the battery reservoir of electrons. The longer it should last. Rectangular 9 V batteries or big D batteries (or a car battery) are all "big" batteries and they last longer. They have more electrons.
