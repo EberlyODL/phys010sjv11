@@ -54,7 +54,7 @@
     * [Newton's Laws of Motion](newton_s_laws_of_motion.md)
     * [Force as a Change of Momentum](force_as_a_change_of_momentum.md)
     * [Action and Reaction](action_and_reaction.md)
-    * [Review of the Important Concept of Force](review_of_the_important_concept_of_force_.md)
+    * [Multiple Forces](review_of_the_important_concept_of_force_.md)
   * [Week 5 Summary](week_5_summary.md)
   * [End of Book](README.md)
 
