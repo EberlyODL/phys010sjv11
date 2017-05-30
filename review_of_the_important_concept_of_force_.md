@@ -29,4 +29,8 @@ and therefore the net or total force must be zero
 
 $F_{total} = F_{push} +F_{friction} = 0$
 
-That is the two forces are equal in magnitude but opposite in direction. \*\* Always be careful to think about all forces that could act on a body.
+That is the two forces are equal in magnitude but opposite in direction.
+
+[ciscode|rev=1|tool=elmsmedia|item=2141|entity_type=node|render=display_mode|display_mode=image]
+
+> You should always be careful to think about all forces that could act on a body.
