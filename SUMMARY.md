@@ -56,7 +56,6 @@
     * [Action and Reaction](action_and_reaction.md)
     * [Multiple Forces](review_of_the_important_concept_of_force_.md)
     * [The Electron](the_electron.md)
-    * [Static Electricity](static_electricity.md)
     * [The Electric Field](the_electric_field.md)
     * [Electric field and Current](electric_field_and_currents.md)
     * [Batteries and the Volt](batteries_and_the_volt.md)
