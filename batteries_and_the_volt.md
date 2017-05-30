@@ -20,7 +20,7 @@ The solution is to use an electrolyte. We put a substance in between the zinc an
 
 [ciscode|rev=1|tool=elmsmedia|item=793|entity_type=node|render=display_mode|display_mode=image]
 
-The battery still has a finite lifetime since the electrolyte and the metals have finite amount of ions and electrons. Also, the electrolyte is usually a dangerous acid, which can corrode the battery and this is why batteries require special care when disposed.
+The battery still has a finite lifetime since the electrolyte and the metals have finite number of ions and electrons. Also, the electrolyte is usually a dangerous acid, which can corrode the battery and this is why batteries require special care when disposed.
 
 ## Voltage
 
