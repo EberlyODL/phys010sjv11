@@ -19,13 +19,13 @@ Experiments show that all charges that we see comes in integer units of an **ele
 
 $ e = 1.602\times10^{-19}$ Coulombs
 
-where Coulombs is the unit for charge (name after a physicist called Coulomb). So the electron really has a charge of -_e_ while the proton is +_e_ but we often just say -1 and +1 where the 1 means 1 unit of the elementary charge e.
+where Coulombs is the unit for charge (name after a physicist called Coulomb). The electron really has a charge of -_e_ while the proton is +_e_ but we often just say -1 and +1 where the 1 means 1 unit of the elementary charge e.
 
 ## Static Electricity
 
 [ciscode|rev=1|tool=elmsmedia|item=407|entity_type=node|render=display_mode|display_mode=image__right]
 
-In the ancient world it was observed that when rubbed, amber would give off sparks and attract (small) items.
+In the ancient world, it was observed that when rubbed, amber would give off sparks and attract (small) items.
 
 We now understand that for some material it is possible to take away electrons or add more electrons simply by rubbing. We don't have a good understanding of this but for some material, the electrons on the surface can be easily taken away while other material can easily steal electrons when you rub them.
 
@@ -41,4 +41,4 @@ In the video below, you can see static electricity in real life. The person reac
 
 <iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/tuZxFL9cGkI?rel=0" width="420"></iframe>
 
- > Note that she was touching her shirt. Some electrons got rub off on her hand (either less or more electrons, we can't tell). A spark then occur just when she touches the nozzle. This is very rare but do be careful! If you have a lot of static electricity touch your hand on the car to discharge.
+ > Note that she was touching her shirt. Some electrons got rub off on her hand (either less or more electrons, we can't tell). A spark then occurs just when she touches the nozzle. This is very rare but do be careful! If you have a lot of static electricity touch your hand on the car to discharge.
