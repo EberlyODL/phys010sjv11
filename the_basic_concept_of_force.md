@@ -2,7 +2,7 @@ We are now ready to start learning the rule of the games! We have seen all the b
 
 We then have the "stuff" of Nature, which can either be particles or waves.
 
-Finally each particle/wave has a certain amount of energy and momentum, which dictates its motion through space and time. Energy and momentum are conserved in the whole Universe but they can both be transferred between different particles/waves.
+Finally, each particle/wave has a certain amount of energy and momentum, which dictates its motion through space and time. Energy and momentum are conserved in the whole Universe but they can both be transferred between different particles/waves.
 
 [ciscode|rev=1|tool=elmsmedia|item=926|entity_type=node|render=display_mode|display_mode=image]
 
@@ -23,4 +23,4 @@ They are in order of best understood to least understood
 3. Strong nuclear force
 4. Gravity
 
-and yes gravity is the least understood force (in some ways). We will not discuss the weak nuclear force in much details in this course. We will spend most of our time on the first one: electromagnetism. This is the most important force in your daily life!
+and yes, gravity is the least understood force (in some ways). We will not discuss the weak nuclear force in much details in this course. We will spend most of our time on the first one: electromagnetism. This is the most important force in your daily life!
