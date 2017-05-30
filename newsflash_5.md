@@ -1,7 +1,6 @@
-- [The cause of the blackout.](http://www.scientificamerican.com/article.cfm?id=2003-blackout-five-years-later)
+- <a href="http://www.scientificamerican.com/article.cfm?id=2003-blackout-five-years-later" target="_blank">The cause of the blackout</a>
 
-The Electric Grid.
-------------------
+## The Electric Grid.
 
 Our life is increasingly dependent on electricity. A modern car contains about 40 different electric motors (to lower the window, operate the car seat, ....)
 
@@ -20,12 +19,4 @@ Almost, sometimes it fails, like in 2003. We are not very good at storing electr
 
 Before we continue our exploration of electricity, can you answer the following question?
 
-<div class="question">Q. Which of the following is a type of energy that is **NOT** used for heating homes in the US?
-
-1. [Nuclear](#)**No.** America has a couple of nuclear plants which produce energy used to heat home among other things.
-2. [Coal](#)**No.** America has a many coal plants which produce energy used to heat home among other things.
-3. [Electricity](#)**Correct!** This is a trick question. Electricity is a not a source of energy. Electricity is a mean to transport the energy. There is no "electric power plant", there are coal plants, nuclear plants and wind farms whose energy is transported to you via electricity. Even for hydroelectric plants the source of energy is the gravitational energy of the falling water through the dam. Electricity just transmits that energy to your home.
-4. [Hydro](#)**No.** Hydroelectric plants produce energy to heat home. The source of energy is gravitational energy.
-5. [Wind](#)**No.** Wind farm produce energy to heat home.
-
-</div>
+<iframe src="https://h5p.org/h5p/embed/84226" width="1090" height="498" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
