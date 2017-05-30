@@ -9,7 +9,7 @@ We do need to discuss still to build a foundation for what is to come.
 
 This is the most misunderstood of the three laws. It says that if there is no force acting on a object, the object will remain in motion at constant velocity.
 
-This law essentially defined the notion of an inertial reference frame as we discussed in the week about space-time.
+This law essentially defined the notion of an inertial reference frame as we discussed in the week about space-time. At observer moving at constant velocity is an observer for which the laws of Nature look the same as if the velocity was zero (observer at rest). 
 
 ### The Second Law.
 
