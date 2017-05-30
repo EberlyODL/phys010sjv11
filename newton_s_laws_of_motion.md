@@ -1,5 +1,6 @@
-The basic laws of motion 
-We need to study **Newton's three laws of motion** to understand what forces are and what they do.
+The basic laws of motion were synthesized by Isaac Newton's in the 17<sup>th</sup> century. We now know that these laws are not quite right. They are corrected by both relativity and quantum mechanics (as we will see later). Since this is a class on Modern physics, we will not spend much time on Newton's laws. 
+
+We do need them a little bit though to build a foundation for what is to come. 
 
 ### The First law.
 
@@ -19,7 +20,7 @@ Acceleration measures the change in velocity per unit of time. We denote change 
 
 So the time interval between some initial time $t_i$ and some final time $t_f$ is expressed as $\Delta t = t_f -t_i$.
 
-During this time interval the speed of the object may change from initial value $v_i$ to some final value \(v_f\). Again the change in velocity is $\Delta v = v_f-v_i$. **Remember that velocity has a sign, negative if you move left or positive if you move right.**
+During this time interval the speed of the object may change from initial value $v_i$ to some final value $v_f$. Again the change in velocity is $\Delta v = v_f-v_i$. **Remember that velocity has a sign, negative if you move left or positive if you move right.**
 
 The acceleration of an object denotes the change in velocity in a given time interval so
 
