@@ -17,7 +17,10 @@ The SI unit for force is called the Newton (N).
 
 > Force like momentum has a sign. A force to left is negative and a force to the right is positive. 
 
-This is one part of the class where you are expected to be able to do some numerical computation. Look carefully at the example below.
+This is one part of the class where you are expected to be able to do some numerical computation. Look a the following example. We have a 1000 kg car initially moving at $20 m/s$. The driver breaks upon seeing an accident and successfully stop in 5 seconds (this is $\Delta t$, the interval of time). What was the force?
+
+
+> Note that we use the "i" subscript for initial and "f" subscript for final. The change in momentum is always "final" - "initial" so $\Delta p= p_f-p_i$. Be careful, with signs, both the initial momentum and final momentum could be positive (to the right) but the change in momenta could be negative (to the left). 
 
 <iframe src="https://h5p.org/h5p/embed/84159" width="1090" height="576" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
