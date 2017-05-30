@@ -24,7 +24,7 @@ This is one part of the class where you are expected to be able to do some numer
 
 <iframe src="https://h5p.org/h5p/embed/84159" width="1090" height="576" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-The relationship $F\Delta t = \Delta p$ tell us something important about how we can make a force bigger or smaller by changing the time over which the force act. Look carefully at the next question.
+The relationship $F\Delta t = \Delta p$ tell us something important about how we can make a force bigger or smaller by changing **the time interval** over which the force act. Look carefully at the next question.
 
 <iframe src="https://h5p.org/h5p/embed/84162" width="1090" height="302" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
