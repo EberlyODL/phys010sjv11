@@ -55,6 +55,13 @@
     * [Force as a Change of Momentum](force_as_a_change_of_momentum.md)
     * [Action and Reaction](action_and_reaction.md)
     * [Multiple Forces](review_of_the_important_concept_of_force_.md)
-  * [Week 5 Summary](week_5_summary.md)
+    * [The Electron](the_electron.md)
+    * [Static Electricity](static_electricity.md)
+    * [The Electric Field](the_electric_field.md)
+    * [Electric field and Current](electric_field_and_currents.md)
+    * [Batteries and the Volt](batteries_and_the_volt.md)
+    * [Newsflash 5](newsflash_5.md)
+    * [Week 5 Summary](week_6_summary.md)
+    
   * [End of Book](README.md)
 
