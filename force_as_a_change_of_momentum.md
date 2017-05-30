@@ -21,14 +21,10 @@ This is one part of the class where you are expected to be able to do some numer
 
 <iframe src="https://h5p.org/h5p/embed/84159" width="1090" height="576" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-The relationship \( F\Delta t = \Delta p\) tell us something important about how we can make a force bigger or smaller by changing the time over which the force act. Look carefully at the next question.
+The relationship $F\Delta t = \Delta p$ tell us something important about how we can make a force bigger or smaller by changing the time over which the force act. Look carefully at the next question.
 
-<div class="question">Q. Let's say you jump from the roof and collide with the parkway. In order to reduce damage and reduce the force on your knees, do you want the collision to last a long time or a short time?
+<iframe src="https://h5p.org/h5p/embed/84162" width="1090" height="302" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-1. [Long time collision](#)**Correct!** Indeed, the change in momentum is the same (you go from some speed to zero, and your mass arguably didn't change...). The longer the time the smaller the average force will need to be. Time \* Force is change in momentum. This is why it is good to roll when you fall on the ground.
-2. [Short time collision](#)**No**. That will hurt even more
-3. [Does not matter](#)**No**. It does matter.
-
-</div>**To summarize, in the absence of any forces, I keep moving with the same momentum. If someone exerts a force on me over a certain amount of time, then my momentum will change.**
+**To summarize, in the absence of any forces, I keep moving with the same momentum. If someone exerts a force on me over a certain amount of time, then my momentum will change.**
 
 But momentum is really conserved. Like energy, no momentum is ever created or destroyed in the Universe, it just moves around. So it is not really a change in momentum. It is more of an **exchange** of momentum between two (or more) entities. And this observation is the basis for Newton's third law.
