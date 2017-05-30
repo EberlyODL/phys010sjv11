@@ -1,36 +1,21 @@
-The Electric Force
-------------------
+To find the electric force felt by an object with some electric charge q (positive or negative), we just do the following:
 
-To find the electric force felt by an object with some electric charge q (positive or negative), we just do the following: we look at what all the other charges are and we determine the electric field everywhere in space. To get the force at some position x and time t, we look up the value of the electric field at x and t (denote \(E(x,t)\)) and we multiply by the charge.
+* we look at what the value and direction of the electric field is where the charge q is 
+* we multiply the electric field (E, do not confuse with energy!) by the charge q. 
 
-\(F = q E\)
+$F = q E$
 
-Note that the force is in the same direction as the electric field.
+> If the charge is positive $q>0$, the force and electric field are in the same direction. If E is positive (right) than F = qE will also be positive (right). But if the electric charge is negative $q<0$, the the force will be in the opposite direction as the electric field. This is why electricity can be both attractive or repulsive. 
 
-<div class="question">Q. Look at the following three situations where we put an electron (small blue) and a proton (small red) near a negatively charged object (large blue).
-
-![An electron is sitting close to a negatively charged object](https://online.science.psu.edu/sites/default/files/phys010/W5electron/eclose.png)![Electron far away from negatively charged object](https://online.science.psu.edu/sites/default/files/phys010/W5electron/efar.png)![Proton close to a negatively charged object](https://online.science.psu.edu/sites/default/files/phys010/W5electron/pclose.png)
-
-In which case is the magnitude of the force felt on the charge the biggest?
-
-1. [(i)](#)**No!** We are interested in the magnitude
-2. [(ii)](#)**No.** Thats the weakest force since the electric field is smaller there.
-3. [(iii)](#)**No!** We are interested in the magnitude
-4. [(i) and (iii)](#)**Correct!** Both the proton and the electron have the same charge q up to a sign. I remind you that the charge of proton and electrons is \(\pm 1\) in units of the fundamental charge _e_=\(1.602\times 10^{-19}\) Coulomb. So the magnitude of the force is just F = e E. In both case (i) and (iii), the charge is placed a the same place and the electric field will be the same there. Therefore, the force in case (i) and (iii) have the same magnitude. Case ii, the charge is placed farther from the negatively charged object where the electric field lines are less dense (more diffuse) so the force is smaller.
+<iframe src="https://h5p.org/h5p/embed/84196" width="1090" height="638" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
   
-  S: How come the force is the same for proton and electron?
-  
-  M: The magnitude is the same. But the direction is different. For the proton the force is F = +_e_ E which means the force is in the same direction as the E field. Looking at the arrow, you see the proton is going to feel a force towards the negatively charged object. This makes sense, opposite charges attract.
-  
-  S: oh I see, and for the electron the force is really F = -_e_ E which means the force is in the opposite direction. The electron is repulsed.
-  
-  M: Exactly!
-5. [all equals](#)**No.** (ii) has the weakest force since the electric field is smaller there.
+> Even though the protons and electron have very different mass (by a factor of a thousand), the magnitude of their electric charge is the same at $e = \pm 1.602\times10^{-19}$ C. So they usually feel the same magnitude of the electric force but in different directions. 
 
-</div>Circuits
---------
+## Circuits
 
 The reason electricity is so important in our daily life, is because we have so much control over it. We have through the years invented all sorts of circuit elements that are now the basis of all electronics. It all started with the **capacitor**.
+
+[ciscode|rev=1|tool=elmsmedia|item=2143|entity_type=node|render=display_mode|display_mode=image__left]
 
 ![Dissectable Leyden Jar](https://online.science.psu.edu/sites/default/files/phys010/W5electron/Dissectible_Leyden_jar.png)![schematic of a capacitor showing two metal plates with positive and electric charge. ](https://online.science.psu.edu/sites/default/files/phys010/W5electron/capacitor.png)The capacitor is a mean to store electric charges. You have two metal conductors that are some distance apart and you can add a lot of electrons on one plate taking them from the other plate.
 
