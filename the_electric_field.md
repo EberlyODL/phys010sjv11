@@ -26,6 +26,6 @@ Here is what you should remember from these figures.
 
 ## Phet Simulation
 
-In the following simulation, you can put positive and negative charges to change the "mattress" the electric field. At each point in space the electric field has value and a direction. 
+In the following simulation, you can move positive and negative charges to change the "mattress" of the electric field. At each point in space the electric field has a value and a direction. 
 
 <iframe src="https://phet.colorado.edu/sims/html/charges-and-fields/latest/charges-and-fields_en.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
