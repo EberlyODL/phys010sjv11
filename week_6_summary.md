@@ -14,8 +14,8 @@ Newton's laws in terms of momentum:
 A constant force F applied over an interval of time \(\Delta t\) changes the momentum by the amount   
   $F\Delta t = \Delta p$
   
-    
-        [ciscode|rev=1|tool=elmsmedia|item=409|entity_type=node|render=display_mode|display_mode=image__right]
+Electricity is one of the most common force of Nature and the underlying cause of all contact forces we feel and exerts. 
+  [ciscode|rev=1|tool=elmsmedia|item=409|entity_type=node|render=display_mode|display_mode=image__right]
   
 - Electricity is an interaction between charged objects. The electron has negative charge -e and the proton has positive charge +e. Where $e = 1.602\times10^{-19}$ Coulombs.
 - Most of the time, the electrons are the particles moving in an electric current. The eV is a unit for energy, which is just the charge e times 1 volt. 1 eV = $1.602 \times 10^{-19}$ Joules.
