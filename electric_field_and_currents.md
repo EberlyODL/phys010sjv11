@@ -13,31 +13,31 @@ $F = q E$
 
 ## Circuits
 
-The reason electricity is so important in our daily life, is because we have so much control over it. In some material, we can easily free the electrons out of the individual atoms and make them move. These are conductor and a good example is copper. Other material, the electrons are completely stuck and it is very hard to make them move. These are insulators and a good example is 
-
+The reason electricity is so important in our daily life, is because we have so much control over it. In some materials, we can easily free the electrons out of the individual atoms and make them move. These are **conductor** and a good example is copper. In other materials, the electrons are completely stuck and it is very hard to make them move. These are **insulators** and a good example is diamond.
 
 We have through the years invented all sorts of circuit elements that are now the basis of all electronics. It all started with the **capacitor**.
 
 [ciscode|rev=1|tool=elmsmedia|item=2143|entity_type=node|render=display_mode|display_mode=image__left]
 
-![Dissectable Leyden Jar](https://online.science.psu.edu/sites/default/files/phys010/W5electron/Dissectible_Leyden_jar.png)![schematic of a capacitor showing two metal plates with positive and electric charge. ](https://online.science.psu.edu/sites/default/files/phys010/W5electron/capacitor.png)The capacitor is a mean to store electric charges. You have two metal conductors that are some distance apart and you can add a lot of electrons on one plate taking them from the other plate.
+The capacitor is a mean to store electric charges. You have two metal conductors that are some distance apart and you can add a lot of electrons on one plate taking them from the other plate.
+[ciscode|rev=1|tool=elmsmedia|item=2145|entity_type=node|render=display_mode|display_mode=image]
 
 You can release the charge very quickly by simply connecting the two pieces of metal together.
 
-The Leyden jar named after the city of Leiden in the Netherlands was used for many years in the 17th century to do experiment with electricity. Benjamin Franklin did some cool improvements on the device.
+The Leyden jar was probably one of the first capacitor in used. It was named after the city of Leiden in the Netherlands.  Benjamin Franklin did some cool improvements on the device.
 
 ### Current
 
 When you discharge a capacitor, you get an electric current. The definition is simple
 
-\(I = Q/\Delta t\)
+$I = Q/\Delta t$
 
-The current \(I\) is the amount of charge Q (in Coulombs) passing some point per amount of time. The unit for current is called the Ampere and 1 Amp is equal to 1 Coulomb/s.
+The current $I$ is the amount of charge Q (in Coulombs) passing some point per amount of time. The unit for current is called the Ampere and 1 Amp is equal to 1 Coulomb/s.
 
 - S: How many electrons does that represent?
-- M: Remember that the charge of an electron is \(1.602\times10^{-19} C\). So 1 Coulomb/s is \(6.2 \times 10^{18}\) electrons per seconds.
+- M: Remember that the charge of an electron is $1.602\times10^{-19} C$. So 1 Coulomb/s (one amp) is $6.2 \times 10^{18}$ electrons per seconds.
 - S: Woah! That's a lot!
-- M: Yes. But, remember, there are lots of atoms (1 mole is \(10^{23}\)) and each atoms have multiple electrons. So, it's possible to get a current of 1 amp. In fact, this is a typical current in your house.
+- M: Yes. But, remember, there are lots and lots of atoms (1 mole is $10^{23}$) and each atoms have multiple electrons. So, it's possible to get a current of 1 amp. In fact, this is a typical current in your house.
 - S: Yes. I guess. Don't breakers stop current bigger than 15 amps or something?
 - M: Yes, 15 amps is a dangerous current that can cause wire to burn and it is a fire hazard. This is why we have breakers to "break" the circuit when the current is too high.
 
