@@ -1,19 +1,18 @@
-We are now ready to start learning the rule of the games! We have seen all the building blocks of Nature (see Fig 1). We can arrange them in pairs. First there is space and time, the tapestry on which everything moves.
+We are now ready to start learning the rule of the games! We have seen all the building blocks of Nature (see fig). We can arrange them in pairs. First there is space and time, the tapestry on which everything moves.
 
 We then have the "stuff" of Nature, which can either be particles or waves.
 
-[ciscode|rev=1|tool=elmsmedia|item=926|entity_type=node|render=display_mode|display_mode=image]
-
 Finally each particle/wave has a certain amount of energy and momentum, which dictates its motion through space and time. Energy and momentum are conserved in the whole Universe but they can both be transferred between different particles/waves.
 
-Now that we know the basic structure, some natural questions occur.
+[ciscode|rev=1|tool=elmsmedia|item=926|entity_type=node|render=display_mode|display_mode=image]
+
+Now that we know the basic structure, the next questions are
 
 **How does a particle's or wave's energy and momentum change?**
 
 **How do things interact and how do they exchange energy and momentum?**
 
-Forces 
--------
+## Forces
 
 Interactions between particles and waves occur via forces. Fundamentally, we know of four different forces in the world.
 
