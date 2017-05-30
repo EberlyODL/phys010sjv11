@@ -17,7 +17,7 @@ The SI unit for force is called the Newton (N).
 
 > Force like momentum has a sign. A force to left is negative and a force to the right is positive. 
 
-This is one part of the class where you are expected to be able to do some numerical computation. Look a the following example. We have a 1000 kg car initially moving at $20 m/s$. The driver breaks upon seeing an accident and successfully stop in 5 seconds (this is $\Delta t$, the interval of time). What was the force?
+This is one part of the class where you are expected to be able to do some numerical computation. Look at the following example. We have a 1000 kg car initially moving at $20 m/s$. The driver breaks upon seeing an accident and successfully stop in 5 seconds (this is $\Delta t$, the interval of time). What was the force?
 
 [ciscode|rev=1|tool=elmsmedia|item=2137|entity_type=node|render=display_mode|display_mode=image]
 
@@ -31,4 +31,4 @@ The relationship $F\Delta t = \Delta p$ tell us something important about how we
 
 **To summarize, in the absence of any forces, I keep moving with the same momentum. If someone exerts a force on me over a certain amount of time, then my momentum will change.**
 
-But momentum is really conserved. Like energy, no momentum is ever created or destroyed in the Universe, it just moves around. So it is not really a change in momentum. It is more of an **exchange** of momentum between two (or more) entities. And this observation is the basis for Newton's third law.
+But momentum is really conserved. Like energy, no momentum is ever created or destroyed in the Universe, it just moves around. It is not really a change in momentum. It is more of an **exchange** of momentum between two (or more) entities. And this observation is the basis for Newton's third law.
