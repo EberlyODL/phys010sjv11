@@ -7,7 +7,7 @@ Welcome back We are about to see the last building block of nature! After this w
 - S: Hmmm, ok. So what's next, then?
 - M: A pretty important piece actually: Spacetime. This is the fabric on which everything moves. This week we will learn how to describe motion in spacetime and how motion is relative. Different observers see different motions.
 - M: This will lead us to some strange ideas, like time dilation; and it also leads us to reevaluate what we mean by energy and momentum.
-- S: O<span style="line-height: 20.3999996185303px;">h wow. So this week we see why \(E=mc^2\)?</span>
+- S: O<span style="line-height: 20.3999996185303px;">h wow. So this week we see why $E=mc^2$?</span>
 - M: Indeed!
 
 ## Dimensions of Space
