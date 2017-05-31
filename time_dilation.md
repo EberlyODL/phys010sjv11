@@ -2,7 +2,7 @@ How can this work in practice?
   
 Look at the two images below.
 
-> The symbol $\Delta$ in $\Delta t$ denote an interval of time. In general $\Delta $ means difference between the final value of something and its initial value.
+> The symbol $\Delta$ in $\Delta t$ denotes an interval of time. In general $\Delta $ means difference between the final value of something and its initial value.
 
 On the left, I am sending a pulse of light up to a mirror and it bounces back. The time it took for the trip back and forth is just the distance divided by the speed
 
