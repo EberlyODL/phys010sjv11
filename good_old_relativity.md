@@ -13,7 +13,7 @@ These observations lead Galileo and Newton to formulate the principle of relativ
 
 > _The laws of mechanics are the same for all observers moving at constant velocity._
 
-We have not seen the laws of mechanics and we won't discuss these very much since these laws have changed a bit since Galileo and Newton. But the idea was that the laws of mechanics were telling you how you move when a force (a push or pull) is exerted on you. Since Newton and Galileo observed (experimentally) that objects seem to move with no push or pull in when accelerated, they came up with this principle of relativity that the laws of mechanics only work for observers moving at constant speed.
+We will see the laws of mechanics, briefly, in the next week. We will not discuss them very much since these laws have changed a bit since Galileo and Newton. But the idea was that the laws of mechanics were telling you how you move when a force (a push or pull) is exerted on you. Since Newton and Galileo observed (experimentally) that objects seem to move with no push or pull when they are accelerated, they came up with this principle of relativity that the laws of mechanics only work for observers moving at constant velocity.
 
 This is a powerful statement. It says that the laws of mechanics are the same everywhere in the Universe (independent of location). They were the same in the past and will be the same in the future. They only seem to fail when an object is not moving at a constant velocity but even then it was easy to account for this change of velocity and modify the law of mechanics accordingly.
 
