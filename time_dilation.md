@@ -35,7 +35,8 @@ This is **time dilation**. If I measure the time between two events on my watch,
 - S: All of this because light needs to travel at the same speed for all observers moving at constant velocity.
 - M: Yes, measurements in spacetime adjust themselves in such a way that the speed of light is constant. It's a property of the spacetime tapestry we live in. 
 
-> When you move your clock slows so that time intervals are shorter when compared with somebody not moving. So if you take a space trip at high speed, people on Earth will age faster than you.
+> This can be confusing but the person that move is the one that is younger. An astronaut is spending 80 days in space at high speed. We look from Earth and see him/her moving and we measure that the astronaut took 81 days to do all the stuff he/she was doing. When the astronaut comes back, he/she has aged by 80 days while people on Earth aged by 81 days. The clock of the moving astronaut ran slow. 
+
 
 ### External Resources
 
