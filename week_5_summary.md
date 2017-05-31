@@ -6,4 +6,4 @@
   - Time dilation: Time runs more slowly when you go fast (in order to measure the same speed of light)
   - Mass and energy are one and the same.
 - The formula for energy is $E^2 = m^2 c^4 + p^2 c^2$. If you have no momentum (i.e., if you are not moving and $p=0$) then this is just the famous formula $E = mc^2$.
-- c is the symbol for the speed of light in vacuum. $$ c = 299\; 792\; 458 \; m/s$$
+- c is the symbol for the speed of light in vacuum. $$ c = 299,792,458 \; m/s$$
