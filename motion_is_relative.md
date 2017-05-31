@@ -16,7 +16,7 @@ $ v_{TG} = v_{\rm{train(T)\;with\;respect\;to\;ground(G)}}$
 
 $ v_{CT} = v_{\rm{cart(C)\;with\;respect\;to\;train(T)}}$
 
-> The choices of symbols C, T, B. G are arbitrary; you just choose whatever you want.
+> The choices of symbols C, T, B, G are arbitrary; you just choose whatever you want.
 
 - M: Note that, if you reverse the order, you just reverse the sign of the speed.
 - S: What do you mean?
