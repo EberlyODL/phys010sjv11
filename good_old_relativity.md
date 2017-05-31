@@ -23,17 +23,17 @@ Galileo and Newton were pretty pleased with themselves. But then came a new theo
 
 We will discuss the theory of electricity later on, but, for now, there is only one thing we need to know: the theory of electricity predicts that light is a wave moving with a speed of
 
-$ c = 299\; 792\; 458 \; m/s$, the speed of light.
+$ c = 299,792,458 \; m/s$, the speed of light.
 
 > the symbol "c" always means the speed of light (in vacuum). 
 
-- S: So what is so strange here (beside that I don't see what light and electricity have to do with each other)?
-- M: What is strange is that for the first time, a fundamental law of nature was telling us specifically the speed of a wave. The speed was not an arbitrary derived quantity, it was right there in the equations.
+- S: I do not see what is so strange here? Beside the fact that I don't see what light and electricity have to do with each other.
+- M: What is strange is that for the first time, a fundamental law of Nature was telling us specifically the speed of a wave. The speed was not an arbitrary derived quantity, it was right there in the equations.
 - S: So in which way is the speed of light more fundamental than the speed of sound?
 - M: The speed of sound is like the speed of your car. It is not a fundamental quantity of Nature. You can change it at will (you can change the speed of sound by heating up the gas for example). The laws of mechanics don't say anywhere that your car should move at 40 mph or that sound travels at 340 m/s.
 - S: I see... Is there any other law of nature that predicts a speed of something else?
 - M: Yes some others. Einstein's theory of gravity (general relativity) predicts gravitational waves and it predicts their speed. Also neutrinos have their speed predicted.
 - S: So what is the prediction for the speed of gravitational waves or neutrinos?
-- M: It is $ c = 299\; 792\; 458 \; m/s$, the speed of light.
+- M: It is $ c = 299,792,458 \; m/s$, the speed of light.
 - S: Hmmm, I guess there is really something special about that number.
 - M: There is. The speed of light is really a _property of spacetime_. It is the speed limit. And Nature is very good at enforcing this speed limit.
