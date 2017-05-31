@@ -9,7 +9,7 @@ From this principle, the theory of special relativity follows. This is all there
 In particular, we have the following logic
 
 1. Maxwell's theory of electricity is true for all observers moving at constant speed.
-2. Maxwell's theory predicts that light travels at $ c= 299\; 792 \; 458 \; m/s$.
+2. Maxwell's theory predicts that light travels at $ c= 299,792,458\; m/s$.
 3. Therefore, **light travels at speed c as seen by all observers moving at constant speed**.
 
 - M: This means that for any experiments, irrespective of the speed the observers are moving, will measure the speed of light to be c.
@@ -18,8 +18,7 @@ In particular, we have the following logic
 
 [ciscode|rev=1|tool=elmsmedia|item=973|entity_type=node|render=display_mode|display_mode=image]
 
-Addition of Speed \*\* This is highly optional, your book also discusses this.
-------------------------------------------------------------------------------
+## Addition of Speed \*\* This is highly optional, your book also discusses this.
 
 Einstein's principle of relativity says that the speed of light is measured to be the same for all observers moving at constant velocity. Imagine I turn on a flashlight in a train moving at the speed of c/2 with respect to the ground $v_{TG} = c/2$, the speed of the light with respect to the train $v_{cT}$ is c and the speed of light with respect to the ground $v_{cG}$ must also be c. 
 
