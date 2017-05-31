@@ -19,11 +19,13 @@ This is a powerful statement. It says that the laws of mechanics are the same ev
 
 > With the work of Newton, we have figured out "how" they fail and we can "correct" Newton's law to work when the observer is accelerating. The point is that the laws of physics are unchanged if the observer move at any constant velocity but are changed if the observer accelerate.
 
-Galileo and Newton were pretty pleased with themselves. But then came a new theory, the theory of electricity discovered by many people and synthesized by James Clerk Maxwell.
+Galileo and Newton were pretty pleased with themselves. But then came a new theory, the theory of electricity, discovered by many people and synthesized by James Clerk Maxwell.
 
-We will discuss the theory of electricity later on, but, for now, there is only one thing we need to know: The theory of electricity predicts that light is a wave moving with a speed of
+We will discuss the theory of electricity later on, but, for now, there is only one thing we need to know: the theory of electricity predicts that light is a wave moving with a speed of
 
 $ c = 299\; 792\; 458 \; m/s$, the speed of light.
+
+> the symbol "c" always means the speed of light (in vacuum). 
 
 - S: So what is so strange here (beside that I don't see what light and electricity have to do with each other)?
 - M: What is strange is that for the first time, a fundamental law of nature was telling us specifically the speed of a wave. The speed was not an arbitrary derived quantity, it was right there in the equations.
