@@ -43,4 +43,4 @@ The current $I$ is the amount of charge Q (in Coulombs) passing some point per a
 
 ### External Resources
 
-- Watch this video about a [dissectible leyden jar](http://youtu.be/9ckpQW9sdUg). Benjamin Franklin was the first to show that you can dissect a leyden jar touch all its parts and still discharge it later on!
+- Watch this video about a <a href="https://www.youtube.com/watch?v=9ckpQW9sdUg&feature=youtu.be" target="_blank">dissectible leyden jar</a>. Benjamin Franklin was the first to show that you can dissect a leyden jar touch all its parts and still discharge it later on!
