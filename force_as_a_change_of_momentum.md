@@ -13,7 +13,7 @@ Let us now rephrase the first two of Newton's laws in term of momentum.
 
 $ F\Delta t = \Delta p$
 
-The SI unit for force is called the Newton (N). 
+This is the same as $F=ma$ but we will use the former more in this class. The SI unit for force is called the Newton (N). 
 
 > Force like momentum has a sign. A force to left is negative and a force to the right is positive. 
 

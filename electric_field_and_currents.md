@@ -5,11 +5,11 @@ To find the electric force felt by an object with some electric charge q (positi
 
 $F = q E$
 
-> If the charge is positive $q>0$, the force and electric field are in the same direction. If E is positive (right) than F = qE will also be positive (right). But if the electric charge is negative $q<0$, the the force will be in the opposite direction as the electric field. This is why electricity can be both attractive or repulsive. 
+> If the charge is positive $q>0$, the force and electric field are in the same direction. If E is positive (right) than F = qE will also be positive (right). But if the electric charge is negative $q<0$, the force will be in the opposite direction as the electric field. This is why electricity can be both attractive or repulsive. 
 
 <iframe src="https://h5p.org/h5p/embed/84196" width="1090" height="638" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
   
-> Even though the protons and electron have very different mass (by a factor of a thousand), the magnitude of their electric charge is the same at $e = \pm 1.602\times10^{-19}$ C. They usually feel the same magnitude of the electric force but in different directions. 
+> Even though the proton and electron have very different masses (by a factor of a thousand), the magnitude of their electric charge is the same at $e = \pm 1.602\times10^{-19}$ C. They usually feel the same magnitude of the electric force but in different directions. 
 
 ## Circuits
 

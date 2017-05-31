@@ -15,7 +15,7 @@ As far as we know the electron has no substructure (it is not made of anything e
 
 The electromagnetic force acts on every particle that is charged. As we saw in week #1, the electron has one unit of negative electric charge. The proton has one unit of positive electric charge and the neutron is neutral and has zero electric charge. This means that the neutron does not feel the electric force while the electron and the proton do.
 
-Experiments show that all charges that we see comes in integer units of an **elementary charge**  _e_.
+Experiments show that all charges that we see comes in integer units of an elementary charge _e_.
 
 $ e = 1.602\times10^{-19}$ Coulombs
 

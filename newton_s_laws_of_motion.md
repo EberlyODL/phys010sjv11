@@ -1,7 +1,7 @@
 The basic laws of motion were discovered/synthesized by Isaac Newton in the 17<sup>th</sup> century. We now know that these laws are not quite right; they are corrected by both relativity and quantum mechanics (as we will see later). For most motion of large objects at normal speed, the corrections are very small and Newton's laws work beautifully well. 
 
 Since this is a class on modern physics, we will not spend much time on Newton's laws. 
-We do need to discuss still to build a foundation for what is to come. 
+We still need to discuss them to build a foundation for what is to come. 
 
 ### The First law.
 
@@ -17,7 +17,7 @@ This law essentially defined the notion of an inertial reference frame as we dis
 > 
 > _$F= ma$. The force is the mass of the object times its acceleration._
 
-Acceleration measures the change in velocity per unit of time. We denote change using the $\Delta$ with means the difference between the end and beginning.
+Acceleration measures the change in velocity per unit of time. We denote change using the $\Delta$ symbol which means the difference between the end and beginning.
 
 So the time interval between some initial time $t_i$ and some final time $t_f$ is expressed as $\Delta t = t_f -t_i$.
 
