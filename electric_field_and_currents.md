@@ -32,7 +32,7 @@ When you discharge a capacitor, you get an electric current. The definition is s
 
 $I = Q/\Delta t$
 
-The current $I$ is the amount of charge Q (in Coulombs) passing some point per amount of time. The unit for current is called the Ampere and 1 Amp is equal to 1 Coulomb/s.
+The current $I$ is the amount of charge Q (in Coulombs) passing some point per amount of time. The unit for current is called the Ampere (abbreviated Amp) and 1 Amp is equal to 1 Coulomb/s.
 
 - S: How many electrons does that represent?
 - M: Remember that the charge of an electron is $1.602\times10^{-19} C$. So 1 Coulomb/s (one amp) is $6.2 \times 10^{18}$ electrons per seconds.
