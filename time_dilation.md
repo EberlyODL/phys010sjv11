@@ -22,7 +22,7 @@ Now another observer passes by and he/she measures the time on his/her clock (de
 
 > prime quantity is just a notation to differentiate between two cases. Here $\Delta t$ is the time interval measured by the observer at rest.  $\Delta t'$ is the time interval measure by the observer moving
 
-  As you can see from the figure on the bottom, the distance travelled as seen by the observer moving is bigger. But the speed is supposed to be the same. Since $\Delta t' = \frac{\rm{distance}}{c}$ and the distance is bigger, it must be that the time is longer
+  As you can see from the figure 6, the distance travelled as seen by the observer moving is bigger that as seen from the observer at rest with respect to the mirrors. We have that $2D>2L$, the factor of 2 is because the light goes back and forth. But the speed is supposed to be the same. Since $\Delta t' = \frac{\rm{distance}}{c}$ and the distance is bigger, it must be that the time is longer
 
 $\Delta t' > \Delta t $
 
