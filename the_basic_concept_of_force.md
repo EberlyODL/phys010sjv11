@@ -1,4 +1,4 @@
-We are now ready to start learning the rule of the games! We have seen all the building blocks of Nature (see fig). We can arrange them in pairs. First there is space and time, the tapestry on which everything moves.
+We are now ready to start learning the rule of the games! We have seen all the building blocks of Nature (see fig below). We can arrange them in pairs. First there is space and time, the tapestry on which everything moves.
 
 We then have the "stuff" of Nature, which can either be particles or waves.
 
