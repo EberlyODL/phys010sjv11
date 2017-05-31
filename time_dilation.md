@@ -18,7 +18,7 @@ This is just distance divided by the speed, in this case the speed of light.
 
 [ciscode|rev=1|tool=elmsmedia|item=982|entity_type=node|render=display_mode|display_mode=image]
 
-Now another observer passes by and he/she measures the time on his/her clock (denoted $\Delta t'$ pronounced "delta t prime) between the start and the end of the pulse of light.
+Now another observer passes by and he/she measures the time on his/her clock (denoted $\Delta t'$ pronounced "delta t prime") between the start and the end of the pulse of light.
 
 > prime quantity is just a notation to differentiate between two cases. Here $\Delta t$ is the time interval measured by the observer at rest.  $\Delta t'$ is the time interval measure by the observer moving
 
