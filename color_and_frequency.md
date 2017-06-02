@@ -16,7 +16,7 @@ The figure show a range of frequency for electromagnetic waves. A small fraction
 
 The important thing to remember is that all of these seemingly different waves are really just one and the same type: the electromagnetic (E&M) wave.
 
-- M: Try this, Sophie. Look around you. In the room where you are standing is an E and B field extending everywhere. Think of it as "mattress." On this "mattress," there are traveling ripples with short wavelength from all the light sources, there are bigger wavelength ripples because your body and most other objects emit infrared light. There are radio (and microwaves) ripples from all the radio stations and cell phone towers.
+- M: Try this, Sophie. Look around you. In the room where you are standing is an E and B field extending everywhere. Think of it as a "mattress." On this "mattress," there are traveling ripples with short wavelength from all the light sources, there are also bigger wavelength ripples because your body and most other objects emit infrared light. There are radio (and microwaves) ripples from all the radio stations and cell phone towers.
 - S: All of these waves are there together?
 - M: Yep—all traveling disturbances in the E & B field surrounding you.
 - S: Wow, don't they interact with each other?
@@ -24,11 +24,11 @@ The important thing to remember is that all of these seemingly different waves a
 - S: And we detect only the ripples of visible light?
 - M: Almost. We can feel infrared light if there is enough of it (infrared heat lamp). We don't see UV light, X-rays or gamma-rays, but we can get cancer from them (which is one bad way of detecting that they are there!).
 - S: I guess by 'detecting,' I meant see with our eyes.
-- M: Well then, it's true, we only see a very, very small fraction of all the E&M ripples out there. As you can you see in the picture below (Fig. 11) which also shows the range of frequency we can hear, we are all very much blind and deaf!
+- M: Well then, it's true, we only see a very, very small fraction of all the E&M ripples out there. As you can you see in the fig "sensing". We are all very much blind and deaf!
 
-<div class="figurelabel"><div class="figurelabel__title">Figure 11 </div><div class="figurelabel__desc">Range of frequencies of light and sound that we can detect with our ears and eyes. </div></div>![show range of frequency for sound and ligth](https://online.science.psu.edu/sites/default/files/phys010/deafblind.png "Fig. 11  Range of frequencies of light and sound that we can detect with our ears and eyes. ")
+[ciscode|rev=1|tool=elmsmedia|item=2181|entity_type=node|render=display_mode|display_mode=image]
 
-Color 
-------
+## Color
 
-Even in the small range of frequencies and wavelengths that we can detect, the visible spectrum, we can make further subdivision. Our eyes can detect the differences between a light wave of 600 nm versus 400 nm where (1 nm = 1 nanometer = \(10^{-9}\) m) and these differences are interpreted in our brain as different colors. Below is the spectrum of light:![spectrum of light from purple to red from 400 nm to 700nm](https://online.science.psu.edu/sites/default/files/phys010/W7photon/Rendered_Spectrum.png "Fig 12. Rainbow spectrum of colors for visible light. ")
+Even in the small range of frequencies and wavelengths that we can detect, the visible spectrum, we can make further subdivision. Our eyes can detect the differences between a light wave of 600 nm versus 400 nm where (1 nm = 1 nanometer = $10^{-9}$ m) and these differences are interpreted in our brain as different colors. Below is the spectrum of light:
+[ciscode|rev=1|tool=elmsmedia|item=2183|entity_type=node|render=display_mode|display_mode=image]
