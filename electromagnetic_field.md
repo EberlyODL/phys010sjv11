@@ -27,8 +27,6 @@ The main message about magnetism that you should remember is that when an electr
 
 As it turns out, the reverse is also true. A **changing magnetic field B creates an electric field E.** This is the last key discovery about electricity. It was made by Michael Faraday and it really showed that electricity and magnetism are really linked together into one theory of _electromagnetism_. Here is a short demo about it.
 
-<iframe allowfullscreen="" frameborder="0" height="315" scrolling="no" src="https://www.youtube.com/embed/QQRn00ho_4s?rel=0" width="560"></iframe>
-
-### Explanation Follow-up
-
-<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/xcMTaL2GDTc?rel=0" width="560"></iframe>
+[ciscode|rev=1|tool=elmsmedia|item=2160|entity_type=node|render=display_mode|display_mode=mediavideo]
+ 
+[ciscode|rev=1|tool=elmsmedia|item=2162|entity_type=node|render=display_mode|display_mode=mediavideo]
