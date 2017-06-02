@@ -61,5 +61,13 @@
     * [Batteries and the Volt](batteries_and_the_volt.md)
     * [Newsflash 5](newsflash_5.md)
     * [Week 5 Summary](week_6_summary.md)
+  * [Electromagnetism & Light](week_8_electromagnetism_light.md)
+    * [AC/DC and Magnetism](ac_dc_and_magnetism_.md)
+    * [Electromagnetic Field](electromagnetic_field.md)
+    * [Generator & Transformer](generator_transformer.md)
+    * [Light as a Wave](light_as_a_wave.md)
+    * [Color and Frequency](color_and_frequency.md)
+    * [Newsflash 6](newsflash_6.md)
+    * [light_interference.md](light_interference.md)
 * [End of Book](README.md)
 
