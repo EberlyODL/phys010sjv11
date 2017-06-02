@@ -1,21 +1,15 @@
-AC current
-----------
-
-The current coming out of the plug in the wall alternates direction. In the US, the current and the voltage alternate between 170 V and -170 V (the minus sign means the polarity has changed and the electrons move in the other direction). It alternates with a frequency of 60 Hz so it goes through 60 cycles (back and forth) every seconds. The "effective" voltage that one gets from this kind of source is 120V.
+The current coming out of the plug in the wall alternates direction. This is alternate current (AC).  In the US, the current and the voltage alternate between 170 V and -170 V (the minus sign means the polarity has changed and the electrons move in the other direction). It alternates with a frequency of 60 Hz so it goes through 60 cycles (back and forth) every seconds. The "effective" voltage that one gets from this kind of source is 120V.
 
 - S: But why, why is it this way? Why those numbers?
-- M: The reason the electric company sends you AC and not a direct current with a fixed voltage is to save energy. The big advantage of AC current is that it can use a machine called the transformer.
+- M: The reason the electric company sends you AC and not a direct current (called DC) with a fixed voltage is to save energy. The big advantage of AC current is that it can use a machine called the transformer.
 - S: The transformer? What is that?
 - M:It's pretty important, but we need to learn about magnetism first!
 - S: Okay. And the numbers, 120 V and 60 Hz---is there any significance?
 - M: These are somewhat arbitrary. This is something we chose when we first constructed the grid. In Europe they used, 240 V and 50 Hz.
 
-Magnetism
----------
+## Magnetism and the Magnetic Field
 
 To understand why we use AC current, we need to learn about magnetism. Natural permanents magnets are actually hard to explain. Fortunately, it is easy to create an artificial magnet by simply moving electrons around. This is called an _electromagnet_.
-
-### Magnetic Field
 
 As we saw, any object that has an electric charge will source an electric field E which exists everywhere in space and can be represented by field lines that are more or less dense depending on the magnitude of the electric field. The electric field has a direction and "sinks in" negatively charged objects while it "comes out" of positively charged ones.
 
