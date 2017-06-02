@@ -62,4 +62,6 @@ In the following demo, I will show you a transformer in action!
 
 But in your house, high voltage would be dangerous and unusable. Fortunately, it is easy to change the voltage using a transformer.
 
+[ciscode|rev=1|tool=elmsmedia|item=2171|entity_type=node|render=display_mode|display_mode=image__boxed__right]
+
 The transformer only works with AC current and this is ultimately why that's the current we get in our house!
