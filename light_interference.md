@@ -14,7 +14,7 @@ Superposition and interference are really synonyms for us (superposition is more
 
 Constructive interference occurs when the two waves are exactly in phase (left in figure "constructive and destructive interference") while destructive interference occurs when they are exactly out of phase (right on the same figure).
 
-<iframe src="https://h5p.org/h5p/embed/85372" width="1090" height="638" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[ciscode|rev=1|tool=elmsmedia|item=1864|entity_type=node|render=display_mode|display_mode=image]
 
 The destructive interference happens when one wave is shifted compared to other by an amount that is half a wavelength.
 
