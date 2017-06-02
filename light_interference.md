@@ -1,24 +1,16 @@
 In lab #1, you showed that the interference pattern from the double slit experiment is evidence of the notion that light must be a wave. The pattern of dark and bright spots that one gets after a light wave goes through a slit or two slits is impossible to explain if light is just made of particles.
 
-![interference from single and double slit](https://online.science.psu.edu/sites/default/files/phys010/W3waves/Single_%26_double_slit_experiment.jpg)
+[ciscode|rev=1|tool=elmsmedia|item=943|entity_type=node|render=display_mode|display_mode=image]
 
 Let's look at interference in more details.
 
-Interference
-------------
+## Interference
 
 If you have multiple waves in the same medium, you can just superpose them to get the resulting wave. Try this.
 
-<div class="question">Q. If these two waves were moving through water at the same time, what would the water look like?
+<iframe src="https://h5p.org/h5p/embed/85372" width="1090" height="638" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-![two water waves of two different shapes.](https://online.science.psu.edu/sites/default/files/phys010/W7photon/waterwaves.png)
-
-1. [![](https://online.science.psu.edu/sites/default/files/phys010/W7photon/waterwavesA.png)](#)**No.** The right pulse is not quite correct.
-2. [![](https://online.science.psu.edu/sites/default/files/phys010/W7photon/waterwavesB.png)](#)**No.** The right pulse is not quite correct.
-3. [![](https://online.science.psu.edu/sites/default/files/phys010/W7photon/waterwavesC.png)](#)**No.** The left pulse should cancel out.
-4. [![](https://online.science.psu.edu/sites/default/files/phys010/W7photon/waterwavesD.png)](#) **Correct!** The left pulse cancels out, while the right pulse doubles!
-
-</div>Superposition and interference are really synonyms for us (superposition is more general).
+Superposition and interference are really synonyms for us (superposition is more general).
 
 Constructive interference occurs when the two waves are exactly in phase (left in Fig. 15) while destructive interference occurs when they are exactly out of phase (right in Fig. 15 below).
 
