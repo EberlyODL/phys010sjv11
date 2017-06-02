@@ -77,6 +77,10 @@
     * [The Experimental Setup of the Photoelectric Effect](the_experimental_setup_of_the_photoelectric_effect.md)
     * [Turning Points and Potential Energy Graph](turning_points_and_potential_energy_graph.md)
     * [Photoelectric Effect](photoelectric_effect.md)
-    
+    * [Actually doing the experiment.](actually_doing_the_experiment_.md)
+    * [The Quanta](the_quanta.md)
+    * [Light is a "Particle-Wave"](light_is_a_particle_wave_.md)
+    * [Photo-electric explained](photo_electric_explained.md)
+    * [Week 7 Summary](week_9_summary.md)
 * [End of Book](README.md)
 
