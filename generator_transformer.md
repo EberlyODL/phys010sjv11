@@ -4,13 +4,16 @@ Again lets repeat the main message about magnetism that you should remember.
 
 and
 
-**A changing** **magnetic field B** **creates an** **electric field E**
+**A changing magnetic field B creates an electric field E**
 
 The first is how a current of electrons can create an electromagnet. The latter is the key to understand the electric generator and the transformer.
 
-Let's explore this last concept with the following JAVA simulation. You can either click on the picture below but if that does not work you can also download the simulation directly from [here](http://phet.colorado.edu/sims/faraday/faraday_en.jar) or at the [Phet website](https://phet.colorado.edu/en/simulation/faraday).
+Let's explore this last concept with the following JAVA simulation. You can either click on the picture below but if that does not work you can also download the simulation directly from the website <a href="https://phet.colorado.edu/en/simulation/faraday" target="_blank">Phet website</a>
 
-<div style="position: relative; width: 300px; height: 225px;">[![Faraday's Electromagnetic Lab](http://phet.colorado.edu/sims/faraday/faraday-screenshot.png)](http://phet.colorado.edu/sims/faraday/faraday_en.jnlp)<div style="position: absolute; width: 200px; height: 80px; left: 50px; top: 72px; background-color: #FFF; opacity: 0.6; filter: alpha(opacity = 60);"></div><table style="position: absolute; width: 200px; height: 80px; left: 50px; top: 72px;"><tbody><tr><td style="text-align: center; color: #000; font-size: 24px; font-family: Arial,sans-serif;">[Click to Run](http://phet.colorado.edu/sims/faraday/faraday_en.jnlp)</td></tr></tbody></table></div>1. First, look at the bar magnet and move it around. You can see how the magnetic field (represented by small compasses at each point in space) changes. _At each point in space the magnetic field has some value and some direction._
+<div style="position: relative; width: 300px; height: 197px;"><a href="https://phet.colorado.edu/sims/faraday/faraday_en.jnlp" style="text-decoration: none;"><img src="https://phet.colorado.edu/sims/faraday/faraday-screenshot.png" alt="Faraday's Electromagnetic Lab" style="border: none;" width="300" height="197"/><div style="position: absolute; width: 200px; height: 80px; left: 50px; top: 58px; background-color: #FFF; opacity: 0.6; filter: alpha(opacity = 60);"></div><table style="position: absolute; width: 200px; height: 80px; left: 50px; top: 58px;"><tr><td style="text-align: center; color: #000; font-size: 24px; font-family: Arial,sans-serif;">Click to Run</td></tr></table></a></div>
+
+
+1. First, look at the bar magnet and move it around. You can see how the magnetic field (represented by small compasses at each point in space) changes. _At each point in space the magnetic field has some value and some direction._
 2. Second, look at the pickup coil tab, try to move the bar magnet. As you move the bar magnet around, the magnetic field in the wire of the coil changes. As the magnetic field changes, it creates an electric field that then imparts a force on the electron and makes it move. We get a current, the light bulb lights up!
 
 <div class="question">Q. From the simulation can you tell in which situation would the light shine brighter?
