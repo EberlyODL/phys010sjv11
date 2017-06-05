@@ -71,7 +71,7 @@
     * [light\_interference.md](light_interference.md)
     * [Week 6 Summary](week_8_summary.md)
   * [Week 7: Light as a particle](week_9_light_as_a_particle.md)
-    * [The Crooke's Tube](the_crooke_s_tube.md)
+    * [The Crookes Tube](the_crooke_s_tube.md)
     * [Ejecting electrons](ejecting_electrons.md)
     * [newsflash\_7.md](Newsflash 7)
     * [The Experimental Setup of the Photoelectric Effect](the_experimental_setup_of_the_photoelectric_effect.md)
