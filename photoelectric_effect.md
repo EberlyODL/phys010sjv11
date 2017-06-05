@@ -42,4 +42,6 @@ where e is the charge of the electron. The stopping potential is the minimum vol
 
 -Voltage is energy per charge. This means that charge times voltage is an energy. We define a new unit of energy, the electron volt eV, to be the charge of an electron $1.602\times 10^{-19}$ C times one volt 
 
-1 eV = $1.602\times 10^{-19}\;\rm{C}\times\;1;\rm{Volt} = 1.602\times 10^{-19}$ Joules
+1 eV = $1.602\times 10^{-19}\;\rm{C}\times\;1;\rm{Volt} = 1.602\times 10^{-19}$ Joules
+
+> This unit of energy is much smaller than Joules and more practical for the electrons and atoms. We will use it often. 
