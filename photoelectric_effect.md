@@ -37,3 +37,8 @@ $K = U = e V_{stop}$
 where e is the charge of the electron. The stopping potential is the minimum voltage needed to stop the electrons (higher voltage just make the electron stop and turn earlier than the anode). 
 
 > The stopping potential is the minimum energy to stop and it thus equal to kinetic energy of the ejected electrons. 
+
+## A unit of energy: the electron-volt.
+-Voltage is energy per charge. This means that charge times voltage is an energy. We define a new unit of energy, the electron volt eV, to be the charge of an electron $1.602\times 10^{-19}$ C times one volt 
+
+1 eV = $1.602\times 10^{-19}\;\rm{C}\times\;1;\rm{Volt} = 1.602\times 10^{-19}$ Joules
