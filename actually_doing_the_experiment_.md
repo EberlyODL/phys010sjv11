@@ -24,7 +24,7 @@ The answers to these questions changed the way we look at the world. In your lab
 
 First let's look at what happens when we change the intensity.
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/kgyVuaSP-HQ?rel=0" width="420"></iframe>
+[ciscode|rev=1|tool=elmsmedia|item=2224|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 ## Explanation Follow-up
 
