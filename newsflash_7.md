@@ -1,6 +1,7 @@
 The photoelectric effect is sometimes called the photovoltaic effect and it is how we convert sun's light to electricity.
 
-- [Recent Progress In Solar Cell Technology](http://www.sciencedaily.com/releases/2013/05/130506094511.htm)
+
+<a href="http://www.sciencedaily.com/releases/2013/05/130506094511.htm" target="_blank">Recent Progress in Solar Cell Technology</a>
 
 Solar cell technology is a field of very active research nowadays. If we average over the full surface of the planet, we find that the sun gives us about 164 Watts of power per square meter.
 
