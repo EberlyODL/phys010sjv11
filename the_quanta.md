@@ -38,6 +38,8 @@ $h = 6.63\times 10^{-34}\;J\cdot s = 4.14\times 10^{-15} \rm{eV}\cdot s$
 
 where we can write the units as Joules times second or electron volt (1 eV = $1.602\times10^{-19}$ J) times second. Einstein then supposed that when light interacts with electrons, it is an all-or-nothing business. The electrons can absorb only 1 quanta of light (not 1.5 not 2).
 
+> Just a reminder that eV is just a (very small) unit of energy 1 eV = $1.602\times 10^{-19}$ Joules
+
 Einstein's equation $E = hf $ is super simple and important. I do expect you to be able to use it, so let's practice.
 
 Let's see how this could work. Imagine that the electrons in a metal like zinc are in a potential well (like a pool) that is 3 eV (3 electron volts) in depth.
