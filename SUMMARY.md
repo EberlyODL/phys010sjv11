@@ -73,7 +73,7 @@
   * [Week 7: Light as a particle](week_9_light_as_a_particle.md)
     * [The Crookes Tube](the_crooke_s_tube.md)
     * [Ejecting electrons](ejecting_electrons.md)
-    * [newsflash\_7.md](Newsflash 7)
+    * [Newsflash 7](newsflash_7.md)
     * [The Experimental Setup of the Photoelectric Effect](the_experimental_setup_of_the_photoelectric_effect.md)
     * [Turning Points and Potential Energy Graph](turning_points_and_potential_energy_graph.md)
     * [Photoelectric Effect](photoelectric_effect.md)
