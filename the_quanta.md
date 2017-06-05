@@ -1,7 +1,8 @@
 Einstein's Explanation. 
 ------------------------
 
-Einstein's miraculous year of 1905 was truly miraculous. It is often referred to as the [Annus Mirabilis](http://en.wikipedia.org/wiki/Annus_Mirabilis_papers). He was 26 years old and in that year he published the following 4 papers:
+In 1905, Einstein had a very productive year.  It is often referred to as the 
+<a href="http://en.wikipedia.org/wiki/Annus_Mirabilis_papers" target="_blank">Annus Mirabilis</a>. He was 26 years old and in that year he published the following 4 papers:
 
 1. **Photoelectric Effect**: "_On a Heuristic Viewpoint Concerning the Production and Transformation of Light_" [Original](http://www.physik.uni-augsburg.de/annalen/history/einstein-papers/1905_17_132-148.pdf) and [translated](http://en.wikisource.org/wiki/On_a_Heuristic_Point_of_View_about_the_Creation_and_Conversion_of_Light): This is this week's subject of study. This is the work for which Einstein won the Nobel Prize.
 2. **Brownian Motion**: _"On the Motion of Small Particles Suspended in a Stationary Liquid, as Required by the Molecular Kinetic Theory of Heat._" [Original](http://www.physik.uni-augsburg.de/annalen/history/einstein-papers/1905_17_549-560.pdf) and [translated](http://users.physik.fu-berlin.de/~kleinert/files/eins_brownian.pdf): This paper on Brownian motion was the final proof for atoms (revisit week 1) and started the field of physics known as statistical mechanics.
