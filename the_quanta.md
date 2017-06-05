@@ -44,18 +44,6 @@ Let's see how this could work. Imagine that the electrons in a metal like zinc a
 
 [ciscode|rev=1|tool=elmsmedia|item=2226|entity_type=node|render=display_mode|display_mode=image]
 
-<div class="question">Q. Let's say we shine a UV light with frequency $8.02 \times 10^{14}$ Hz. What happens?
+<iframe src="https://h5p.org/h5p/embed/86038" width="1090" height="386" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-1. [The electron absorbs one photon and escapes the well.](#)**Correct!** This is a very simple equation but you need to get out your calculator. The energy of a UV photon with this frequency is $E= 4.14\times 10^{-15} \rm{eV}\;s \times 8.02 \times 10^{14}\; 1/s = 3.32 $ eV which is enough to escape the box (with 0.32 eV of kinetic energy left to spare and make it to the anode).
-2. [The electron absorbs multiple photons and escapes the well.](#)**No.** Each interaction is one photon at a time.
-3. [The electron absorbs one photon but remains in the well.](#)**No.** The photon has enough energy
-4. [None of the above.](#)**No.**
-
-</div><div class="question">Q. Lets say a shine yellow light with frequency $5.19 \times 10^{14}$ Hz. What happens?
-
-1. [The electron absorbs one photon and escapes the well.](#)**No.** Not enough energy.
-2. [The electron absorbs multiple photons and escapes the well.](#)**No.** Each interaction is one photon at a time.
-3. [The electron absorbs one photon but remains in the well.](#)**Correct!** Again, you need to get out your calculator: The energy of a yellow photon with this frequency is $E= 4.14\times 10^{-15} \rm{eV}\;s \times 5.19 \times 10^{14}\; 1/s = 2.14$ eV which is _not enough_ to escape the box.
-4. [None of the above.](#)**No.**
-
-</div>
+<iframe src="https://h5p.org/h5p/embed/86039" width="1090" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
