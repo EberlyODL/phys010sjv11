@@ -8,17 +8,17 @@ In 1905, Einstein had a very productive year.  It is often referred to as the
 This is this week's subject of study. This is the work for which Einstein won the Nobel Prize.
 
 2. **Brownian Motion**: _"On the Motion of Small Particles Suspended in a Stationary Liquid, as Required by the Molecular Kinetic Theory of Heat._" 
-<a href="http://www.physik.uni-augsburg.de/annalen/history/einstein-papers/1905_17_549-560.pdf" target="_blank">Original</a>
+<a href="http://www.physik.uni-augsburg.de/annalen/history/einstein-papers/1905_17_549-560.pdf" target="_blank">Original</a> and 
 <a href="http://users.physik.fu-berlin.de/~kleinert/files/eins_brownian.pdf" target="_blank">Translated</a>
  This paper on Brownian motion was the final proof for atoms (revisit week 1) and started the field of physics known as statistical mechanics.
  
 3. **Special Relativity**: "_On the Electrodynamics of Moving Bodies,_" 
-<a href="http://wikilivres.ca/wiki/Zur_Elektrodynamik_bewegter_K%C3%B6rper" target="_blank">Original</a>
+<a href="http://wikilivres.ca/wiki/Zur_Elektrodynamik_bewegter_K%C3%B6rper" target="_blank">Original</a> and
 <a href="http://www.fourmilab.ch/etexts/einstein/specrel/www/" target="_blank">Translated</a>
  In this paper, Einstein extended the principle of relativity to include electrodynamics and showed that the speed of light was constant in all reference frames.
 
 4.  **Energy Mass Equivalence**: "_Does the Inertia of a Body Depend Upon Its Energy Content?_" 
-<a href="http://www.physik.uni-augsburg.de/annalen/history/einstein-papers/1905_18_639-641.pdf" target="_blank">Original</a>
+<a href="http://www.physik.uni-augsburg.de/annalen/history/einstein-papers/1905_18_639-641.pdf" target="_blank">Original</a> and
 <a href="http://www.fourmilab.ch/etexts/einstein/E_mc2/www/" target="_blank">Translated</a>
 This was a direct consequence of the previous paper. He showed, among other things, that $E = mc^2$.
 
