@@ -4,7 +4,7 @@ Before we look into more details of the photoelectric effect, let us have a look
 
 - S: Can you remind me again what is potential energy?
 - M: Sure, there is a potential energy for each force. Right now, the only force you have studied is the electric force which, as you remember, is the charge q times the electric field (not energy) $F=qE$.
-- S: Yes I remember that.
+- S: Yes, I remember that.
 - M: Ok, well another way to think about the force is in term of electric potential energy U. Think of the electric potential energy as being a roller-coaster or skate park like we saw in week 2. This potential energy is everywhere in space (just like the electric field) and you can find the force on a particle by simply looking at the **slope** of the potential. The steeper the slope, the stronger the electric force.
 
 > If you are in area where the potential energy is varying quickly, you will find a big force in the direction of lower energy. If you are in area where the potential energy is constant, you will not feel any force. 
