@@ -17,7 +17,7 @@ This is this week's subject of study. This is the work for which Einstein won th
 <a href="http://www.fourmilab.ch/etexts/einstein/specrel/www/" target="_blank">Translated</a>
  In this paper, Einstein extended the principle of relativity to include electrodynamics and showed that the speed of light was constant in all reference frames.
 
-4. **Energy Mass Equivalence**: "_Does the Inertia of a Body Depend Upon Its Energy Content?_" 
+4.  **Energy Mass Equivalence**: "_Does the Inertia of a Body Depend Upon Its Energy Content?_" 
 <a href="http://www.physik.uni-augsburg.de/annalen/history/einstein-papers/1905_18_639-641.pdf" target="_blank">Original</a>
 <a href="http://www.fourmilab.ch/etexts/einstein/E_mc2/www/" target="_blank">Translated</a>
 This was a direct consequence of the previous paper. He showed, among other things, that $E = mc^2$.
