@@ -11,7 +11,7 @@ In the current vs frequency, we see that the electric current only start once so
 The figure "Current vs Voltage" shows another strange aspect of the photoelectric effect. As you increase the intensity of the light, you get a bit more current but the stopping potential (and thus the kinetic energy of each electrons) does not seem to change. 
 
 
-> Fig. 9 "Current vs Frequency" shows that there is a threshold frequency $f_0$ below which nothing happens. Fig. "Current vs Voltage" shows that, for positive potential, I can have a large current, and for any intensity of the light, the stopping potential $V_{stop}$ remains unchanged
+> Fig. "Current vs Frequency" shows that there is a threshold frequency $f_0$ below which nothing happens. Fig. "Current vs Voltage" shows that, for positive potential, I can have a large current, and for any intensity of the light, the stopping potential $V_{stop}$ remains unchanged
 
 The standard idea of physics that light is a wave that excites the electrons "out of the swimming pool" explains nicely why the current (denoted I in the figures) is proportional to the intensity, but some of these experimental facts remain completely mysterious.
 
