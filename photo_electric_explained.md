@@ -4,15 +4,15 @@ We can now go back to explain the parts of the photoelectric experiments that we
 
 > because the electrons receive the energy of each photon E = hf. They can only get out of the metal if that energy is above the minimum energy cost to get out (called work function). So this makes sense now. **Explained!**
 
-1. _**The electrons are ejected as soon as the light is turned on. Weird, with a flame, it takes a while to warm up the electrons**._
+2. _**The electrons are ejected as soon as the light is turned on. Weird, with a flame, it takes a while to warm up the electrons**._
 
 > The energy of the electrons increase by a quantum amount as soon as they absorb a photon. This is not a slow buildup, this is instantaneous. **Explained!**
 
-1. The more intense the light is, the greater the number of ejected electrons. Normal, the bigger the flame, the more electrons there should be.
+3. The more intense the light is, the greater the number of ejected electrons. Normal, the bigger the flame, the more electrons there should be.
 
 > This one was never weird. More intense light means more photons which will eject more electrons.
 
-1. **_The energy of the electrons does not increase with more intense light. Weird, you get more electrons but their individual energy does not change?_**
+4. **_The energy of the electrons does not increase with more intense light. Weird, you get more electrons but their individual energy does not change?_**
 
 > The energy of the electrons will be the energy of the photons hf minus the energy cost to get out (work function). This does not depend on the intensity of light. **Explained!**
 
