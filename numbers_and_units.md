@@ -59,7 +59,7 @@ Many choices are possible for the three basic units of length, mass and time:
 - English foot, slug , second
 - and many others. . .
 
-We will use SI units in this course, but it is useful to know conversions between systems for making estimates from your everyday knowledge.
+We will use SI units in this course (SI stands for Systeme International), but it is useful to know conversions between systems for making estimates from your everyday knowledge.
 
 ### External resources:
 
