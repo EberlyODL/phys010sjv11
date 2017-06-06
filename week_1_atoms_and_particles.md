@@ -1,7 +1,5 @@
 ## Welcome to Phys 010: Physics Behind the Headlines!
 
-\[ciscode\|rev=1\|tool=elmsmedia\|item=2057\|entity\_type=node\|render=display\_mode\|display\_mode=mediavideo\_\_poster\]
-
 In the weekly lessons, you will often see many discussions between Sophie and Marie. Sophie is a virtual student at Penn State and just like you she is super interested in learning physics and she is full of questions. Marie is a successful \(but still virtual :\) graduate student in physics who will try to answer all of Sophie's questions.
 
 * Sophie: Hi there everybody! As this class is online you cannot ask questions in the lecture. But I am a virtual person...
@@ -23,7 +21,7 @@ The full list of objectives can be found on Canvas
 
 1. LOPro01 read and interpret graphs and data
 2. LOPro02 calculate with large and small numbers using the scientific notation.
-3. LOPW01 recall the properties of electrons, protons and neutrons. 
+3. LOPW01 recall the properties of electrons, protons, neutrons and atoms. 
 
 All readings and assignments can be found on Canvas.
 
