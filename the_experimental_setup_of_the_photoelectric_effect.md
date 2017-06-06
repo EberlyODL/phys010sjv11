@@ -2,9 +2,9 @@
 
 Just to review, the basic idea of the photoelectric experiment is as follows.
 
-> _By sending light on a metal target we see that electrons are ejected. These electrons create a detectable current. By applying a voltage we can change the current, and determine both the number of electrons ejected and their individual energy. By shining light with different frequency and various intensities, we can study in detail the interaction between light and electrons._
+> _By sending light on a metal target we see that electrons are ejected. These electrons create a detectable current. By applying a voltage, we can change the current, and determine both the number of electrons ejected and their individual energy. By shining light with different frequency and various intensities, we can study in detail the interaction between light and electrons._
 
-This seemingly simple experiment led to one of the most profound discoveries in physics. So we will spend this whole week looking at this in more detail.
+This seemingly simple experiment led to one of the most profound discoveries in physics. We will spend this whole week looking at this in more detail.
 
 You can download the simulation in the resources below, this is the basic for your lab this week.  Fig "Photoelectric setup" shows the basic setup and in the video, I go through the basic ideas. 
 
