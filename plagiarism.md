@@ -32,4 +32,4 @@ For students at Penn State, **plagiarism will** result sanctions. For more on ac
 
 ### External Resources
 
-- Wikipedia is the main source of plagiarism (and the easiest to spot). Here is a **very good** video from the PSU library: [How to use Wikipedia](https://www.libraries.psu.edu/psul/tutorials/wikipedia.html).
+- Wikipedia is the main source of plagiarism (and the easiest to spot). Here is a **very good** video from the PSU library: [How to use Wikipedia](https://libraries.psu.edu/how-use-wikipedia-tutorial).
