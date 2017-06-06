@@ -23,7 +23,9 @@ This is this week's subject of study. This is the work for which Einstein won th
 This was a direct consequence of the previous paper. He showed, among other things, that $E = mc^2$.
 
 S: Wow, quite a year!
+
 M: Yes, this is unparalleled. There have been many important discoveries in physics, but to have so many, in widely different subjects, in a single year is truly remarkable.
+
 S: What was Einstein's solution?
 
 ## Light is Quantized
