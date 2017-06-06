@@ -4,7 +4,7 @@ Another way to create a current is to have zero (or small) voltage but to warm u
 
 One can easily setup this experiment and when you do you find the following (very intuitive) characteristics
 
-1. it takes a some time under the flame before the first electrons are ejected. That is, there is a warming period. 
+1. it takes some time under the flame before the first electrons are ejected. That is, there is a warming period. 
 2. The hotter the cathode is the more electrons are ejected and the greater the current.
 3. The energy of the electrons ejected are higher if the cathode was warmed to higher temperature.
 
@@ -14,7 +14,7 @@ Now comes the interesting part. Imagine we decide that instead of warming with a
 
 These puzzles led us to better understand light and eventually led to the invention of quantum mechanics. This is the photoelectric effect -the subject of this week's lesson.
 
-We will explain the experiment in more details but let us summarize the salient points right away. The setup for the photoelectric effect is shown in Fig. "Scheamatic of Photoelectric Effect). Note the similarities with the Crookes tube.
+We will explain the experiment in more details but let us summarize the salient points right away. The setup for the photoelectric effect is shown in Fig. "Schematic of Photoelectric Effect). Note the similarities with the Crookes tube.
 
 [ciscode|rev=1|tool=elmsmedia|item=2201|entity_type=node|render=display_mode|display_mode=image]
 
