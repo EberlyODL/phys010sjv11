@@ -1,4 +1,4 @@
-Again lets repeat the main message about magnetism that you should remember.
+Again let us repeat the main message about magnetism that you should remember.
 
 **A changing electric field E creates a magnetic field B**
 
