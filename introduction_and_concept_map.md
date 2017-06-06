@@ -1,10 +1,10 @@
 ## Concept Map for Physics Behind the Headlines:
 
-Here are the main physics concepts we will discuss in this class. Throughout, we will use recent news article to introduce the subject but here I want you to see a bit ahead about what we will learn in terms of physics concepts.
+Here are the main physics concepts we will discuss in this class. Throughout, we will use recent news articles and events to introduce these subjects but here I want to show you the big picture about what we will learn in terms of physics concepts. 
 
 The class is divided in three units:
 
- **Unit 1: The basic building blocks of Nature:** These are 
+**Unit 1: The basic building blocks of Nature:** These are
 
 1. Particles
 2. Waves
@@ -19,16 +19,15 @@ In one sentence:
 
 We do not really know why this is what the world is made of. We observe experimentally that those are the building blocks of Nature.
 
- **Unit 2**: How things move and interact. Here we will study one particle in particular, the electron, and one wave in particular, the electromagnetic wave (light). We will see how they interact through the electromagnetic force and how the concepts of particles and waves get blurred in the quantum world.
+**Unit 2**: How things move and interact. Here we will study one particle in particular, the electron, and one wave in particular, the electromagnetic wave \(light\). We will see how they interact through the electromagnetic force and how the concepts of particles and waves get blurred in the quantum world.
 
- **Unit 3**: In the last part of the class, we will do a tour of the other forces of Nature. The nuclear forces and gravity. We will end by putting what we have seen together and looking at the cosmos!
+**Unit 3**: In the last part of the class, we will do a tour of the other forces of Nature. The nuclear forces and gravity. We will end by putting what we have seen together and looking at the cosmos!
 
-Throughout, the class, we will discuss recent news event.
-
-[ciscode|rev=1|tool=elmsmedia|item=406|entity_type=node|render=display_mode|display_mode=image]
+\[ciscode\|rev=1\|tool=elmsmedia\|item=406\|entity\_type=node\|render=display\_mode\|display\_mode=image\]
 
 ### Why is this class important for you?
 
 There is a lot to say but nobody said it better than Carl Sagan in this interview.
 
-[ciscode|rev=1|tool=elmsmedia|item=2058|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail]
+\[ciscode\|rev=1\|tool=elmsmedia\|item=2058\|entity\_type=node\|render=display\_mode\|display\_mode=mediavideo\_\_thumbnail\]
+
