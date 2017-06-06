@@ -2,7 +2,7 @@ Einstein's Explanation.
 ------------------------
 
 In 1905, Einstein had a very productive year.  It is often referred to as the 
-<a href="http://en.wikipedia.org/wiki/Annus_Mirabilis_papers" target="_blank">Annus Mirabilis</a>. He was 26 years old and in that year he published the following four papers:
+<a href="http://en.wikipedia.org/wiki/Annus_Mirabilis_papers" target="_blank">Annus Mirabilis</a>. He was 26 years old and in that year, he published the following four papers:
 
 1. **Photoelectric Effect**: "_On a Heuristic Viewpoint Concerning the Production and Transformation of Light_" <a href="http://www.physik.uni-augsburg.de/annalen/history/einstein-papers/1905_17_132-148.pdf" target="_blank">Original</a> and <a href="https://en.wikisource.org/?curid=59468" target="_blank">Translated</a>
 This is this week's subject of study. This is the work for which Einstein won the Nobel Prize.
@@ -24,7 +24,7 @@ This was a direct consequence of the previous paper. He showed, among other thin
 
 S: Wow, quite a year!
 M: Yes, this is unparalleled. There have been many important discoveries in physics, but to have so many, in widely different subjects, in a single year is truly remarkable.
-S: So what was Einstein's solution?
+S: What was Einstein's solution?
 
 ## Light is Quantized
 
