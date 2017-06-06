@@ -22,7 +22,7 @@ These are pretty clear cut violations of Penn State academic principles. What ab
 
 <iframe src="https://h5p.org/h5p/embed/74906" width="1090" height="484" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
  
-**How to avoid this.** Be careful at how you take notes!!
+**How to avoid this.** Be careful with how you take notes - avoid typing while reading. The best way to know you are writing with your own words is to close your source (book, browser, etc) while writing the notes. 
 
 ### Consequences of Plagiarism
 

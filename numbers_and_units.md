@@ -42,7 +42,7 @@ When you multiply or add large numbers in exponential forms, you just add or sub
 
 ### A Sense of Scale
 
-To get a sense of scale and how big and small things compare, look at the following web resources. The [One More Level Scale of the Universe website](http://www.onemorelevel.com/game/scale_of_the_universe_2012) offers a game that lets you zoom in and out in the universe.
+To get a sense of scale and how big and small things compare, look at the following web resources. The [ Scale of the Universe website](http://www.onemorelevel.com/game/scale_of_the_universe_2012) offers a game that lets you zoom in and out in the universe.
 
 Here is a good video from Derek of Veritasium reviewing many of the concepts we have just discussed regarding scientific notation followed by an order of magnitude question.
 [ciscode|rev=1|tool=elmsmedia|item=2065|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail]
