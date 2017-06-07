@@ -34,4 +34,4 @@ First let's look at what happens when we change the intensity.
 
 Now, the strangest part is the frequency dependence.
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/2pwV_0NBIMc?rel=0" width="420"></iframe>
+[ciscode|rev=1|tool=elmsmedia|item=2231|entity_type=node|render=display_mode|display_mode=mediavideo]
