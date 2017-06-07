@@ -6,7 +6,7 @@ A current (moving electrons) going thru a wire creates a magnetic field (B) arou
 
 An interesting configuration to set-up is to create a loop of wire in which the electrons are traveling in _a circle_. The loop of wire then behave just like a small bar magnet with a North and South pole. In some sense the electrons are spinning around and the movement creates a magnetic field.
 
-Compare the magnetic field created by a loop of current (a circular wire) (as show in figure "loop") to the one of a bar magnet (shown in figure "bar magnet").
+Compare the magnetic field created by a loop of current (a circular wire) (as shown in figure "loop") to the one of a bar magnet (shown in figure "bar magnet").
 
 [ciscode|rev=1|tool=elmsmedia|item=2152|entity_type=node|render=display_mode|display_mode=image]
 
@@ -14,7 +14,7 @@ Compare the magnetic field created by a loop of current (a circular wire) (as sh
 
 ## Electromagnet
 
-A small loop of current is not much of a magnet but if you have many loops of currents, you can create very powerful magnets. In fact, the most powerful magnets in the world are electromagnets. In fig "five loops", you can see the magnetic field lines created by 5 loops of currents. Then below you can see a "homemade electromagnet. Just take a wire loop it many times around nail, connect to a battery (be careful, it will warm up!) and you will have a magnet!
+A small loop of current is not much of a magnet but if you have many loops of currents, you can create very powerful magnets. In fact, the most powerful magnets in the world are electromagnets. In fig "five loops", you can see the magnetic field lines created by 5 loops of currents. Then below you can see a "homemade electromagnet". Just take a wire, loop it many times around a nail, connect to a battery (be careful, it will warm up!) and you will have a magnet!
 
 [ciscode|rev=1|tool=elmsmedia|item=2156|entity_type=node|render=display_mode|display_mode=image__left]
 
