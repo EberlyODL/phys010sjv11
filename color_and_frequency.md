@@ -12,7 +12,7 @@ For each corresponding frequency, we can find the corresponding wavelength $\lam
 
 [ciscode|rev=1|tool=elmsmedia|item=2179|entity_type=node|render=display_mode|display_mode=image]
 
-The figure show a range of frequency for electromagnetic waves. A small fraction of these frequencies is visible light. Other frequencies corresponds to waves which have different names like radio or microwave. In reality, they are all the same type of wave. Just different frequencies.
+The figure show a range of frequency for electromagnetic waves. A small fraction of these frequencies is visible light. Other frequencies corresponds to waves which have different names like radio or microwave. 
 
 The important thing to remember is that all of these seemingly different waves are really just one and the same type: the electromagnetic (E&M) wave.
 
