@@ -8,7 +8,7 @@ and
 
 The first is how a current of electrons can create an electromagnet. The latter is the key to understand the electric generator and the transformer as we will see now. 
 
-Let's explore this last concept with the following JAVA simulation. You can either click on the picture below but if that does not work you can also download the simulation directly from the website <a href="https://phet.colorado.edu/en/simulation/faraday" target="_blank">Phet website</a>
+Download the following simulation directly from the <a href="https://phet.colorado.edu/en/simulation/faraday" target="_blank">Phet website</a>
 
 1. First, look at the bar magnet and move it around. You can see how the magnetic field (represented by small compasses at each point in space) changes. _At each point in space the magnetic field has some value and some direction._
 2. Second, look at the pickup coil tab, try to move the bar magnet. As you move the bar magnet around, the magnetic field in the wire of the coil changes. As the magnetic field changes, it creates an electric field that then imparts a force on the electron and makes it move. We get a current, the light bulb lights up!
