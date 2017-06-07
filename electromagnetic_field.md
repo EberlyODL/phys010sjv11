@@ -18,7 +18,7 @@ A small loop of current is not much of a magnet but if you have many loops of cu
 
 [ciscode|rev=1|tool=elmsmedia|item=2156|entity_type=node|render=display_mode|display_mode=image__left]
 
-[ciscode|rev=1|tool=elmsmedia|item=2158|entity_type=node|render=display_mode|display_mode=image__left]
+[ciscode|rev=1|tool=elmsmedia|item=2158|entity_type=node|render=display_mode|display_mode=image]
 
 ## Changing E field
 The main message about magnetism that you should remember is that when an electron moves, the electric field E that it creates changes in time and a
