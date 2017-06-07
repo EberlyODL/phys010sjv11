@@ -27,7 +27,7 @@ Now look at the electromagnet tab. There you will find a battery that generates 
 
 <iframe src="https://h5p.org/h5p/embed/85349" width="1090" height="276" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-- S: So, that's why we use AC.
+- S: So, that's why we use AC (alternating current).
 - M: Well, actually, there is a more important reason....
 
 ## Transformer
@@ -40,7 +40,7 @@ The reason the light bulb lights up is because the AC current constantly changes
 
 This is a great tool as it allows us to change the voltage very efficiently.
 
-- S: This is pretty cool! So, the current goes in on the left (the red) and it goes on the blue, but the wires don't even touch!
+- S: This is pretty cool! So, in the figure, the current goes in on the left (the red) and it goes on the blue, but the wires don't even touch!
 - M: Yes, but there is a magnetic field in between.
 - S: Isn't there some kind of flow of energy in there?
 - M: Yes! The electrons coming in have kinetic energy, which they lose in creating the B field (the kinetic energy of the electron goes into the B field). The changing B field then moves the electrons in the blue loop.
