@@ -28,7 +28,7 @@ First let's look at what happens when we change the intensity.
 
 ## Explanation Follow-up
 
-<iframe allowfullscreen="" frameborder="0" height="315" scrolling="no" src="//www.youtube.com/embed/CvPguXt3rBE?rel=0" width="420"></iframe>
+[ciscode|rev=1|tool=elmsmedia|item=2230|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 ## Frequency
 
