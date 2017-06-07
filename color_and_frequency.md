@@ -8,7 +8,7 @@ Creating an electromagnetic wave is fairly easy, you just shake back and forth s
 
 In a radio antenna, we shake the electron at a frequency of $10^4$ Hz. This is 10,000 cycles per second! And this is the low frequency range! If you shake the electron with a frequency of $10^{12}$ Hz, you will get infrared light while $10^{15}$ Hz is the frequency of visible light.
 
-For each corresponding frequency, we can find the corresponding wavelength $\lambda = f/c$. For radio, the wavelength is about a 1 km while for visible light it is about 0.5 micrometers $\mu\; m = 10^{-6}\; m$. Look at fig "spectrum" below to get an idea of the range of electromagnetic waves.
+For each corresponding frequency, we can find the corresponding wavelength $\lambda = f/c$. For radio, the wavelength is about 1 km while for visible light it is about $0.5\mu m$ (where $\mu m = 10^{-6}\; m$). Look at fig "spectrum" below to get an idea of the range of electromagnetic waves.
 
 [ciscode|rev=1|tool=elmsmedia|item=2179|entity_type=node|render=display_mode|display_mode=image]
 
