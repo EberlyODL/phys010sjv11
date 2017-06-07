@@ -1,4 +1,4 @@
-An electron that just sits there creates an electric field. How can we get a magnetic field? The answer turns out to be: move the electron.
+An electron creates an electric field around it. How can we get a magnetic field? The answer turns out to be: move the electron.
 
 [ciscode|rev=1|tool=elmsmedia|item=2150|entity_type=node|render=display_mode|display_mode=image__left]
 
