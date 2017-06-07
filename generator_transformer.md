@@ -6,7 +6,7 @@ and
 
 **A changing magnetic field B creates an electric field E**
 
-The first is how a current of electrons can create an electromagnet. The latter is the key to understand the electric generator and the transformer.
+The first is how a current of electrons can create an electromagnet. The latter is the key to understand the electric generator and the transformer as we will see now. 
 
 Let's explore this last concept with the following JAVA simulation. You can either click on the picture below but if that does not work you can also download the simulation directly from the website <a href="https://phet.colorado.edu/en/simulation/faraday" target="_blank">Phet website</a>
 
