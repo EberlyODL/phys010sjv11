@@ -82,5 +82,16 @@
     * [Light is a "Particle-Wave"](light_is_a_particle_wave_.md)
     * [Photo-electric explained](photo_electric_explained.md)
     * [Week 7 Summary](week_9_summary.md)
+  * [Week 8: The Quantum World](week_10_the_quantum_world.md)
+    * [Light as a Wave and a Particle](light_as_a_wave_and_a_particle.md)
+    * [Probability Interlude](probability_interlude.md)
+    * [Partial Reflection and Oil Slick](partial_reflection_and_oil_slick.md)
+    * [Partial Reflections of Photons](partial_reflections_of_photons.md)
+    * [Double Slits and Photons](double_slits_and_photons.md)
+    * [Light as particle and wave- Recap](light_as_particle_and_wave_recap.md)
+    * [Observing the photon](observing_the_photon_.md)
+    * [Week 10 Summary](week_10_summary.md)
+    
+    
 * [End of Book](README.md)
 
