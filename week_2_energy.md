@@ -2,7 +2,7 @@
 
 The objectives for this lesson are that by the end of the week you will be able to
 
-* LOPro03 work with and convert units
+* LOPro03: work with and convert units
 * LONrgM01: understand the meaning of and determine the kinetic energy of an object 
 * LONrgM02: understand the meaning of potential energy of an object
 * LONrgM03: compare and be able to measure various sources of energy in your daily life.

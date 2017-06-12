@@ -23,11 +23,11 @@ We do not really know why this is what the world is made of. We observe experime
 
 **Unit 3**: In the last part of the class, we will do a tour of the other forces of Nature. The nuclear forces and gravity. We will end by putting what we have seen together and looking at the cosmos!
 
-\[ciscode\|rev=1\|tool=elmsmedia\|item=406\|entity\_type=node\|render=display\_mode\|display\_mode=image\]
+[ciscode|rev=1|tool=elmsmedia|item=406|entity_type=node|render=display_mode|display_mode=image]
 
 ### Why is this class important for you?
 
 There is a lot to say but nobody said it better than Carl Sagan in this interview.
 
-\[ciscode\|rev=1\|tool=elmsmedia\|item=2058\|entity\_type=node\|render=display\_mode\|display\_mode=mediavideo\_\_thumbnail\]
+[ciscode|rev=1|tool=elmsmedia|item=2058|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail]
 

@@ -12,7 +12,7 @@ Since no momentum can be created or destroyed and since nobody from outside came
 
 This means that the cannon must recoil with equal momentum that the ball took with it
 
-\[ciscode\|rev=1\|tool=elmsmedia\|item=2079\|entity\_type=node\|render=display\_mode\|display\_mode=image\]
+[ciscode|rev=1|tool=elmsmedia|item=2079|entity_type=node|render=display_mode|display_mode=image]
 
 As you can see from the figure above. We must have that
 

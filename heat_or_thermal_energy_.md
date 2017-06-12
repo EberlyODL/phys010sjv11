@@ -1,6 +1,6 @@
 The concept of heat or thermal energy is super important. As far as we know, energy is always conserved, and it just moves from one place to another. Some forms of energy are really useful because we can extract the energy easily. In other forms, energy can be very hard to extract and it is essentially lost. Thermal energy is the hardest form of energy to extract. If all the energy in the Universe was in the form of heat, not much could happen.
 
-\[ciscode\|rev=1\|tool=elmsmedia\|item=433\|entity\_type=node\|render=display\_mode\|display\_mode=image\_\_right\]
+[ciscode|rev=1|tool=elmsmedia|item=433|entity_type=node|render=display_mode|display_mode=image__right]
 
 If you rub your hands together, they warm up. You turn kinetic energy \(the motion of your hands\) into heat. What just happened in your hands? Well we know that our hands are made of atoms and by rubbing them together we are shaking the atoms around. This is just what heat is. Heat is the kinetic energy of the atoms.
 
@@ -10,7 +10,7 @@ Heat is disordered kinetic energy which is why it is so hard to extract. When an
 
 ### Temperature
 
-\[ciscode\|rev=1\|tool=elmsmedia\|item=434\|entity\_type=node\|render=display\_mode\|display\_mode=image\]
+[ciscode|rev=1|tool=elmsmedia|item=434|entity_type=node|render=display_mode|display_mode=image]
 
 Temperature is the measure of the kinetic energy of atoms \(the random kinetic energy that we can't see\). Note that temperature measures energy, _not_ the speed of the atoms.
 
@@ -21,7 +21,7 @@ Units of temperature are degree Celsius \(˚C\) or degree Fahrenheit \(˚F\). We
 
 ### Conduction
 
-\[ciscode\|rev=1\|tool=elmsmedia\|item=435\|entity\_type=node\|render=display\_mode\|display\_mode=image\]
+[ciscode|rev=1|tool=elmsmedia|item=435|entity_type=node|render=display_mode|display_mode=image]
 
 For a while, people thought that heat was a fluid. You heat one side of an iron bar and you can feel the "heat" traveling along the bar. Now we know that there is no “heat fluid,” it's just the atoms on one side moving faster and, through collisions and vibrations, the atoms in the rest of the bar also start moving faster. This is called conduction.
 

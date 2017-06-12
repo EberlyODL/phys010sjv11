@@ -1,4 +1,4 @@
-\[ciscode\|rev=1\|tool=elmsmedia\|item=2229\|entity\_type=node\|render=display\_mode\|display\_mode=image\_\_left\_\_circle\]
+[ciscode|rev=1|tool=elmsmedia|item=2229|entity_type=node|render=display_mode|display_mode=image__left__circle]
 
 Hello Physics 10 class, I am Kirstin Purdy Drew, your instructor for the fall semester. I will introduce myself with more details on our first discussion board, and  I am looking forward to your introduction there as well.
 

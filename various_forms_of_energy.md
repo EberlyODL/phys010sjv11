@@ -1,6 +1,8 @@
-The tables we have seen previously are good to keep in mind. Energy and power are not quantities we deal with as much as mass and length and so it is important to get a good grasp of some example numbers. Below is a list of different types of energy we will encounter:
+The tables we have seen previously are good to keep in mind. Energy and power are not quantities we deal with as much as mass and length and so it is important to get a good grasp of some example numbers. 
 
-\[ciscode\|rev=1\|tool=elmsmedia\|item=430\|entity\_type=node\|render=display\_mode\|display\_mode=image\]
+Lets keep thinking about the asteroid energy as we move on to talk about different kinds of energy. Below is a list of different types of energy we will encounter:
+
+[ciscode|rev=1|tool=elmsmedia|item=430|entity_type=node|render=display_mode|display_mode=image]
 
 1. **Kinetic energy**: Energy associated with movement. \(e.g. bullet or asteroid\).
 2. **Chemical energy**: Energy stored in chemical bonds between atoms and molecules inside of matter \(e.g. TNT, can of soda\). Fundamentally this energy can be called electrical potential energy since the electric force is the force involved, as we will see.

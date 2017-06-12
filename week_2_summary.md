@@ -1,3 +1,7 @@
+Coming back to the Newsflash about the asteroid hitting Russia - Can you answer the question now about what happened to the kinetic energy of the asteroid once it hit the earth? Where did that energy go? See if you can come up with a list. Remember, energy is Conserved, so it has to go somewhere!
+
+**Summary: **
+
 * Forms of energy are: gravitational potential, kinetic, nuclear, electrical potential, etc…
 * Get a good feeling of both tables on daily life section.
 * Power is energy delivered per unit of time. Units for power are Watts while energy would be in Watt-hour for example

@@ -2,7 +2,7 @@ Energy is not the only thing that is conserved in the world. There is another qu
 
 We use the letter $p$ to denote momentum. And just like energy, it is a law of physics that the **total momentum of a system is conserved.** Before we look at that statement in more details you should first examine the following picture of swinging balls.
 
-\[ciscode\|rev=1\|tool=elmsmedia\|item=2078\|entity\_type=node\|render=display\_mode\|display\_mode=image\_gallery\_\_basic\_gallery\]
+[ciscode|rev=1|tool=elmsmedia|item=2078|entity_type=node|render=display_mode|display_mode=image_gallery__basic_gallery]
 
 This is called "Newton's cradle." \(And the reason why science teachers should never be put on playground duty...\) Look closely at the collision. When a ball hits the stack, the ball at the other end picks up and continues the movement. It looks like something is transmitted. Well, there is something "transmitted" and it is not just energy. In this kind of collision, momentum is conserved and the ball at the other end has the same momentum as the ball that just hit had.
 
@@ -23,7 +23,7 @@ Speed tells you the rate of change of your position as a function of time. When 
 
 With velocity, we indicate both the speed and the direction of travel. For us in this class, we only move in one dimension with the x-axis pointing right \(see back to week 1\).
 
-\[ciscode\|rev=1\|tool=elmsmedia\|item=2054\|entity\_type=node\|render=display\_mode\|display\_mode=image\]
+[ciscode|rev=1|tool=elmsmedia|item=2054|entity_type=node|render=display_mode|display_mode=image]
 
 If a car has a speed of 60 mph moving right we will say that it has a velocity of
 
