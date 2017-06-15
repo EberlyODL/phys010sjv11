@@ -6,7 +6,6 @@ Light is a wave but we "detect" the wave as a collection of photons. A wave of f
 
 This interference will occur even when we send a single photon thru the double slit. In some sense, the photon interfere with itself. 
 
-
 ## Complementary
 
 This is already strange but now comes the real weird stuff. 
@@ -27,3 +26,6 @@ In the modern way of doing quantum mechanics, we often talk about information. E
 
 > Quantum mechanics is what happens when nobody is looking. 
 
+Here is a nice video that shows all the different aspects we have discussed about the double slit experiment. 
+
+<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/wsq7qXr9Hl0?rel=0" width="560"></iframe>
