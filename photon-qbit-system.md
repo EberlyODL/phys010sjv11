@@ -6,3 +6,11 @@ In quantum mechanics, we will be able to take superposition so it is useful a no
 
 $\lvert 0\rangle$ is a upper beam photon and 
 $\lvert 1\rangle$ is a lower beam photon
+
+The basic idea for the qbit is represent in the Fig. "qbit". 
+
+[ciscode|rev=1|tool=elmsmedia|item=2247|entity_type=node|render=display_mode|display_mode=image]
+
+Now we can introduce a beam splitter. In real life those are made with half-silvered mirror. They can be made such that when a photon is incident, there is a 50% chance that it is reflected or 50% that it is transmitted. 
+
+If we start with a photon in the lower beam (state $\lvert 1\rangle$) and send it to a beam splitter, the photon will have 50% chance of being reflected back in the lower beam 
