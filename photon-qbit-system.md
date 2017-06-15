@@ -22,3 +22,15 @@ $\lvert \psi \rangle=\frac{1}{\sqrt{2}}\lvert 0\rangle + \frac{1}{\sqrt{2}}\lver
 The factor of $1/\sqrt{2}$ are what we use to call $\phi$, the wave associated with the photon. If you square the coefficient, we get the probabilities. So this particular state $\psi$ has probability of 1/2 (50%) of being in either state 0 or state 1. 
 
 See fig. "superposition"
+
+[ciscode|rev=1|tool=elmsmedia|item=2249|entity_type=node|render=display_mode|display_mode=image]
+
+Note that when the photon is in a superposition, it is neither in the lower or upper beam. We cannot tell which beam the photon is in without using the detectors. 
+
+Beamsplitter can reverse the sign of the coefficient depending on the direction you come from. This is because a wave often get its amplitude reverse upon reflection so the state 
+
+$\lvert \psi \rangle=\frac{1}{\sqrt{2}}\lvert 0\rangle - \frac{1}{\sqrt{2}}\lvert 1\rangle$
+
+with a minus sign in the lower beam can also be created. In fact by using two different beamsplitter (the one that gives a minus sign is labeled -) we can get destructive interference in the lower beam such that the photon is always in the upper beam. 
+
+[ciscode|rev=1|tool=elmsmedia|item=2251|entity_type=node|render=display_mode|display_mode=image]
