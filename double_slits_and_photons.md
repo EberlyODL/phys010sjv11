@@ -3,7 +3,8 @@ Lets revisit again the double slit experiment. You can see the basic setup in th
 [ciscode|rev=1|tool=elmsmedia|item=2239|entity_type=node|render=display_mode|display_mode=image]
 
 If we were to block on the screen we would just a spread out smudge of light. The fact that is spread out is because the slit is very thin. The image below show both smudges from each slits and the combined interference pattern.
- 
+
+[ciscode|rev=1|tool=elmsmedia|item=2241|entity_type=node|render=display_mode|display_mode=image]
 
 - S: Yes, I have seen it a couple of times. This is what light looks like on a screen after you go through two small holes.
 - B: Ok, cool. However, that is not really what I see. Alice and I detect individual photons. Therefore, we see the Fig. 11. The photons arrive one by one and eventually the whole bunch of photons starts looking like the interference pattern on the left.
