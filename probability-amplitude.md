@@ -40,7 +40,7 @@ Normal thinking human would say that the probability that with both slit open, t
 
 But NO! The probablity is $P = (\phi_1+\phi_2)^2 = (1/\sqrt{4}-1\sqrt{4})^2 =0$
 
-> The probability of finding with two waves is less than with a single wave!
+> The probability of finding with two waves is less than with a single wave! This is destructive interference
 
 Quantum probability do not depend the addition rule! This is because of the existence of the probability amplitude and because of possible interference when adding those amplitudes!. 
 
