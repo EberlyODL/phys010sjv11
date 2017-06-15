@@ -18,4 +18,6 @@ A quantum bit (or Qbit) is quantum system that also has two states, 0 or 1 when 
 
 This is the basis for why quantum computers may be much more powerful than classical computers. 
 
-Quantum computers will soon be 
+Quantum computers may soon be a real possibility. Google, Microsoft and others are really working on this. 
+
+## Newsflash 8
