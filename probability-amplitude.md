@@ -1,4 +1,4 @@
-The wave that is "linked" to the photon is the electromagnetic wave which is a fairly complicated object with oscillating electric and magnetic field. We can understand the concept of quantum mechanics by using a simplify picture for the wave. 
+The wave that is "linked" to the photon is the electromagnetic wave which is a fairly complicated object with oscillating electric and magnetic fields. A full analysis is very technical. We can understand the concept of quantum mechanics by using a simplify picture for the wave. 
 
 Denote the photon wave by $\phi(x)$ where represent the amplitude of the wave and x is the position on the screen. 
 
