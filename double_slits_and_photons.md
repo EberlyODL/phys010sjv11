@@ -1,5 +1,3 @@
-The 2-Slit Experiment
----------------------
 
 - B: Sophie, can you see the nice double slit interference pattern in the Fig. 10?
 - S: Yes, I have seen it a couple of times. This is what light looks like on a screen after you go through two small holes.
