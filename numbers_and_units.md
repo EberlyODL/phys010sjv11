@@ -20,7 +20,7 @@ which is the distance taken by a few atoms.
 
 I could have written nanometer as 0.000000001 meters but it is hard to see with your eyes exactly how many zeros there are, so scientists just write $10^{-9}$. The minus signs indicates that this is smaller than 1 so there is a decimal and as you can see above there are 9 zeros (including the first one before the decimal).
 
-Another example is $10^{-2}$ which is 0.01, there are 2 zeros.
+Another example is $$10^{-2}$$ which is 0.01, there are 2 zeros.
 
 If the number in the exponent is positive then there is no decimal. For example $10^3$ is a 1 followed by 3 zeros or also known as a thousand: 1000. We also often call $10^3$ a kilo something. A kilometer is $10^3$ meters or 1000 meters. These are all the same.
 
