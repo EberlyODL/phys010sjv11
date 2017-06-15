@@ -17,6 +17,8 @@ If we start with a photon in the lower beam (state $\lvert 1\rangle$) and send i
 
 The resulting quantum state after the beam splitter is a superposition of the two states. We can denote this by saying that the state after beamsplitter (lets call it $\psi$) is 
 
-$\lvert \psi \rangle\frac{1}{\sqrt{2}}\lvert 1\rangle + \frac{1]{\sqrt{2}}\lvert 1\rangle$
+$\lvert \psi \rangle=\frac{1}{\sqrt{2}}\lvert 0\rangle + \frac{1}{\sqrt{2}}\lvert 1\rangle$
 
-The factor of $1/\sqrt{2}$ are what we use to call $\phi$, the wave associated with the photon. If you square the coefficient, we get the probabilities. So this particular state $\psi$ has co
+The factor of $1/\sqrt{2}$ are what we use to call $\phi$, the wave associated with the photon. If you square the coefficient, we get the probabilities. So this particular state $\psi$ has probability of 1/2 (50%) of being in either state 0 or state 1. 
+
+See fig. "superposition"
