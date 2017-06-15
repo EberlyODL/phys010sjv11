@@ -13,4 +13,8 @@ The basic idea for the qbit is represent in the Fig. "qbit".
 
 Now we can introduce a beam splitter. In real life those are made with half-silvered mirror. They can be made such that when a photon is incident, there is a 50% chance that it is reflected or 50% that it is transmitted. 
 
-If we start with a photon in the lower beam (state $\lvert 1\rangle$) and send it to a beam splitter, the photon will have 50% chance of being reflected back in the lower beam 
+If we start with a photon in the lower beam (state $\lvert 1\rangle$) and send it to a beam splitter, the photon will have 50% chance of being reflected back in the lower beam (back to $\lvert 1\rangle$) or 50% of passing thru and going to upper beam ($\lvert 0\rangle$).  
+
+The resulting quantum state after the beam splitter is a superposition of the two states. We can denote this by saying that the state after beamsplitter is 
+
+$\frac{1}{\sqrt{2}}\lvert 1\rangle + \frac{1]{\sqrt{2}}\lvert 1\rangle$
