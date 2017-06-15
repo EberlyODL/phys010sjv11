@@ -43,6 +43,6 @@ Ok so we put a bomb to test, it explodes. You turn to your manager: "Sorry that 
 
 Note that the photon never triggered the bomb but the fact that it could have has destroyed the interference effect and allowed it to go to D1.
 
-If you need seriously perplexed by this. Reread this page again. 
+If you are not seriously perplexed by this. Reread this page again. 
 
 > If the photon lands in D0 a 100 times, the you can tell your manager. There is a very good chance that this bomb is a dud. 
