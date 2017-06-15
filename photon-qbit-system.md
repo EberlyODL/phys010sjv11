@@ -15,6 +15,8 @@ Now we can introduce a beam splitter. In real life those are made with half-silv
 
 If we start with a photon in the lower beam (state $\lvert 1\rangle$) and send it to a beam splitter, the photon will have 50% chance of being reflected back in the lower beam (back to $\lvert 1\rangle$) or 50% of passing thru and going to upper beam ($\lvert 0\rangle$).  
 
-The resulting quantum state after the beam splitter is a superposition of the two states. We can denote this by saying that the state after beamsplitter is 
+The resulting quantum state after the beam splitter is a superposition of the two states. We can denote this by saying that the state after beamsplitter (lets call it $\psi$) is 
 
-$\frac{1}{\sqrt{2}}\lvert 1\rangle + \frac{1]{\sqrt{2}}\lvert 1\rangle$
+$\lvert \psi \rangle\frac{1}{\sqrt{2}}\lvert 1\rangle + \frac{1]{\sqrt{2}}\lvert 1\rangle$
+
+The factor of $1/\sqrt{2}$ are what we use to call $\phi$, the wave associated with the photon. If you square the coefficient, we get the probabilities. So this particular state $\psi$ has co
