@@ -90,6 +90,7 @@
     * [Complementarity](complementarity.md)
     * [Qbit, Newsflash 8](a-qbit-system.md)
     * [Photon Qbit system. ](photon-qbit-system.md)
+    * [Testing Bomb](testing-bomb.md)
     * [Week 8 Summary](week_10_summary.md)
   * [Week 9: Quantum Physics 2 - Electrons](week_11_review_and_the_lhc.md)
     * [Everything is a particle-wave](everything_is_a_particle_wave.md)
