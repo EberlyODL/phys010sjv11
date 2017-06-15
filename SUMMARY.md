@@ -83,7 +83,7 @@
     * [Photo-electric explained](photo_electric_explained.md)
     * [Week 7 Summary](week_9_summary.md)
   * [Week 8: Quantum Physics I - Photons](week_10_the_quantum_world.md)
-    * [Light as a Wave and a Particle](light_as_a_wave_and_a_particle.md)
+    * [The Photon](light_as_a_wave_and_a_particle.md)
     * [Probability Interlude](probability_interlude.md)
     * [Partial Reflection and Oil Slick](partial_reflection_and_oil_slick.md)
     * [Partial Reflections of Photons](partial_reflections_of_photons.md)
@@ -108,7 +108,7 @@
     * [Transistors](transistors.md)
     * [Week 10 Summary](week_12_summary.md)
 
-    
-    
+---
+
 * [End of Book](README.md)
 
