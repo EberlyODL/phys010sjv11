@@ -23,6 +23,4 @@ Remember the electron? The photon is similar yet different. To answer the next q
  
 But light -as we have seen - is an electromagnetic wave. This was demonstrated in your first lab where you saw dark and bright fringes after light went through a double slit. These dark and bright fringes resulted from constructive and destructive interference which can only be explained using the principle of superposition
 
-How can we reconcile the result of our first lab if light is a particle? This week we will see another typical wavy behavior of light which is called thin-film interference (oil slick). Our goal this week is to explain the thin film interference and the double slits experiments with a theory that reconcile light as a wave and as a particle.
-
-But before we do that, we need a quick "review" about probability!!
+How can we reconcile the result of our first lab if light is a particle? 
