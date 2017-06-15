@@ -88,6 +88,7 @@
     * [Double Slits and Photons](double_slits_and_photons.md)
     * [Probability amplitude](probability-amplitude.md)
     * [Complementarity](complementarity.md)
+    * [A Qbit System](a-qbit-system.md)
     * [old-observing-photons](observing_the_photon_.md)
     * [Partial Reflection and Oil Slick](partial_reflection_and_oil_slick.md)
     * [Partial Reflections of Photons](partial_reflections_of_photons.md)

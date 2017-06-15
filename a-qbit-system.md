@@ -1,0 +1,1 @@
+The double slit experiment actually a complicated system to study quantum mechanics. In the double slit the probability
