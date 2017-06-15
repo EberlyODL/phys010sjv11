@@ -41,7 +41,7 @@ Well you say, lets just put the bomb in the lower beam above. If the bomb is a d
 
 Ok so we put a bomb to test, it explodes. You turn to your manager: "Sorry that one was working but it is loss now, I can test another, You put another, you detect a photon in D0. You say sorry, I cannot tell if its working or not, let us send another photon. The photon arrives in D1. You turn to your manager, this bomb is working!
 
-Note that the photon never triggered the bomb but the fact that it could have has destroyed the interference effect and allowed it to go to D1.
+Note that the photon never triggered the bomb but the fact that it could have done so was enough to destroy the interference effect and allowed the photon to go to D1.
 
 **If you are not seriously perplexed by this. Reread this page again.**
 
