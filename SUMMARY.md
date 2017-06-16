@@ -97,7 +97,7 @@
     * [Antimatter](antimatter.md)
     * [Atoms Colliders](atoms_colliders.md)
     * [Newsflash 8](newsflash_8.md)
-    * [Ethics Study: The Search for Answers and Its Price](ethics_study_the_search_for_answers_and_its_price.md)
+    * [Stationary Waves](stationary_waves.md)
   * [Week 10: Atoms and High-Tech](week_12_atoms_and_high_tech.md)
     * [Particle in a Box](particle_in_a_box.md)
     * [The Hydrogen Atom](the_hydrogen_atom.md)
