@@ -95,7 +95,7 @@
   * [Week 9: Quantum Physics 2 - Electrons](week_11_review_and_the_lhc.md)
     * [Everything is a particle-wave](everything_is_a_particle_wave.md)
     * [The Uncertainty Principle](the_uncertainty_principle.md)
-    * [Newsflash 8](newsflash_8.md)
+    * [Newsflash 9](newsflash_8.md)
     * [Antimatter](antimatter.md)
     * [Atoms Colliders](atoms_colliders.md)
     * [Ethics Study: The Search for Answers and Its Price](ethics_study_the_search_for_answers_and_its_price.md)
