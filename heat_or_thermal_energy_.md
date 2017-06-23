@@ -8,6 +8,9 @@ When you heat up a gas, the atoms in the gas move faster.
 
 Heat is disordered kinetic energy which is why it is so hard to extract. When an asteroid hits the Earth, all the atoms in the asteroid are moving together at 30 km/s in a particular direction \(towards the Earth, say\). When the asteroid crashes, almost all of this energy will be released as heat in the explosion. This thermal energy is in random motion of atoms in the air and in the ground. There is an enormous amount of thermal energy on Earth but it very hard to extract it or convert it to anything else.
 
+Here is an interesting[Phet java app](https://phet.colorado.edu/sims/ideal-gas/gas-properties_en.jnlp
+) you can play with to see the relationship between heat, temperature and kinetic energy of atoms. 
+
 ### Temperature
 
 [ciscode|rev=1|tool=elmsmedia|item=434|entity_type=node|render=display_mode|display_mode=image]
