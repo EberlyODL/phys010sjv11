@@ -15,7 +15,7 @@ Sound is a disturbance in the pressure of the air.
 
 [ciscode|rev=1|tool=elmsmedia|item=2106|entity_type=node|render=display_mode|display_mode=image__right]
 
-When you vibrate a tuning fork or a string, you create regions of _compression_ and of _rarefaction_. These are the crests and troughs of the wave.
+When you vibrate a tuning fork or a string, you create regions of _compression_ and of _rarefaction_. These are the crests and troughs of the wave. Those compressions and rarefactions then travel away from the tuning fork through the air in all directions. If they hit your ear drum... it vibrates, and you hear the sound!
 
 If you vibrate the guitar string twice as slow (reduce the frequency by two) then the distance between the compressed regions will be twice as big (you would double $\lambda$).
 
