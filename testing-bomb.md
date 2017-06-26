@@ -10,7 +10,7 @@ In the current setup (see Fig Two beam). The outcome vs probability are
 |photon reaches D0|1
 |photon reaches D1|0
 
-Imagine we change the setting slightly by putting our hand in the lower beam between the two beamsplitters. Our hand will absorb the photon and let us say that we can tell "Ow!" 
+Imagine we change the setting slightly by putting our hand in the lower beam between the two beamsplitters. Our hand will absorb the photon and let us say that we can tell so when a photon hits, you scream "Ow!" 
 
  This will destroy the interference effect. We send the photon in the apparatus it has 50% chance of striking the hand. If it does, its done. If it does not that we know the photon is in the upper beam before the final beam splitter. The second beamsplitter will split halfway between up and down. So the end result
  
