@@ -16,7 +16,7 @@ Imagine we change the setting slightly by putting our hand in the lower beam bet
  
  ### Outcome for two beamsplitters and hand in lower beam
 
-|outcome|P
+|outcome|Probability (P)
 |-------
 |photon reaches D0|1/4
 |photon reaches D1|1/4
@@ -30,7 +30,7 @@ This is another example of complementary. If we determine in which beam the phot
 
 We can push this to the extreme. Imagine a factory that produces bombs that can be triggered by a single photon. This is hard to do so once in a while the factory produces bombs that are a dud. We would like to be able to know whether a bomb works or not. We could send a photon but then if the bomb works it will explode. We would know that it work but we would have lost the bomb!
 
-Well you say, let us just put the bomb in the lower beam of the setup above. If the bomb is a dud, it should do nothing and we should detect the photon always in D0. If the bomb works, it will act as a hand and we will change the probabilities. 
+Well you say, let us just put the bomb in the lower beam of the setup above. If the bomb is a dud, it should do nothing and we should detect the photon always in D0. If the bomb works, it will act as a "hand detector" and it we will change the probabilities. 
 
 |Bomb is a dud||Bomb is working| |
 |-------
@@ -47,7 +47,7 @@ The next photon arrives in D1. You turn to your manager, this bomb is working!
 
 ### This is strange yes. 
 
-Note that the photon never triggered the bomb but the fact that it could have done so was enough to destroy the interference effect and allowed the photon to go to D1. The photon was in a superposition of upper and lower beam and this superposed state knew about the bomb even though it never triggered it (it had 50% of doing so). 
+Note that the photon never triggered the bomb but the fact that it could have done so was enough to destroy the interference effect and allowed the photon to go to D1. The photon was in a superposition of upper and lower beam and this superposed state knew about the bomb even though it never triggered it (it had 50% chance of doing so). 
 
 **If you are not seriously perplexed by this. Reread this page again.**
 
