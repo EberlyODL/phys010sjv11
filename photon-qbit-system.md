@@ -7,7 +7,7 @@ In quantum mechanics, we will be able to take superposition so it is useful a no
 $\lvert 0\rangle$ is a upper beam photon and 
 $\lvert 1\rangle$ is a lower beam photon
 
-The basic idea for the qbit is represent in the Fig. "qbit". 
+The basic idea for the Qbit is represent in the Fig. "Qbit". 
 
 [ciscode|rev=1|tool=elmsmedia|item=2247|entity_type=node|render=display_mode|display_mode=image]
 
