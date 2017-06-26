@@ -109,7 +109,3 @@
     * [Transistors](transistors.md)
     * [Week 10 Summary](week_12_summary.md)
 
----
-
-* [End of Book](README.md)
-
