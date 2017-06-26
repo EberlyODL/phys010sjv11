@@ -12,7 +12,7 @@ In the current setup (see Fig Two beam). The outcome vs probability are
 
 Imagine we change the setting slightly by putting our hand in the lower beam between the two beamsplitters. Our hand will absorb the photon and let us say that we can tell so when a photon hits, you scream "Ow!" 
 
- This will destroy the interference effect. We send the photon in the apparatus it has 50% chance of striking the hand. If it does, its done. If it does not that we know the photon is in the upper beam before the final beam splitter. The second beamsplitter will split halfway between up and down. So the end result
+ This will destroy the interference effect. We send the photon in the apparatus it has 50% chance of striking the hand. If it does, its done, the photon was absorbed by the hand. If it does not than we know the photon is in the upper beam before the final beam splitter. The second beamsplitter will split halfway between up and down. So the end result
  
  ### Outcome for two beamsplitters and hand in lower beam
 
@@ -28,7 +28,7 @@ This is another example of complementary. If we determine in which beam the phot
 
 ## Testing bombs. 
 
-We can push this to the extreme. Imagine a factory that produces bombs that can be triggered by a single photon. This is hard to do so once in a while the factory produce bombs that are a dud. We would like to be able to know whether a bomb works or not. We could send a photon but then if the bomb works it will explode. We would know that it work but we would have lost the bomb!
+We can push this to the extreme. Imagine a factory that produces bombs that can be triggered by a single photon. This is hard to do so once in a while the factory produces bombs that are a dud. We would like to be able to know whether a bomb works or not. We could send a photon but then if the bomb works it will explode. We would know that it work but we would have lost the bomb!
 
 Well you say, let us just put the bomb in the lower beam of the setup above. If the bomb is a dud, it should do nothing and we should detect the photon always in D0. If the bomb works, it will act as a hand and we will change the probabilities. 
 
