@@ -40,6 +40,7 @@
     * [Wave can Cancel or Reinforce](waves_can_cancel_or_reinforce.md)
     * [The Double Slit Experiment](the_double_slit_experiment.md)
     * [Stationary Waves](stationary_waves.md)
+    * Week 4 Summary
   * [Week 5: Space-time](week_5_space_time.md)
     * [Space and Motion](space_and_motion.md)
     * [Motion is Relative](motion_is_relative.md)
@@ -50,7 +51,7 @@
     * [Special Relativity](special_relativity.md)
     * [Time Dilation](time_dilation.md)
     * [Energy and Mass](energy_and_mass.md)
-    * [Week 4 Summary](week_5_summary.md)
+    * [Week 5 Summary](week_5_summary.md)
   * [Week 6: Forces and Electricity](week_6_review_and_the_notion_of_force.md)
     * [The Basic Concept of Force](the_basic_concept_of_force.md)
     * [Newton's Laws of Motion](newton_s_laws_of_motion.md)
@@ -83,6 +84,6 @@
     * [The Quanta](the_quanta.md)
     * [Light is a "Particle-Wave"](light_is_a_particle_wave_.md)
     * [Photo-electric explained](photo_electric_explained.md)
-    * [Week 7 Summary](week_9_summary.md)
+    * [Week 8 Summary](week_9_summary.md)
 * [End of Book](README.md)
 
