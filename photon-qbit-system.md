@@ -27,7 +27,7 @@ See fig. "superposition"
 
 Note that when the photon is in a superposition, it is neither in the lower or upper beam. We cannot tell which beam the photon is in without using the detectors. 
 
-Beamsplitter can reverse the sign of the coefficient depending on the direction you come from. This is because a wave often get its amplitude reverse upon reflection so the state 
+A beamsplitter can reverse the sign of the coefficient depending on the direction you come from. This is because a wave often get its amplitude reversed upon reflection so the state 
 
 $\lvert \psi \rangle=\frac{1}{\sqrt{2}}\lvert 0\rangle - \frac{1}{\sqrt{2}}\lvert 1\rangle$
 
