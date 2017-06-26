@@ -18,7 +18,7 @@ There are two ways to describe this
 
 1. The two measurements are complementary. There is no physical way to detect which slits the photons went thru and detect the interference pattern **at the same time**. 
 
-2. The act of measuring changes the "state" of the system. Once we know that the photon went thru slit 1, we know we should use $\phi_1$ to predict the probability on the screen. (not $\phi_1+\phi_2$. 
+2. The act of measuring changes the "state" of the system. Once we know that the photon went through slit 1, we know we should use $\phi_1$ to predict the probability on the screen. (not $\phi_1+\phi_2$). 
 
 You have to be careful with the second interpretation. Many physicists themselves misunderstand it and think that the act of measuring actually change the waves. It does not really change, it changed the information that we have. If we know that the photon went thru slit 1, it will affect all further probability and destroy the interference pattern. 
 
