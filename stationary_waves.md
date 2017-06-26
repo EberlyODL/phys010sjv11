@@ -22,11 +22,5 @@ for n = 1, 2, 3, ....
 
 So, for example, the first harmonic, the fundamental, has a wavelength equal to \(\lambda_1 = 2L.\) This makes sense since as you can see from Fig. 3, the first harmonic looks like half a wavelength on the whole string.
 
-<div class="question">Q. Blow over a straw and then cut it in half and blow again. What happens to the pitch?
 
-1. [It increases.](#)**Correct!** L decreases, so the wavelength of the mode (whichever one we were exciting) decreases. That means the frequency increases and thus the pitch increases.
-2. [It decreases.](#)**No**. The other way around.
-3. [It remains the same.](#)**No**. The pitch does change.
-4. [Can't tell.](#)**No**.
-
-</div>
+<iframe src="https://h5p.org/h5p/embed/91994" width="1090" height="403" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
