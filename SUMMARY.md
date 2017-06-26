@@ -40,7 +40,7 @@
     * [Wave can Cancel or Reinforce](waves_can_cancel_or_reinforce.md)
     * [The Double Slit Experiment](the_double_slit_experiment.md)
     * [Stationary Waves](stationary_waves.md)
-    * Week 4 Summary
+    * [Week 4 Summary](week-4-summary.md)
   * [Week 5: Space-time](week_5_space_time.md)
     * [Space and Motion](space_and_motion.md)
     * [Motion is Relative](motion_is_relative.md)
