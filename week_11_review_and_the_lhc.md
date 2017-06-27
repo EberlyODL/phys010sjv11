@@ -8,10 +8,6 @@ The objectives for this lesson are that by the end of the week you will be able 
 3. Understand the uncertainty principle.
 4. Recall what antimatter is.
 
-\*\*These objectives will **not** be tested in Midterm #2 but this is material for the final exam.
-
-Use part of this week to review and complete Midterm 2; use the rest of the week to read this lesson (which is _**not**_ be included in Midterm 2).
-
 Review Materials and Readings
 -----------------------------
 

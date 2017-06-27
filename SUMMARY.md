@@ -82,5 +82,15 @@
     * [Light is a "Particle-Wave"](light_is_a_particle_wave_.md)
     * [Photo-electric explained](photo_electric_explained.md)
     * [Week 7 Summary](week_9_summary.md)
-* [End of Book](README.md)
+  * [Week 8: Quantum Physics I - Photons](week_10_the_quantum_world.md)
+    * [The Photon](light_as_a_wave_and_a_particle.md)
+    * [Probability Interlude](probability_interlude.md)
+    * [Double Slits and Photons](double_slits_and_photons.md)
+    * [Probability amplitude](probability-amplitude.md)
+    * [Complementarity](complementarity.md)
+    * [Qbit, Newsflash 8](a-qbit-system.md)
+    * [Photon Qbit system. ](photon-qbit-system.md)
+    * [Testing Bomb](testing-bomb.md)
+    * [Week 8 Summary](week_10_summary.md)
+
 
