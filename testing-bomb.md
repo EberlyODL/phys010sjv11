@@ -1,7 +1,7 @@
 [ciscode|rev=1|tool=elmsmedia|item=2251|entity_type=node|render=display_mode|display_mode=image]
 
 
-Recap: We have a setup where the photon starts in lower beam. A beam splitter creates a states where the photon could be either up or down and second repeats the splitting with a minus sign difference for the wave amplitude on the lower beam. The minus sign lead to destructive interference and the final state is 100% certain to be in upper beam. The setup is shown in Fig "Two beamsplitters...). Here is a table of outcome with probabilities
+Recap: We have a setup where the photon starts in lower beam. A beam splitter creates a state where the photon could be either up or down and a second beamsplitter repeats the splitting with a minus sign difference for the wave on the lower beam. The minus sign leads to destructive interference in lower beam and the final state is 100% certain to be in the upper beam. The setup is shown in Fig "Two beamsplitters...). Here is a table of outcome with probabilities
 
 ### Outcome for two beamsplitters
 
