@@ -21,7 +21,7 @@ There are two ways to describe this
 2. The act of measuring changes the "state" of the system. Once we know that the photon went through slit 1, we know we should use $\phi_1$ to predict the probability on the screen. (not $\phi_1+\phi_2$). 
 If we know that the photon went through slit 1, it will affect all further probabilities and it will destroy the interference pattern. 
 
-In the modern way of doing quantum mechanics, we often talk about information. Extracting information (no matter how) will affect all future probabilities. In some ways:
+In the modern way of doing quantum mechanics, we often talk about information. Extracting information (no matter how) will affect all future probabilities. In some ways, you can say the slogan
 
 > Quantum mechanics is what happens when nobody is looking. If you look, then interference effect disappears!
 
