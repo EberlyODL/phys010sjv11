@@ -1,7 +1,13 @@
-- the color pattern of a thin film is due to interference of light which is typical wave behavior.
-- the fringe pattern in the double slits experiment is also due to interference (a wave behavior).
-- the photo-electric experiment shows that light can be viewed as being made of particles.
-- To reconcile these experiments, it must be that the light moves like a wave but interacts like a particle.
-- The links between the wave and the particle description are as follows
-  - ​w<span style="line-height: 20.4px;">here the wave is more intense, you have more chances to find the particles. If the intensity is zero, you will not find any particles (so electrons have dark and bright fringes just like light!)</span>
-  - the frequency _f_ of the wave determines the energy _E_ of the corresponding particles via \(E = hf\) .
+Recap of Light.
+
+* An electromagnetic wave is made of photons. The more intense the light is, the more photons it contains. Each individual photons has an energy given by $E = h f$ with _h_ being Planck's constant.
+
+* We can explain the double slit experiment if the intensity of the wave (I) (amplitude squared) gives us the probability of finding photons at that spot. The more intense the wave is, the more chances we have to detect the wave.
+
+** The probability of finding a particle at a given point is proportional to the intensity of wave at that point. The more intense the wave, the more probable it is that you will "see" the photon._**
+
+* Light interacts with matter on an all-or-nothing basis. We **_never detect_** the electromagnetic wave, we only detect photons. But after having received many, many photons, all of which are being detected where the E&M wave would be more intense, it seems as if we just have a continuous wave.
+
+M: The key phrase that will help you remember it is that: "_Light interacts as a particle, the photon, but it moves like a wave_.  
+
+The wave tells the photons where they should go (in a probabilistic manner), but every interaction is with one photon at a time.
