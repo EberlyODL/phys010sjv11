@@ -26,8 +26,8 @@ So, the probability of hitting A or B is the sum of the probability of hitting A
 
 Note that the chance of hitting anything at all (A OR B OR C) should be 1 or 100%.
 
-\(P_A+P_B+P_C =1\)
+$P_A+P_B+P_C =1$
 
 > As we will see quantum mechanics is special when it comes to adding probability because of interference.
 
-> Note: A probability is a pure number (no units) between 0 (impossible) and 1 (certain). Often the number is represented as a percentage or as a fraction. For example a probability of p = 0.25 can be represented as 25% (25/100) or as 1/4. One chance out of 4 is a probability p=0.25. 
+> Note: A probability is a pure number (no units) between 0 (impossible) and 1 (certain). Often the number is represented as a percentage or as a fraction. For example a probability of p = 0.25 can be represented as 25% (25/100) or as 1/4. One chance out of 4 is a probability p=0.25.
