@@ -28,9 +28,9 @@ This is another example of complementary. If we determine in which beam the phot
 
 ## Testing bombs. 
 
-We can push this to the extreme. Imagine a factory that produces bombs that can be triggered by a single photon. This is hard to do so once in a while the factory produces bombs that are a dud. We would like to be able to know whether a bomb works or not. We could send a photon but then if the bomb works it will explode. We would know that it work but we would have lost the bomb!
+We can push this to the extreme. Imagine a factory that produces bombs that can be triggered by a single photon. This is probably hard to do so once in a while the factory produces bombs that are dud (not working). We would like to be able to know whether a bomb works or not. We could just send a photon but then if the bomb works it will explode. We would know that it work but we would have lost the bomb!
 
-Well you say, let us just put the bomb in the lower beam of the setup above. If the bomb is a dud, it should do nothing and we should detect the photon always in D0. If the bomb works, it will act as a "hand detector" and it we will change the probabilities. 
+As a quantum physicist, you have an idea. We will put the bomb in the middle lower beam of the setup above (between the beam splitter). If the bomb is a dud, it should do nothing and we should detect the photon always in D0. If the bomb works, it will act as a "hand detector" and it we will change the probabilities. 
 
 |Bomb is a dud||Bomb is working| |
 |-------
@@ -39,7 +39,7 @@ Well you say, let us just put the bomb in the lower beam of the setup above. If 
 |photon reaches D1|0|photon reaches D1|1/4
 |bomb explodes|0|bomb explodes|1/2
 
-Ok so we put a bomb to test, it explodes. You turn to your manager: "Sorry that one was working but it is loss now, I can test another."
+Ok so we put a bomb to the test, it explodes. You turn to your manager: "Sorry that one was working but it is loss now, I can test another."
 
 You put another bomb, you detect a photon in D0. You say "Sorry, I cannot tell if its working or not, let us send another photon."
  
@@ -51,4 +51,4 @@ Note that the photon never triggered the bomb but the fact that it could have do
 
 **If you are not seriously perplexed by this. Reread this page again.**
 
-> If the photon lands in D0 a 100 times, the you can tell your manager. There is a very good chance that this bomb is a dud.
+> If the photon lands in D0 a 100 times, you can tell your manager. There is a very good chance that this bomb is a dud.
