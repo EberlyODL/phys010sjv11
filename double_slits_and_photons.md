@@ -1,4 +1,4 @@
-Lets revisit again the double slit experiment. You can see the basic setup in the figure below. We send light through slits separated by a small distance and the result is the interference pattern on the screen. 
+Let us revisit again the double slit experiment. You can see the basic setup in the figure below. We send light through slits separated by a small distance and the result is the interference pattern on the screen. 
 
 [ciscode|rev=1|tool=elmsmedia|item=2239|entity_type=node|render=display_mode|display_mode=image]
 
@@ -6,7 +6,7 @@ If we were to block one of the slit on the screen we would just a "smudge" of li
 
 [ciscode|rev=1|tool=elmsmedia|item=2241|entity_type=node|render=display_mode|display_mode=image]
 
-From a wave point of view the interference arises because of small difference in the distance traveled between the two wavea leading to constructive and destructive interferences (review week on waves if unsure, this is important!)
+From a wave point of view the interference arises because of small difference in the distance traveled between the two waves leading to constructive and destructive interferences (review week on waves if unsure, this is important!)
 
 ## Double slit with photons. 
 
@@ -33,7 +33,7 @@ So there is a **link between the wave and the particle**. And the link is that:
 
 > **The probability p of detecting a photon at a particular point x is directly proportional to the intensity of the light wave at that point.**
 > 
-> $p \propto I(x) \propto A(x)^2$
+> $P(x) \propto I(x) \propto A(x)^2$
 > 
 > In the last part, we wrote that the intensity is the square of the amplitude of the wave A. For an electromagnetic wave, the amplitude will be given by the maximum electric field as we saw before.
 
