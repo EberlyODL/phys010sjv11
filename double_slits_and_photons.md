@@ -10,7 +10,7 @@ From a wave point of view the interference arises because of small difference in
 
 ## Double slit with photons. 
 
-Now we will a very low power laser to send a single photon at a time thru the double slit and we will use detectors everywhere on the screen to tell where the each photons land. Both can be done in actual experiments). We will keep sending photons after photons and record what the pattern look like. We get (this image was done with electrons but the idea remain the same). 
+Now we will a very low power laser to send a single photon at a time thru the double slit and we will use detectors everywhere on the screen to tell where each photons land. Both can be done in actual experiments). We will keep sending photons after photons and record what the pattern look like. We get (this image was done with electrons but the idea remain the same). 
 
 [ciscode|rev=1|tool=elmsmedia|item=2243|entity_type=node|render=display_mode|display_mode=image]
 
