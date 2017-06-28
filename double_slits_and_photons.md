@@ -2,15 +2,15 @@ Lets revisit again the double slit experiment. You can see the basic setup in th
 
 [ciscode|rev=1|tool=elmsmedia|item=2239|entity_type=node|render=display_mode|display_mode=image]
 
-If we were to block on the screen we would just a spread out smudge of light. The fact that is spread out is because the slit is very thin. The image below show both smudges from each slits and the combined interference pattern.
+If we were to block one of the slit on the screen we would just a "smudge" of light (with no bright/dark fringes). The fact that light spread out is because the slits are very thin. The image below show both "smudges" from each slit and the combined interference pattern.
 
 [ciscode|rev=1|tool=elmsmedia|item=2241|entity_type=node|render=display_mode|display_mode=image]
 
-From a wave point of view the interference arises because of small difference in distance traveled between the two wave leading to constructive and destructive interference (review week on waves, this is important!)
+From a wave point of view the interference arises because of small difference in the distance traveled between the two wavea leading to constructive and destructive interferences (review week on waves if unsure, this is important!)
 
 ## Double slit with photons. 
 
-Now we will send one photon at a time thru the double slit and we will use a detector on the screen to tell where the photons land (both can be done in actual experiments). We will keep sending photons after photons and record what the pattern look like. We get (this image was done with electrons but the idea remain the same). 
+Now we will a very low power laser to send a single photon at a time thru the double slit and we will use detectors everywhere on the screen to tell where the each photons land. Both can be done in actual experiments). We will keep sending photons after photons and record what the pattern look like. We get (this image was done with electrons but the idea remain the same). 
 
 [ciscode|rev=1|tool=elmsmedia|item=2243|entity_type=node|render=display_mode|display_mode=image]
 
@@ -19,7 +19,7 @@ Now we will send one photon at a time thru the double slit and we will use a det
 
 ## Photon Probability
 
-Let's say we want to know the probability that a photon will land on the screen in some small band of width $\delta x$ near position _x_ (see Fig. "Photon Prob"). Just as we did for the dartboard, we look where the photons land. After sending a lot of photons, we can define the probability of landing in the rectangle of Fig. "Photon Prob" by counting how many photons landed there versus the total that we sent.
+Let's say we want to know the probability that a photon will land on the screen in some small band of width $\delta x$ near position _x_ (see Fig. "Photon Prob"). Just as we did for the dartboard, we send photons and count them. After sending a lot of photons, we can define the probability of landing in the rectangle of Fig. "Photon Prob" by counting how many photons landed there versus the total that we sent.
 
 [ciscode|rev=1|tool=elmsmedia|item=2245|entity_type=node|render=display_mode|display_mode=image__left]
 
@@ -31,9 +31,9 @@ As you can see with your eyes, there are more photons where the light wave is mo
 
 So there is a **link between the wave and the particle**. And the link is that:
 
-> **The probability Prob(x) of detecting a photon at a particular point x is directly proportional to the intensity of the light wave at that point.**
+> **The probability p of detecting a photon at a particular point x is directly proportional to the intensity of the light wave at that point.**
 > 
-> $\rm{Prob}(x) \propto I(x) \propto A(x)^2$
+> $p \propto I(x) \propto A(x)^2$
 > 
 > In the last part, we wrote that the intensity is the square of the amplitude of the wave A. For an electromagnetic wave, the amplitude will be given by the maximum electric field as we saw before.
 
