@@ -33,7 +33,7 @@ $P = (\phi_1+\phi_2)^2$.
 ## Classical Probability versus Quantum probability
 
 We can now see the first really strange thing about quantum mechanics. Let us say that we want to know the probability of photons landing at a position $x$ where $\phi_1 = \frac{1}{\sqrt{4}}$ and $\phi_2=-
-\frac{1}{\sqrt{4}}$. The two wave amplitudes are different because the waves travel different distances. The negative sign means that wave 2 is in a through. 
+\frac{1}{\sqrt{4}}$. The two wave amplitudes are different because the waves travel different distances. The negative sign means that wave 2 is in a trough. 
 
 If only slit 1 is opened. The probability of finding a photon at x would be 1/4. 
 
