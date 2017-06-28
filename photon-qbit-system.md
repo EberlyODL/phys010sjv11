@@ -19,22 +19,24 @@ Now we can introduce a beam splitter. In real life those are made with half-silv
 
 If we start with a photon in the lower beam (state $\lvert 1\rangle$) and send it to a beam splitter, the photon will have 50% chance of being reflected back in the lower beam (back to $\lvert 1\rangle$) or 50% of passing thru and going to upper beam ($\lvert 0\rangle$).  
 
-The resulting quantum state after the beam splitter is a superposition of the two states. We can denote this by saying that the state after beamsplitter (lets call it $\psi$) is 
+The resulting quantum state after the beam splitter is a superposition of the two states. We can denote this by saying that the state after beamsplitter (let us call it $\psi$, pronounced "psi") is 
 
 $\lvert \psi \rangle=\frac{1}{\sqrt{2}}\lvert 0\rangle + \frac{1}{\sqrt{2}}\lvert 1\rangle$
 
-The factor of $1/\sqrt{2}$ are what we use to call $\phi$, the wave associated with the photon. If you square the coefficient, we get the probabilities. So this particular state $\psi$ has probability of 1/2 (50%) of being in either state 0 or state 1. 
+The factor of $1/\sqrt{2}$ are what we use to call $\phi$ (pronounced "phi"), the wave associated with the photon. If you square the coefficient, we get the probabilities. 
+
+Make sure you understand the notation, I know this is new and strange but the idea is simplest. A photon in the quantum state $\psi$ is a photon whose probability is given by the superposition of two waves.  The photon has probability of 1/2 (50%) of being in either state 0 or state 1. 
 
 See fig. "superposition"
 
 [ciscode|rev=1|tool=elmsmedia|item=2249|entity_type=node|render=display_mode|display_mode=image]
 
-Note that when the photon is in a superposition, it is neither in the lower or upper beam. We cannot tell which beam the photon is in without using the detectors. 
+Note that when the photon is in a superposition, it is neither in the lower or upper beam. But we if detect it, it will be in one or the other (with equal probability in this example). 
 
-A beamsplitter can reverse the sign of the coefficient depending on the direction you come from. This is because a wave often get its amplitude reversed upon reflection so the state 
+A beamsplitter can also reverse the sign of the coefficient depending on the direction you come from. This is because a wave often get its amplitude reversed upon reflection so the state 
 
 $\lvert \psi \rangle=\frac{1}{\sqrt{2}}\lvert 0\rangle - \frac{1}{\sqrt{2}}\lvert 1\rangle$
 
-with a minus sign in the lower beam can also be created. In fact by using two different beamsplitter (the one that gives a minus sign is labeled -) we can get destructive interference in the lower beam such that the photon is always in the upper beam. 
+with a minus sign in the lower beam can also be created. In fact by using two different beam splitter (the one that gives a minus sign is labeled "-" in figure) we can get destructive interference in the lower beam such that the photon is always in the upper beam. 
 
 [ciscode|rev=1|tool=elmsmedia|item=2251|entity_type=node|render=display_mode|display_mode=image]
