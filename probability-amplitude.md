@@ -16,7 +16,7 @@ Returning to the double slits. See the fig below that shows the intensity $\phi(
 
 [ciscode|rev=1|tool=elmsmedia|item=2241|entity_type=node|render=display_mode|display_mode=image]
 
-So let us denote the wave from slit 1 $\phi_1$ and the wave from slit 2 $\phi_2$. 
+So let us denote the wave from slit 1, $\phi_1$ and the wave from slit 2, $\phi_2$. 
 
 If only slit 1 is opened we get the pattern on uppermost left image. The probability is max at the center and goes to zero on either side. Same with slit 2, slightly shifted 
 
@@ -41,7 +41,7 @@ If only slit 2 is opened. The probability of finding a photon at x would also be
 
 Normal thinking human would say that the probability with both slits open together would be the sum. The probability that the photon from slit 1 **OR** the photon from slit 2 land at x **naively** should be 1/4+1/4 = 1/2 (the sum of the probabilities). 
 
-But NO! The probability is $P = (\phi_1+\phi_2)^2 = (\frac{1}{\sqrt{4}}-\frac{1}{\sqrt{4}})^2 =0$
+But NO! The probability is $P = (\phi_1+\phi_2)^2 = \left(\frac{1}{\sqrt{4}}-\frac{1}{\sqrt{4}}\right)^2 =0$
 
 > The probability of finding a photon in certain locations with two waves on screen is less than with a single wave! This is destructive interference.
 
