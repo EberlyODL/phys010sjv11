@@ -25,6 +25,6 @@ In the modern way of doing quantum mechanics, we often talk about information. E
 
 > Quantum mechanics is what happens when nobody is looking. If you look, then interference effect disappears!
 
-Here is a nice video that shows all the different aspects we have discussed about the double slit experiment. 
+Here is a nice video summarizing some of these ideas. 
 
 <iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/wsq7qXr9Hl0?rel=0" width="560"></iframe>
