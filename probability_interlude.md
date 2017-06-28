@@ -1,8 +1,8 @@
 To understand how photons behave, we need to take a pause and talk about probability.
 
-Imagine the following situation: You are blindfolded and throwing darts at a dartboard as shown in the image below. You roughly know where the dartboard is and most of your shots are near the center. After a 100 shots, you get this:
+Imagine the following situation: You are blindfolded and throwing darts at a dartboard as shown in the image below. You roughly know where the dartboard is and most of your shots are near the center. After a 100 shots, you get this pattern (see fig):
 
-[ciscode|rev=1|tool=elmsmedia|item=2237|entity_type=node|render=display_mode|display_mode=image__right]
+[ciscode|rev=1|tool=elmsmedia|item=2237|entity_type=node|render=display_mode|display_mode=image__left]
 
 <iframe src="https://h5p.org/h5p/embed/88836" width="1090" height="319" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
@@ -28,4 +28,6 @@ Note that the chance of hitting anything at all (A OR B OR C) should be 1 or 100
 
 \(P_A+P_B+P_C =1\)
 
-> As we will see quantum mechanics is special when it comes to adding probability because of interference. 
+> As we will see quantum mechanics is special when it comes to adding probability because of interference.
+
+> Note: A probability is a pure number (no units) between 0 (impossible) and 1 (certain). Often the number is represented as a percentage or as a fraction. For example a probability of p = 0.25 can be represented as 25% (25/100) or as 1/4. One chance out of 4 is a probability p=0.25. 
