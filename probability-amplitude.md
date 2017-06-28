@@ -8,17 +8,17 @@ Given our discussion from the last section, the probability of finding a photon 
 
 $P(x) = \phi(x)^2$. 
 
-Because we need to square, we say that $\phi$ is the **probability amplitude **. This is a strange object, the square root of probability!
+Because we need to square, we say that $\phi$ is the **probability amplitude**. This is a strange object, the square root of probability!
 
 > Again, I remind you that probabilities are just numbers with no units. The probability that a coin lands on head is 1/2. No units needed. The **probability amplitude** that a coin lands on head is $1/\sqrt{2}$. This is also just a number with no units. Once you square it, it gives the probability of 1/2.
 
-Here we have two waves (see fig below again). Note that the images show the intensity ($\phi(x)^2$) not the wave and more intense is darker. 
+Returning to the double slits. See the fig below that shows the intensity $\phi(x)^2$ of each wave from each slit and the combined result; more intense is darker. 
 
 [ciscode|rev=1|tool=elmsmedia|item=2241|entity_type=node|render=display_mode|display_mode=image]
 
 So let us denote the wave from slit 1 $\phi_1$ and the wave from slit 2 $\phi_2$. 
 
-If only slit 1 is opened we get the pattern on uppermost left image. The probability is max at the center and goes to zero on either side. Same with slit 2. 
+If only slit 1 is opened we get the pattern on uppermost left image. The probability is max at the center and goes to zero on either side. Same with slit 2, slightly shifted 
 
 Now, if we open both slits, the wave that will reach the screen will be a superposition of wave 1 and wave 2. Superposition is the sum so 
 
@@ -30,17 +30,17 @@ $P(x) = (\phi_1+\phi_2)^2$.
 
 ## Classical Probability versus Quantum probability
 
-We can now see the first really strange things about quantum mechanics. Let us say that we want to know the probability of photons landing at a position $x$ where $\phi_1 = 1/\sqrt{4}$ and $\phi_2=-1\sqrt{4}$. The two wave amplitude are different because the wave travelled different distances. The negative sign means that wave 2 is in a through. 
+We can now see the first really strange thing about quantum mechanics. Let us say that we want to know the probability of photons landing at a position $x$ where $\phi_1 = 1/\sqrt{4}$ and $\phi_2=-1\sqrt{4}$. The two wave amplitudes are different because the waves travel different distances. The negative sign means that wave 2 is in a through. 
 
 If only slit 1 is opened. The probability of finding a photon at x would be 1/4. 
 
-If only slit 2 is opened. The probability of finding a photon at x is also 1/4 (the minus sign does not matter when you square). 
+If only slit 2 is opened. The probability of finding a photon at x would also be 1/4 (the minus sign does not matter when you square). 
 
-Normal thinking human would say that the probability with both slits open be the sum. The probability that the photon from slit 1 **OR** the photon from slit 2 land at x is 1/4+1/4 = 1/2 (the sum of the probability). 
+Normal thinking human would say that the probability with both slits open together would be the sum. The probability that the photon from slit 1 **OR** the photon from slit 2 land at x **naively** should be 1/4+1/4 = 1/2 (the sum of the probabilities). 
 
 But NO! The probability is $P = (\phi_1+\phi_2)^2 = (1/\sqrt{4}-1\sqrt{4})^2 =0$
 
-> The probability of finding a photon with two waves is less than with a single wave! This is destructive interference.
+> The probability of finding a photon in certain locations with two waves on screen is less than with a single wave! This is destructive interference.
 
-Quantum probability does not use the addition rule! This is because probability are determined by a preliminary steps of adding probability amplitudes. There can be interferences when adding those amplitudes!
+Quantum probability does not use the addition rule! This is because probability are determined by a preliminary step of adding probability amplitudes. There can be interferences when adding those amplitudes!
 
