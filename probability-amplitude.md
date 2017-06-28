@@ -10,7 +10,7 @@ $P(x) = \phi(x)^2$.
 
 Because we need to square, we say that $\phi$ is the **probability amplitude**. This is a strange object, the square root of probability!
 
-> Again, I remind you that probabilities are just numbers with no units. The probability that a coin lands on head is 1/2. No units needed. The **probability amplitude** that a coin lands on head is $1/\sqrt{2}$. This is also just a number with no units. Once you square it, it gives the probability of 1/2.
+> Again, I remind you that probabilities are just numbers with no units. The probability that a coin lands on head is 1/2. No units needed. The **probability amplitude** that a coin lands on head is $\frac{1}{\sqrt{2}}$. This is also just a number with no units. Once you square it, it gives the probability of 1/2.
 
 Returning to the double slits. See the fig below that shows the intensity $\phi(x)^2$ of each wave from each slit and the combined result; more intense is darker. 
 
@@ -26,14 +26,14 @@ $\phi(x) =\phi_1(x)+\phi_2(x)$
 
 The probability of finding a photon at x is the square of $\phi$. 
 
-$P(x) = (\phi_1(x)+\phi_2(x))^2$.
+$P = (\phi_1+\phi_2)^2$.
 
-> I will drop the $(x)$ sometimes. The symbol is just to remind us that $p$ and $\phi$ depends on position on screen. They vary, they are function of horizontal position on screen. 
+> I will drop the $(x)$ sometimes to make the equation less cluttered. The symbol $(x)$ is just to remind us that $p$ and $\phi$ depends on position on screen. They vary, they are function of horizontal position on screen. So the actual probability is written as $P(x) = (\phi_1(x)+\phi_2(x))^2$
 
 ## Classical Probability versus Quantum probability
 
 We can now see the first really strange thing about quantum mechanics. Let us say that we want to know the probability of photons landing at a position $x$ where $\phi_1 = \frac{1}{\sqrt{4}}$ and $\phi_2=-
-frac{1}{\sqrt{4}}$. The two wave amplitudes are different because the waves travel different distances. The negative sign means that wave 2 is in a through. 
+\frac{1}{\sqrt{4}}$. The two wave amplitudes are different because the waves travel different distances. The negative sign means that wave 2 is in a through. 
 
 If only slit 1 is opened. The probability of finding a photon at x would be 1/4. 
 
@@ -41,7 +41,7 @@ If only slit 2 is opened. The probability of finding a photon at x would also be
 
 Normal thinking human would say that the probability with both slits open together would be the sum. The probability that the photon from slit 1 **OR** the photon from slit 2 land at x **naively** should be 1/4+1/4 = 1/2 (the sum of the probabilities). 
 
-But NO! The probability is $P = (\phi_1+\phi_2)^2 = (1/\sqrt{4}-1/\sqrt{4})^2 =0$
+But NO! The probability is $P = (\phi_1+\phi_2)^2 = (\frac{1}{\sqrt{4}}-\frac{1}{\sqrt{4}})^2 =0$
 
 > The probability of finding a photon in certain locations with two waves on screen is less than with a single wave! This is destructive interference.
 
