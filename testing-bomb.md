@@ -1,7 +1,7 @@
 [ciscode|rev=1|tool=elmsmedia|item=2251|entity_type=node|render=display_mode|display_mode=image]
 
 
-In the current setup (see Fig Two beam). The outcome vs probability are
+Recap: We have a setup where the photon starts in lower beam. A beam splitter creates a states where the photon could be either up or down and second repeats the splitting with a minus sign difference for the wave amplitude on the lower beam. The minus sign lead to destructive interference and the final state is 100% certain to be in upper beam. The setup is shown in Fig "Two beamsplitters...). Here is a table of outcome with probabilities
 
 ### Outcome for two beamsplitters
 
@@ -10,11 +10,11 @@ In the current setup (see Fig Two beam). The outcome vs probability are
 |photon reaches D0|1
 |photon reaches D1|0
 
-Imagine we change the setting slightly by putting our hand in the lower beam between the two beamsplitters. Our hand will absorb the photon and let us say that we can tell so when a photon hits, you scream "Ow!" 
+Imagine we change the setting slightly by putting our hand in the lower beam between the two beamsplitters. Our hand will absorb the photon and let us say that we can tell when a photon hits. When a photon arrive, you scream "Ow!" 
 
- This will destroy the interference effect. We send the photon in the apparatus it has 50% chance of striking the hand. If it does, its done, the photon was absorbed by the hand. If it does not than we know the photon is in the upper beam before the final beam splitter. The second beamsplitter will split halfway between up and down. So the end result
- 
- ### Outcome for two beamsplitters and hand in lower beam
+ This will destroy the interference effect (the hand, not the screaming).  We send the photon in the apparatus it has 50% chance of striking the hand. If it does, its done, the photon was absorbed by the hand. If it does not  hit the hand than we know the photon is in the upper beam before the final beam splitter. The second beamsplitter will split halfway between up and down. So the end result is
+
+### Outcome for two beamsplitters and hand in lower beam
 
 |outcome|Probability (P)
 |-------
@@ -22,9 +22,9 @@ Imagine we change the setting slightly by putting our hand in the lower beam bet
 |photon reaches D1|1/4
 |photon hits hand|1/2
 
-> Note that the chance of detecting photon in detector D1 has increased by putting a hand and block part of the beam!!
+> Note that the chance of detecting a photon in detector D1 has increased by putting a hand by blocking part of the beam!!
 
-This is another example of complementary. If we determine in which beam the photon was going, we destroy the interference pattern. The act of measuring changes the state. If the photon does not hit my hand, I will know that it is in the upper beam. I have acquired information which then affect further measurements. 
+This is another example of complementary. If we determine in which beam the photon was going in the middle, we destroy the interference pattern. The act of measuring changes the state. If the photon does not hit my hand, I will know that it is in the upper beam. I have acquired information which then affect further measurements. 
 
 ## Testing bombs. 
 
@@ -51,4 +51,4 @@ Note that the photon never triggered the bomb but the fact that it could have do
 
 **If you are not seriously perplexed by this. Reread this page again.**
 
-> If the photon lands in D0 a 100 times, the you can tell your manager. There is a very good chance that this bomb is a dud. 
+> If the photon lands in D0 a 100 times, the you can tell your manager. There is a very good chance that this bomb is a dud.
