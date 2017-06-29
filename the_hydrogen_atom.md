@@ -26,6 +26,8 @@ Physicists can solve exactly for the standing wave solutions. Because the soluti
 
 Instead of showing you the wave, we will show you the square of the amplitude of the wave (see Fig "Electron Wavefunction for Hydrogen"). I remind you again that this is where the electron is most likely to be found, not where it is.
 
+[ciscode|rev=1|tool=elmsmedia|item=924|entity_type=node|render=display_mode|display_mode=image]
+
 Because, we are in three dimensions, there are three quantum numbers (three integers), n, l and m. In this class, we will simplify and only keep track of **n, which we call the level**.
 
 ### External Resources. 

@@ -1,4 +1,4 @@
-To recap what you just saw. When an electron is bound to a proton, only a certain set of wavefunctions are allowed. This is the so-called orbital model or cloud model of atoms (see Fig. 7).
+To recap. When an electron is bound to a proton, only a certain set of wavefunction are allowed. This is the so-called orbital model or cloud model of atoms (see Fig. 7).
 
 ![Cloud model. Proton is centered and electron is represented by a cloud. ](https://online.science.psu.edu/sites/default/files/phys010/W9QM2/cloudmodel2.png "Fig 7. Cloud model of the atom, representing the most likely position of the electron.")
 
