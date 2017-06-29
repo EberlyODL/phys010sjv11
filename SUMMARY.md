@@ -98,7 +98,7 @@
     * [Stationary Waves](stationary_waves.md)
     * [Particle in a Box](particle_in_a_box.md)
     * [Antimatter](antimatter.md)
-    * [Atoms Colliders](atoms_colliders.md)
+    * [Particle Colliders](atoms_colliders.md)
     * [Newsflash 9](newsflash_8.md)
   * [Week 10: Atoms and High-Tech](week_12_atoms_and_high_tech.md)
     * [The Hydrogen Atom](the_hydrogen_atom.md)
