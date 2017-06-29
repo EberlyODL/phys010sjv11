@@ -104,7 +104,7 @@
     * [The Hydrogen Atom](the_hydrogen_atom.md)
     * [Spectroscopy](spectroscopy.md)
     * [Spectroscopy Take 2](spectroscopy_take_2.md)
-    * [Newsflash 9](newsflash_9.md)
+    * [Newsflash 10](newsflash_9.md)
     * [Semiconductors](semiconductors.md)
     * [Transistors](transistors.md)
     * [Week 10 Summary](week_12_summary.md)

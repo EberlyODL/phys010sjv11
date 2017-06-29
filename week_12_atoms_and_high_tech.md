@@ -11,5 +11,3 @@ By the end of the week you will be able to:
 ## News Article
 
 <a href="http://wallstreetpit.com/113644-new-graphene-transistors-super-fast-computers/" target="_blank">Graphene to replace Silicon? Where is Graphene Valley?</a>
-
-- [Why are chips made out of silicon?](https://www.extremetech.com/extreme/208501-what-is-silicon-and-why-are-computer-chips-made-from-it)
