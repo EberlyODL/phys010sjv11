@@ -29,7 +29,7 @@ These dark and bright fringes are the same kind of interference that we use to p
 
 [ciscode|rev=1|tool=elmsmedia|item=2253|entity_type=node|render=display_mode|display_mode=image__boxed__right__lightboxed]
 
-### Contrast between an electron and the photon. 
+## Contrast between an electron and the photon. 
 
 **1. Electrons**
 
@@ -45,12 +45,12 @@ with _h_ being Planck's constant. Because we do not know what is the speed of th
 
 The photon is a particle with no mass but it still has energy and momentum related by $E=pc$. There is a wave associated with the photon. We know what that wave is. It is the electromagnetic wave. The amplitude squared of the E&M wave tells us the probability of finding the photons in a region of space.
 
-The relation between the wave and the particle is either de Broglie relation which tell us that the wavelength of the wave \(\lambda\) is inversely proportional to the momentum of the particle. 
+The relation between the wave and the particle is either de Broglie relation which tell us that the wavelength of the wave $\lambda$ is inversely proportional to the momentum of the particle. 
 
 $\lambda = h/p$
 
 with _h_ being Planck's constant. Or we can also use Einstein's relation
 
-$ E= hf$
+$E= hf$
 
 These two are equivalent because we know that the E&M wave travels at the speed of light so we know that $c=\lambda f$ while we also know from special relativity that the energy of the photon is $E=pc$.
