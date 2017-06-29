@@ -22,7 +22,7 @@ The more waves we use to construct the wavepacket, the more localized in space w
 
 But we know from the de Broglie relationship that each standard oscillatory wave with a fixed wavelength (Fig. "Typical wave") corresponds to a fixed momentum $\lambda = h/p$.
 
-Since a wavepacket is made by combining multiple waves with a range of wavelength. This means that a particle that is described by a wavepacket really has a **range** of momentum $\Delta p$ just like it has range of position $\Delta x$.
+Since a wavepacket is made by combining multiple waves with a range of wavelength. This means that a particle that is described by a wavepacket really has a **range** of possible momentum $\Delta p$ just like it has range of position $\Delta x$.
 
 One can show mathematically, that in order to localize a wave in space (a wavepacket in a small range $\Delta x$ ), you need to sum a bigger range of momentum. This is known as the uncertainty principle. In equation (with numbers included) this says,
 
