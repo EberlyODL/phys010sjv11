@@ -1,5 +1,4 @@
-Learning Objectives
--------------------
+## Learning Objectives
 
 The objectives for this lesson are that by the end of the week you will be able to:
 
@@ -8,8 +7,7 @@ The objectives for this lesson are that by the end of the week you will be able 
 3. Understand the uncertainty principle.
 4. Recall what antimatter is.
 
-News Article
-------------
+## News Article
 
 <a href="https://www.nature.com/news/physicists-excited-by-latest-lhc-anomaly-1.21865" target="_blank">Hint of new particles?</a>
 
