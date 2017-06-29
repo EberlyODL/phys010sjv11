@@ -25,7 +25,7 @@ The important thing to understand here is that the more massive the object, the 
 
 If you send a beam of electron through a small single slit, you will get a diffraction pattern that closely resembles what you get when you shine a laser through a small hole.
 
-What is important there is that the hole is roughly the same size as the wavelength of the laser beam or the electron beam. These dark and bright fringes are the same kind of interference that we use to prove that light was a wave!
+These dark and bright fringes are the same kind of interference that we use to prove that light was a wave!
 
 [ciscode|rev=1|tool=elmsmedia|item=2253|entity_type=node|render=display_mode|display_mode=image__boxed__right__lightboxed]
 
