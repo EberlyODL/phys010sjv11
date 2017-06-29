@@ -33,3 +33,11 @@ $\Delta x \Delta p \geq \frac{h}{2}$
 This is not magic, it is just a property of waves. 
 
 [ciscode|rev=1|tool=elmsmedia|item=2262|entity_type=node|render=display_mode|display_mode=h5p]
+
+## Complementary
+
+This is also another example of complementary in quantum mechanics. You should remember that when we discussed photons, it was impossible to measure which slits they went through at the same time as measuring the interference pattern. You either measured one or the other. 
+
+We have a similar situation here, we cannot measure position and momentum at the same time. If we know the position, the uncertainty $\Delta x$ will be very small, the wavepacket will be very localized but then the uncertainty on momentum will be very large and the speed will be unknown. 
+
+[ciscode|rev=1|tool=elmsmedia|item=2605|entity_type=node|render=display_mode|display_mode=image]
