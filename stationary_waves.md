@@ -30,11 +30,4 @@ for n = 1, 2, 3, ....
 
 So, for example, the first harmonic, the fundamental, has a wavelength equal to $\lambda_1 = 2L.$ This makes sense since as you can see from Fig. 3, the first harmonic looks like half a wavelength on the whole string.
 
-<div class="question">Q. Blow over a straw and then cut it in half and blow again. What happens to the pitch?
-
-1. [It increases.](#)**Correct!** L decreases, so the wavelength of the mode (whichever one we were exciting) decreases. That means the frequency increases and thus the pitch increases.
-2. [It decreases.](#)**No**. The other way around.
-3. [It remains the same.](#)**No**. The pitch does change.
-4. [Can't tell.](#)**No**.
-
-</div>
+[ciscode|rev=1|tool=elmsmedia|item=2612|entity_type=node|render=display_mode|display_mode=h5p]
