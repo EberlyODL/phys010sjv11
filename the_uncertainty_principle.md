@@ -4,7 +4,7 @@ $\psi(x)$
 
 to describe it. If matter particles are described by a wave, what does this wave look like?
 
-Well, first of all, it is usually constrained to a small location. When we talked about wave earlier, we used to talk about wave of fixed wavelength and frequency, like in Fig. "Typical Sine Wave" below.
+Well, first of all, it is usually constrained to a small location. When we talked about wavea earlier, we used to talk about wave of fixed wavelength and frequency, like in Fig. "Typical Sine Wave" below.
 
 [ciscode|rev=1|tool=elmsmedia|item=2255|entity_type=node|render=display_mode|display_mode=image]
 
@@ -14,7 +14,7 @@ The real wave associated with an electron looks more like the Fig. "Wavepacket":
 
 [ciscode|rev=1|tool=elmsmedia|item=2259|entity_type=node|render=display_mode|display_mode=image]
 
-You can think of wavepacket had being the sum of a bunch of waves with different wavelength $\Delta \lambda$ as you can see in the animation "Making a wavepacket" below.
+You can think of a wavepacket has being the sum of a bunch of waves with different wavelength $\Delta \lambda$ as you can see in the animation "Making a wavepacket" below.
 
 [ciscode|rev=1|tool=elmsmedia|item=2261|entity_type=node|render=display_mode|display_mode=image]
 

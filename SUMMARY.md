@@ -95,12 +95,12 @@
   * [Week 9: Quantum Physics 2 - Electrons](week_11_review_and_the_lhc.md)
     * [Everything is a particle-wave](everything_is_a_particle_wave.md)
     * [The Uncertainty Principle](the_uncertainty_principle.md)
-    * Entanglement
     * [Particle in a Box](particle_in_a_box.md)
     * [Stationary Waves](stationary_waves.md)
     * [Antimatter](antimatter.md)
     * [Atoms Colliders](atoms_colliders.md)
     * [Newsflash 9](newsflash_8.md)
+    * [Entanglement](entanglement.md)
   * [Week 10: Atoms and High-Tech](week_12_atoms_and_high_tech.md)
     * [The Hydrogen Atom](the_hydrogen_atom.md)
     * [Spectroscopy](spectroscopy.md)
