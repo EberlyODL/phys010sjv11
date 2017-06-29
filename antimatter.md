@@ -1,3 +1,11 @@
+The stationary wave we have just discussed are important for most electrons in normal objects surrounding. Electrons move but they are restrained to stay within atoms or metals because of electric forces. We will continue our study of electrons in conductors and semiconductors next week is it is the basis for many important technology. 
+
+But What happens if we start moving electrons (or protons) at high speed?
+
+This is what we do in particle accelerators where electrons or protons are moving a near light speed and then collide with each other or with fixed targets. The study of these high energy collisions our view of the Universe and they have revealed a rich zoo if subatomic particles. 
+
+## Combining Relativity and Quantu
+
 A consequence of both relativity and quantum mechanics is that every particle has an antiparticle with the exact same mass but opposite electric charge. We will not explain here why this is true, but suffice to say that by now it is a well-known fact as we have produced many antimatter particles over the years.
 
 The antipartner of the electron is called the positron. It has exactly the same mass but its electric charge is positive.
