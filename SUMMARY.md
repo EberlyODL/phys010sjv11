@@ -100,6 +100,7 @@
     * [Antimatter](antimatter.md)
     * [Particle Colliders](atoms_colliders.md)
     * [Newsflash 9](newsflash_8.md)
+    * [Week 9 Summary](week-9-summary.md)
   * [Week 10: Atoms and High-Tech](week_12_atoms_and_high_tech.md)
     * [The Hydrogen Atom](the_hydrogen_atom.md)
     * [Spectroscopy](spectroscopy.md)
