@@ -1,4 +1,4 @@
-The stationary wave we have just discussed are important for most electrons in normal objects surrounding. Electrons move but they are restrained to stay within atoms or metals because of electric forces. We will continue our study of electrons in conductors and semiconductors next week is it is the basis for many important technology. 
+The stationary wave we have just discussed are important for most electrons in normal objects surrounding. Electrons move but they are restrained to stay within atoms or metals because of electric forces. We will continue our study of electrons in conductors and semiconductors next week. It is the basis for many important technologies. 
 
 But What happens if we start moving electrons (or protons) at high speed?
 
