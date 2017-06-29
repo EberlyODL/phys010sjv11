@@ -14,21 +14,21 @@ In the next figure, you can see the first two harmonics (the first two notes) on
 
 In the demo below, I will produce standing sound waves in a tube. This is analogous to standing waves on a string, except that sound is a wave of pressure and the two ends of the tube are places where the pressure never changes. (These are the nodes.)
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/uCcop95oEbE?rel=0" width="420"></iframe>
+[ciscode|rev=1|tool=elmsmedia|item=2608|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 \*\* Note: You can tell which harmonic it is by counting the number of antinodes, which are the places where the amplitude is at its maximum.
 
 ### Explanation Follow-up
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/v4-GhbN_b3k?rel=0" width="560"></iframe>
+[ciscode|rev=1|tool=elmsmedia|item=2610|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 The upshot and most important thing to remember is that only a specific set of wavelengths are allowed on a string (or in a tube open at both sides). For a string or tube of length L, the possible wavelengths are given by the formula
 
-\(\lambda_n = \frac{2L}{n}\)
+$\lambda_n = \frac{2L}{n}$
 
 for n = 1, 2, 3, ....
 
-So, for example, the first harmonic, the fundamental, has a wavelength equal to \(\lambda_1 = 2L.\) This makes sense since as you can see from Fig. 3, the first harmonic looks like half a wavelength on the whole string.
+So, for example, the first harmonic, the fundamental, has a wavelength equal to $\lambda_1 = 2L.$ This makes sense since as you can see from Fig. 3, the first harmonic looks like half a wavelength on the whole string.
 
 <div class="question">Q. Blow over a straw and then cut it in half and blow again. What happens to the pitch?
 
