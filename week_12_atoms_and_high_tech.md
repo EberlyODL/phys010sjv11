@@ -3,6 +3,8 @@ Lesson Objectives
 
 By the end of the week you will be able to:
 
+LOQua08	describe the physics behind absorption and emission lines in atomic spectraLOTec05	explain the important differences between conductors, semi-conductors and transistors.LOTec06	understand by analogies what the transistor is and what it doesLOTec07	recall all three fissile materials that we use in chain reactors
+
 1. Discuss how the wavelike nature of the electron implies that its energy must be quantized when confined in space.
 2. Describe the physics behind absorption and emission lines in atomic spectra.
 3. Explain the important difference between conductors, semi-conductors and transistors.
