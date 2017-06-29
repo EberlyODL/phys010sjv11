@@ -12,7 +12,7 @@ In the next figure, you can see the first two harmonics (the first two notes) on
 
 [ciscode|rev=1|tool=elmsmedia|item=1032|entity_type=node|render=display_mode|display_mode=image]
 
-In the demo below, Prof. Leblond produces standing sound waves in a tube. This is analogous to standing waves on a string, except that sound is a wave of pressure and the two ends of the tube are places where the pressure never changes. (These are the nodes.)
+In the demo below, I will produce standing sound waves in a tube. This is analogous to standing waves on a string, except that sound is a wave of pressure and the two ends of the tube are places where the pressure never changes. (These are the nodes.)
 
 <iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/uCcop95oEbE?rel=0" width="420"></iframe>
 
