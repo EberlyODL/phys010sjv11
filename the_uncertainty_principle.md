@@ -30,6 +30,6 @@ $\Delta x \Delta p \geq \frac{h}{2}$
 
 > **The more precisely we know the position, the more uncertain we are about the momentum.**
 
-This is not magic, it just a property of waves. Note that you do not need to know the equation, just the concept.
+This is not magic, it is just a property of waves. 
 
 [ciscode|rev=1|tool=elmsmedia|item=2262|entity_type=node|render=display_mode|display_mode=h5p]
