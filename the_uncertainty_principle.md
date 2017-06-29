@@ -42,4 +42,4 @@ We have a similar situation here, we cannot measure position and momentum at the
 
 [ciscode|rev=1|tool=elmsmedia|item=2605|entity_type=node|render=display_mode|display_mode=image]
 
-> This is really more applicable to small numbers of particles. With Ensemble of particles, the quantum behavior gets erase because of all the interaction so we really can tell the position of a car and its momentum to pretty good accuracy. 
+> This is really more applicable to small numbers of particles. With ensembles of particles, the quantum behavior is erased because of all the interaction so we really can tell the position of a car and its momentum to pretty good accuracy. 
