@@ -1,10 +1,18 @@
-Up to now we looked at traveling waves. These are waves that are moving in a specific direction; but sometimes waves are stuck and don't move. We call those waves _standing waves_. A good example is the wave you get on the string of a guitar (Fig. 1).
+Electrons interact with the electric force and they are often confined to small places. Photons always move but electrons can be stuck (relatively) to a small area. 
 
-<div>[ciscode|rev=1|tool=elmsmedia|item=1030|entity_type=node|render=display_mode|display_mode=image]</div>When you pluck the string on a guitar, it vibrates, but, because the string is attached at both ends, you are restricted in which pattern of vibration you can establish (see Fig. 2). Places on the string which never move (like the two ends) are called nodes. In Fig. 3, you can see the first two harmonics (the first two notes) on a guitar string.
+Up to now we have looked at traveling waves. These are waves that are moving in a specific direction; but sometimes waves are stuck and don't move. We call those waves _standing waves_. A good example is the wave you get on the string of a guitar (Fig. 1).
 
-<div><div class="figurelabel"><div class="figurelabel__title">Figure 2</div><div class="figurelabel__desc">various possible vibrations modes on a string of a guitar.</div></div>[ciscode|rev=1|tool=elmsmedia|item=1031|entity_type=node|render=link|field=field_image|text=Stationary Waves|delta=0|item_type=image|alt=animation showing the first five modes of vibrations on a string. |width=360|height=339]
+[ciscode|rev=1|tool=elmsmedia|item=1030|entity_type=node|render=display_mode|display_mode=image]
 
-</div><div>[ciscode|rev=1|tool=elmsmedia|item=1032|entity_type=node|render=display_mode|display_mode=image]</div>In the demo below, Prof. Leblond produces standing sound waves in a tube. This is analogous to standing waves on a string, except that sound is a wave of pressure and the two ends of the tube are places where the pressure never changes. (These are the nodes.)
+When you pluck the string on a guitar, it vibrates, but, because the string is attached at both ends, you are restricted in which pattern of vibration you can establish. Places on the string which never move (like the two ends) are called nodes. 
+
+[ciscode|rev=1|tool=elmsmedia|item=1031|entity_type=node|render=link|field=field_image|text=Stationary Waves|delta=0|item_type=image|alt=animation showing the first five modes of vibrations on a string. |width=360|height=339]
+
+In the next figure, you can see the first two harmonics (the first two notes) on a guitar string.
+
+[ciscode|rev=1|tool=elmsmedia|item=1032|entity_type=node|render=display_mode|display_mode=image]
+
+In the demo below, Prof. Leblond produces standing sound waves in a tube. This is analogous to standing waves on a string, except that sound is a wave of pressure and the two ends of the tube are places where the pressure never changes. (These are the nodes.)
 
 <iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/uCcop95oEbE?rel=0" width="420"></iframe>
 
