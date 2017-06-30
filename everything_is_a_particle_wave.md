@@ -15,7 +15,7 @@ For particles with a mass, a more general relationship was proposed by Louis de 
 
 $ \lambda = \frac{h}{p}$
 
-For a massless particle like the photon we have that $E=pc$ and you can check (using that $c = \lambda f$ that the de Broglie relationship is the same as Einstein's. But for massive particles the momentum is $ p= mv$ (at "low" speed w.r.t. _c_). So the de Broglie wavelength is
+For a massless particle like the photon we have that $E=pc$ and you can check (using that $c = \lambda f$ that the de Broglie relationship is the same as Einstein's. But for massive particles the momentum is $ p= mv$ (at "low" speed w.r.t. _c_). The de Broglie wavelength is
 
 $ \lambda = \frac{h}{mv}$
 
