@@ -18,7 +18,7 @@ The transistor is so important to everyday life that its electronic symbol can b
 
 [ciscode|rev=1|tool=elmsmedia|item=906|entity_type=node|render=display_mode|display_mode=image]
 
-The electronic symbol for the transistor shows the three basic components: the **source**, the **drain** and the **base**. Again the basic functioning is that by turning a voltage on the base, we turn the switch on and we let electrons go from the source to the drain.
+The electronic symbol for the transistor shows the three basic components: the **source**, the **drain** and the **base**. Again, the basic functioning is that by turning a voltage on the base, we turn the switch on and we let electrons go from the source to the drain.
 
 [ciscode|rev=1|tool=elmsmedia|item=907|entity_type=node|render=display_mode|display_mode=image]
 [ciscode|rev=1|tool=elmsmedia|item=908|entity_type=node|render=display_mode|display_mode=image]
