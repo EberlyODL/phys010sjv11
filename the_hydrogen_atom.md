@@ -1,4 +1,4 @@
-The hydrogen atom is the simplest possible atom. It is made of a proton with positive electric charge and an electron with negative electric charge. The two are attracted together via the electric force. We can represent the force on the electron exerted by the proton using our good friend the potential energy diagram introduce during the "light as particle" week. .
+The hydrogen atom is the simplest possible atom. It is made of a proton with positive electric charge and an electron with negative electric charge. The two are attracted together via the electric force. We can represent the force on the electron exerted by the proton using our good friend the potential energy diagram introduce during the "light as particle" week.
 
 The electric potential energy felt by an electron around a single proton is just a "well" that gets steeper the closer the electron gets to the proton. Using r for the radial distance the potential energy looks like Fig. "Potential Energy for Electron in Hydrogen"
 
