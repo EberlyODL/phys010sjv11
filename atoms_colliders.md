@@ -16,7 +16,7 @@ By increasing the momentum p, the energy increases. When accelerated electrons a
 
 ### Large Hadron Collider 
 
-Over the years, we have built many different particle accelerators. The latest, baddest and strongest machine is the Large Hadron Collider where they collide protons wth protons at the LHC.
+Over the years, we have built many different particle accelerators. The latest, baddest and strongest machine is the Large Hadron Collider where they collide protons with protons at the LHC.
 
 This is a 27 km long underground ring in which we accelerate protons (in both directions) until they go at nearly the speed of light (not quite, but some 99.999999% _c_). Their momentum grows to huge values and in fact the energy due to their motion is much more important than their mass energy (the $p^2$ term in the formula for energy dominates). The LHC accelerates protons until they have roughly the energy of the order of
 
