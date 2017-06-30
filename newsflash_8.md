@@ -1,6 +1,6 @@
 New physics at the LHC. 
 
-The LHC has been running for a few year now. It has discovered the Higgs boson but this was expected to be there. Maybe the collider will detect new physics. One has to be careful in science and discoveries take a while. 
+The LHC has been running for a few years now. It has discovered the Higgs boson but this was expected to be there. Maybe the collider will detect new physics. One has to be careful in science and discoveries take a while. 
 
 ## Hints of new physics 
 
