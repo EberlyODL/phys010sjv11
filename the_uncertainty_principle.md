@@ -1,10 +1,10 @@
-So we have seen that electrons (and other matter particles) are described by a wave. We call this wave the wavefunction and we use the symbol
+We have seen that electrons (and other matter particles) are described by a wave. We call this wave the wavefunction and we use the symbol
 
 $\psi(x)$
 
 to describe it. If matter particles are described by a wave, what does this wave look like?
 
-Well, first of all, it is usually constrained to a small location. When we talked about wavea earlier, we used to talk about wave of fixed wavelength and frequency, like in Fig. "Typical Sine Wave" below.
+Well, first of all, it is usually constrained to a small location. When we talked about waves earlier, we used to talk about wave of fixed wavelength and frequency, like in Fig. "Typical Sine Wave" below.
 
 [ciscode|rev=1|tool=elmsmedia|item=2255|entity_type=node|render=display_mode|display_mode=image]
 
