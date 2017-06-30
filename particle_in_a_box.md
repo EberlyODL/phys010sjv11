@@ -1,6 +1,6 @@
 We saw that photons are described by a wave whose amplitude is the electric field, and it varies in space and in time $E(x,t)$. The square of the amplitude of the oscillating E-field is proportional to the intensity, but, more importantly, it gives you the **probability** function of where you have more or fewer chances to find the photon.
 
-The same story repeats itself for the electron, or any other particles for that matter. In this case the amplitude of the wave is called $\psi(x)$. We then have the probability of finding an electron in a given region of space $\delta x$ is
+The same story repeats itself for the electron, or any other particles for that matter. In this case, the amplitude of the wave is called $\psi(x)$. We then have the probability of finding an electron in a given region of space $\delta x$ is
 
 $\rm{Prob}(\rm{in}\;\delta x\; \rm{at}\; x) \propto \psi(x)^2\delta x$
 
@@ -16,7 +16,7 @@ Since the edge of the box is a wall, the electron cannot be found there. Since t
 
 $\lambda_n = \frac{2L}{n} = \frac{h}{p}$
 
-where L is the size of the box and n is an integer (1,2,3...). So we see that the momentum of an electron inside of a box is a multiple integer of a basic unit, let's call this basic unit $p_1$.
+where L is the size of the box and n is an integer (1,2,3...). We conclude that the momentum of an electron inside of a box is a multiple integer of a basic unit, let's call this basic unit $p_1$.
 
 $p = n p_1$
 
