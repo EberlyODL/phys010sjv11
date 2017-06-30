@@ -19,7 +19,7 @@ If you heat up (with a fire or whatever) our gas of hydrogen, some electrons wil
 
 [ciscode|rev=1|tool=elmsmedia|item=917|entity_type=node|render=display_mode|display_mode=image]
 
-The electron can go down all the way to the ground state right away, or it can take a leisurely walk passing by every states below emitting a photon for each transition. These steps create special lines of emissions (see Fig. "Emission Spectrum").
+The electron can go down all the way to the ground state right away, or it can take a leisurely walk passing by every state below emitting a photon for each transition. These steps create special lines of emissions (see Fig. "Emission Spectrum").
 
 [ciscode|rev=1|tool=elmsmedia|item=918|entity_type=node|render=display_mode|display_mode=image]
 
