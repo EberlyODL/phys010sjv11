@@ -6,8 +6,8 @@ The cloud represents where we are more likely to find the electron.
 
 - S: Questions here.
 - M: I was wondering whether you were sleeping. . .
-- S: Nope, still here. So shouldn't the proton also be represented by a wavefunction? Why is it a dot in the figure?
-- M: Good question! It should be, indeed, but it is much more massive that the electron (about 2000 times) and its wavelengths are so much shorter that you can't see the waves. The more mass you have, the more the standing waves have small wavelengths. So the proton is almost always found in the center.
+- S: Nope, still here. Shouldn't the proton also be represented by a wavefunction? Why is it a dot in the figure?
+- M: Good question! It should be, indeed, but it is much more massive that the electron (about 2000 times) and its wavelengths are so much shorter that you can't see the waves. The more mass you have, the more the standing waves have small wavelengths. The consequence is that the proton is almost always found in the center.
 - S: Ok, but technically I am right and you have a wave for both.
 - M: True.
 
@@ -37,7 +37,7 @@ The figure above is important to understand. The various levels of energy are al
 - S: Hmmm, let's see. -13.6 + 12 = -1.6 eV. Which I guess is in between level 3 and level 2.
 - M: But can the electron be in between two levels?
 - S: I guess not.
-- M: Indeed, this is very much NOT allowed. So the photon will not be absorbed and it will just pass through.
+- M: Indeed, this is very much NOT allowed. The photon will not be absorbed and it will just pass through.
 - S: Ok, makes sense.
 - M: But let's say that the electron was in level 2.
 
