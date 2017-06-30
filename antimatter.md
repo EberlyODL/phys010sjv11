@@ -2,7 +2,7 @@ The stationary wave we have just discussed are important for most electrons in n
 
 We will conclude with a side story of what happens if we start moving electrons (or protons) at high speed (near speed of light). 
 
-This is what we do in particle accelerators where electrons or protons are moving a near light speed and then collide with each other or with fixed targets. The study of these high energy collisions changed our view of the Universe and they have revealed a rich zoo of subatomic particles. 
+This is what we do in particle accelerators where electrons or protons are moving a near light speed and then collide with each other or with fixed targets. The study of these high-energy collisions changed our view of the Universe and they have revealed a rich zoo of subatomic particles. 
 
 ## Combining Relativity and Quantum Mechanics
 
@@ -13,11 +13,11 @@ Because the electrons are small particle, we need quantum mechanics to describe 
 
 Both of these theoretical discoveries (mostly made by Paul Dirac) have now been experimental verified many times. 
 
-The antipartner of the electron is called the positron. It has exactly the same mass but its electric charge is positive.
+The anti-partner of the electron is called the positron. It has exactly the same mass but its electric charge is positive.
 
-The proton also has an antiparticle called the antiproton. Again the antiproton has the opposite charge as the proton (so antiproton is negative).
+The proton also has an antiparticle called the antiproton. Again, the antiproton has the opposite charge as the proton (so antiproton is negative).
 
-Some particles like the photon are their own antiparticle (in other words there is really no antiphoton). Essentially, this is because it is a neutral particle. The opposite of zero is still zero.
+Some particles like the photon are their own antiparticle (in other words there is really no "antiphoton"). Essentially, this is because it is a neutral particle. The opposite of zero is still zero.
 
 Things to remember about antiparticles:
 
