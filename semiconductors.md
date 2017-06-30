@@ -6,7 +6,7 @@ This idea of an energy gap, often called **band gap**, is what differentiates co
 
 In the figure, the valence band refers to electrons that are bound to the atoms while the conduction band refers to electrons that are free to move everywhere in the crystal.
 
-The fact that there is a band gap is what allows for insulators and it follows from quantization of energy. For conductors the gap between the energy of the free electrons compares to the stuck electrons is zero. This means the electrons can be stuck or freely moving at the same energy. The freely moving electrons is what make a metal a conductor of electricity.
+The fact that there is a band gap is what allows for insulators and it follows from quantization of energy. For conductors, the gap between the energy of the free electrons compares to the stuck electrons is zero. This means the electrons can be stuck or freely moving at the same energy. The freely moving electrons is what make a metal a conductor of electricity.
 
 Semiconductors are materials where the band gap is small. By slightly exciting the material, we can switch a semiconductor from being an insulator to being a conductor. For the following two questions, you may want to check <a href="http://www.webelements.com/" target="_blank">table of elements</a> to find the difference between atoms.
 
