@@ -1,4 +1,6 @@
-If an electron and a positron meet, they annihilate. Assuming that they are not moving, all their energy just comes from their mass $E=mc^2$. The mass of the electron (and the positron) is 0.5 MeV/$c^2$ and so the energy released in one annihilation of a (non-moving) electron-positron pair is 1 MeV. I remind you that eV is just a unit of energy.
+If an electron and a positron meet, they annihilate. Assuming that they are not moving, all their energy just comes from their mass $E=mc^2$. The mass of the electron (and the positron) can be written as 0.5 MeV/$c^2$. The units are such that when multiplied by speed of light squared we get the mass energy of the electron to be $E=0.5$ MeV. 
+
+The energy released in one annihilation of a (non-moving) electron-positron pair will then be 1 MeV. I remind you that eV is just a unit of energy.
 
 1 MeV is 1 Mega electron volt which is $10^6$ eV or $1.6 \times 10^{-13} J$
 
