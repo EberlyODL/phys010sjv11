@@ -28,7 +28,7 @@ For some basic quantum of energy $E_1$ which depends on the size of the box, the
 
 **By imposing that the wave of the electron vanishes at some places, we get standing wave patterns with different harmonic wavelengths. This implies that the momentum and energy of the electron are quantized. Not all values are possible but only integer (or integer squared) of a basic unit.**
 
-Note that n=0 is NOT possible, since the electron would have zero energy and we know that it must at least have its mass energy. So the lowest energy an electron can have is $E_1$ for n=1, the first harmonic. Fig. 2 shows the first four level of energy for an electron in a box.
+Note that n=0 is NOT possible, since the electron would have zero energy and we know that it must at least have its mass energy. So the lowest energy an electron can have is $E_1$ for n=1, the first harmonic. Fig. "Energy in Box" shows the first four levels of energy for an electron in a box.
 
 [ciscode|rev=1|tool=elmsmedia|item=2617|entity_type=node|render=display_mode|display_mode=image]
 
@@ -36,9 +36,9 @@ Note that n=0 is NOT possible, since the electron would have zero energy and we 
 
 ## Finding the Electron in the Box 
 
-The different wavefunctions of the electrons contain a lot of information. By taking the square of the wave, by squaring the amplitude at each point, we get information as to where the electron will most probably be found or not.
+The different wavefunctions of the electrons contain a lot of information. By taking the square of the wave, i.e. by squaring the amplitude at each point, we get information as to where the electron will most probably be found or not.
 
-Each standing wave has nodes where the amplitude is always zero. At those points, the electron will never be found. For example, an electron in the third state \(E_3\) will never be in the walls but also at two spots in the middle (see Fig. "The First 3 States").
+Each standing wave has nodes where the amplitude is always zero. At those points, the electron will never be found. For example, an electron in the third state $E_3$ will never be in the walls but also at two spots in the middle (see Fig. "The First 3 States").
 
 [ciscode|rev=1|tool=elmsmedia|item=2620|entity_type=node|render=display_mode|display_mode=image]
 
