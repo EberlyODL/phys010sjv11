@@ -1,17 +1,17 @@
 The stationary wave we have just discussed are important for most electrons in normal objects surrounding. Electrons move but they are restrained to stay within atoms or metals because of electric forces. We will continue our study of electrons in conductors and semiconductors next week. It is the basis for many important technologies. 
 
-We will conclude with a side story of what happens if we start moving electrons (or protons) at high speed (near speed of light). 
+We will conclude this week with a side story of what happens if we start moving electrons (or protons) at high speed (near speed of light). 
 
 This is what we do in particle accelerators where electrons or protons are moving a near light speed and then collide with each other or with fixed targets. The study of these high-energy collisions changed our view of the Universe and they have revealed a rich zoo of subatomic particles. 
 
 ## Combining Relativity and Quantum Mechanics
 
-Because the electrons are small particle, we need quantum mechanics to describe them correctly. If they move at near light speed, we need special relativity. Combining the two theories together was a difficult task. When they succeeded, physicist discover two things. 
+Because the electrons are small particles, we need quantum mechanics to describe them correctly. If they move at near light speed, we need special relativity. Combining the two theories together was a difficult task. When they succeeded, physicist discovered two things. 
 
 1. Every particle has an antiparticle with the exact same mass but opposite electric charge. 
 2. The number of particles can change. We can create particles out of pure energy. 
 
-Both of these theoretical discoveries (mostly made by Paul Dirac) have now been experimental verified many times. 
+Both of these theoretical discoveries (mostly made by Paul Dirac) have now been experimentally verified many times. 
 
 The anti-partner of the electron is called the positron. It has exactly the same mass but its electric charge is positive.
 
