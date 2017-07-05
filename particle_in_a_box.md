@@ -2,7 +2,7 @@ We saw that photons are described by a wave whose amplitude is the electric fiel
 
 The same story repeats itself for the electron, or any other particles for that matter. In this case, the amplitude of the wave is called $\psi(x)$. We then have the probability of finding an electron in a given region of space $\delta x$ is
 
-$\rm{Prob}(\rm{in}\;\delta x\; \rm{at}\; x) \propto \psi(x)^2
+$\rm{Prob}(\rm{in}\;\delta x\; \rm{at}\; x) \propto \psi(x)^2$
 
 The subject of quantum mechanics is partly about finding the wavefunction $\psi(x)$ for a given system. Once we know the wavefunction, we can tell the probability of finding the particle here or there. And this is not as hard as it sounds, since $\psi(x)$ is a wave like any other wave. In particular, it can have standing wave patterns.
 
