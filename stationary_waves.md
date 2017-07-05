@@ -1,6 +1,6 @@
-Electrons interact with the electric force and they are often confined to small places. Photons always move but electrons can be stuck (relatively) to a small area. 
+When electrons interact with the electric force they are often confined to small places. Photons always move but electrons can be stuck within a small area (an atom or a piece of copper wire). 
 
-Up to now we have looked at traveling waves. These are waves that are moving in a specific direction; but sometimes waves are stuck and don't move. We call those waves _standing waves_. A good example is the wave you get on the string of a guitar (Fig. 1).
+Up to now we have looked at traveling waves, the standard oscillatory wave and the wavepacket.  These are waves representing objects that are moving in a specific direction. Sometimes waves are stuck and don't move. We call those waves _standing waves_. A good example is the wave you get on the string of a guitar (Fig. 1).
 
 [ciscode|rev=1|tool=elmsmedia|item=1030|entity_type=node|render=display_mode|display_mode=image]
 
