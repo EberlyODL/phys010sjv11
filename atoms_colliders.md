@@ -28,7 +28,7 @@ Once in a while, the protons are allowed to collide with the protons going the o
 
 [ciscode|rev=1|tool=elmsmedia|item=930|entity_type=node|render=display_mode|display_mode=image]
 
-At these locations where the protons are allowed to collide, one gets a shower of particles (see Fig 6). Among the mess, physicists are trying to find new clues about the underlying structure of the Universe.
+At these locations where the protons are allowed to collide, one gets a shower of particles (see Fig "Particle Production at LHC"). Among the mess, physicists are trying to find new clues about the underlying structure of the Universe.
 
 [ciscode|rev=1|tool=elmsmedia|item=2632|entity_type=node|render=display_mode|display_mode=image__left]
 
