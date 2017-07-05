@@ -109,5 +109,14 @@
     * [Semiconductors](semiconductors.md)
     * [Transistors](transistors.md)
     * [Week 10 Summary](week_12_summary.md)
+  * [Week 11: Nuclear Physics](week_13_nuclear_physics.md)
+    * [Nuclear Force](nuclear_force.md)
+    * [Binding Energy](binding_energy.md)
+    * [Alpha and Gamma Radiation](alpha_and_gamma_radiation.md)
+    * [Half-Life](half_life.md)
+    * [Newsflash 11](newsflash_11.md)
+    * [Uranium-233, Uranium-235, and Plutonium-239](uranium_233_uranium_235_and_plutonium_239.md)
+    * 
+
 * [End of Book](README.md)
 
