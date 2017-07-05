@@ -30,7 +30,7 @@ $\Delta x \Delta p \geq \frac{h}{2}$
 
 > **The more precisely we know the position, the more uncertain we are about the momentum.**
 
-This is not magic, it is just a property of waves. 
+This is not magic, it is just a property of waves. To create a localized wavepacket with small uncertainty in position we need to sum multiple oscillatory waves of different wavelength, making the range of momentum uncertain. 
 
 [ciscode|rev=1|tool=elmsmedia|item=2262|entity_type=node|render=display_mode|display_mode=h5p]
 
@@ -42,4 +42,4 @@ We have a similar situation here, we cannot measure position and momentum at the
 
 [ciscode|rev=1|tool=elmsmedia|item=2605|entity_type=node|render=display_mode|display_mode=image]
 
-> This is really more applicable to small numbers of particles. With ensembles of particles, the quantum behavior is erased because of all the interactions. In reality we can determine the position of a car and its momentum to pretty good accuracy. Note also that the product of the uncertainty has to be bigger than the Planck constant which is a very small number. So an uncertainty in the position of the car by 1 cm and of its momentum by 0.1 kg m/s would satisfy the uncertainty principle. 
+> This is really more applicable to small numbers of particles. With ensembles of particles, the quantum behavior is erased because of all the interactions. In reality, we can determine the position of a car and its momentum to pretty good accuracy. Note also that the product of the uncertainty has to be bigger than the Planck constant which is a very small number. So an uncertainty in the position of the car by 1 cm and of its momentum by 0.1 kg m/s would satisfy the uncertainty principle.
