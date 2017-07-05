@@ -33,13 +33,13 @@ These dark and bright fringes are the same kind of interference that we use to p
 
 **1. Electrons**
 
-The electron is a particle with mass, energy and momentum. There is a wave associated with the electron. We have no name for it, so we call the "wavefunction of the electrons". The amplitude squared of that wave tells us the probability of finding the electrons in a region of space.
+The electron is a particle with mass, energy and momentum. There is a wave associated with the electron. We have no name for it, so we call it the "wavefunction of the electrons". The amplitude squared of that wave tells us the probability of finding the electrons in a region of space.
 
 The relation between the wave and the particle is the de Broglie relation which tell us that the wavelength of the wave $\lambda$ is inversely proportional to the momentum of the particle.
 
 $\lambda = h/p$
 
-with _h_ being Planck's constant. Because we do not know what is the speed of the wavefunction of the electrons, we cannot use the standard $v=\lambda f$ to find the frequency of the wave.
+with _h_ being Planck's constant. 
 
 **2. Photons**
 
