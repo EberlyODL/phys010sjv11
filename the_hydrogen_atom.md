@@ -1,10 +1,10 @@
-The hydrogen atom is the simplest possible atom. It is made of a proton with positive electric charge and an electron with negative electric charge. The two are attracted together via the electric force. We can represent the force on the electron exerted by the proton using our good friend the potential energy diagram introduce during the "light as particle" week.
+The hydrogen atom is the simplest possible atom. It is made of a proton with positive electric charge and an electron with negative electric charge. The two are attracted together via the electric force. We can represent the force on the electron exerted by the proton using our good friend the potential energy diagram introduced during the "light as particle" week.
 
 The electric potential energy felt by an electron around a single proton is just a "well" that gets steeper the closer the electron gets to the proton. Using r for the radial distance the potential energy looks like Fig. "Potential Energy for Electron in Hydrogen"
 
 [ciscode|rev=1|tool=elmsmedia|item=2634|entity_type=node|render=display_mode|display_mode=image]
 
-Note that we have defined the potential energy U to be always negative. This is an arbitrary choice. It is also a useful choice although you may find it confusing. The total energy is the sum of potential plus kinetic, so $E_{tot} = U +K$. If the total energy of the electron is negative, it will not be possible to escape since there is a **turning point** in the trajectory. We say that the electron is bound. If the total energy is positive, then the electron can escape to infinity and is free of the proton. This is what happens when we ionize hydrogen and liberate the single electron. This is illustrated in "Negative Energy.
+Note that we have defined the potential energy U to be always negative. This is an arbitrary choice. It is also a useful choice although you may find it confusing. The total energy is the sum of potential plus kinetic, so $E_{tot} = U +K$. If the total energy of the electron is negative, it will not be possible to escape since there is a **turning point** in the trajectory. We say that the electron is bound. If the total energy is positive, then the electron can escape to infinity and it is thus free of the proton. This is what happens when we ionize hydrogen and liberate the single electron. This is illustrated in "Negative Energy".
 
 [ciscode|rev=1|tool=elmsmedia|item=920|entity_type=node|render=display_mode|display_mode=image]
 
