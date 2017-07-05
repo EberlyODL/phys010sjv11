@@ -119,7 +119,7 @@
     * [Chain Reaction](chain_reaction.md)
     * [How a Nuclear Reactor Works](how_a_nuclear_reactor_works.md)
     * [Week 11 Summary](week_13_summary.md)
-  * [Week 14: Gravity and the Cosmos](week_14_gravity_and_the_cosmos.md)
+  * [Week 12: Gravity and the Cosmos](week_14_gravity_and_the_cosmos.md)
     * [Quick Review of Where we Stand](quick_review_of_where_we_stand.md)
     * [Galileo and Free Fall](galileo_and_free_fall.md)
     * [Newton's Law of Gravity](newton_s_law_of_gravity.md)
