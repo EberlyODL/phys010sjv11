@@ -116,7 +116,22 @@
     * [Half-Life](half_life.md)
     * [Newsflash 11](newsflash_11.md)
     * [Uranium-233, Uranium-235, and Plutonium-239](uranium_233_uranium_235_and_plutonium_239.md)
-    * 
+    * [Chain Reaction](chain_reaction.md)
+    * [How a Nuclear Reactor Works](how_a_nuclear_reactor_works.md)
+    * [Week 11 Summary](week_13_summary.md)
+  * [Week 14: Gravity and the Cosmos](week_14_gravity_and_the_cosmos.md)
+    * [Quick Review of Where we Stand](quick_review_of_where_we_stand.md)
+    * [Galileo and Free Fall](galileo_and_free_fall.md)
+    * [Newton's Law of Gravity](newton_s_law_of_gravity.md)
+    * [Uniting the Cosmos with the Earth](uniting_the_cosmos_with_the_earth.md)
+    * [Einstein's Theory of Gravity](einstein_s_theory_of_gravity.md)
+    * [Newsflash 12](newsflash_11.md)
+    * [Orbits!](orbits_.md)
+    * [The Solar System and Beyond!](the_solar_system_and_beyond_.md)
+    * [The Expanding Universe.](the_expanding_universe_.md)
+    * [Week 12 Summary](week_14_summary.md)
+    * [Week 15: Cosmology -- The Dark World](week_15_cosmology_the_dark_world.md)
+    * []()
 
 * [End of Book](README.md)
 
