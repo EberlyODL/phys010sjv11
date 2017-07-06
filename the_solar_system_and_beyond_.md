@@ -1,6 +1,8 @@
 If you launch a satellite with a speed of 5 miles/s (8 km/s) , you should be able to put it in Low-Earth Orbit. If you launch it at 7 miles/s (11 km/s), the satellite will escape the Earth.
 
-As humans, we are just starting space exploration. We have sent spacecrafts to all the planets in our solar system and Voyager 1 and 2 are now outside of our solar system, exploring the vast expenses between stars. You can go to the [NASA website](http://voyager.jpl.nasa.gov/where/) to see in real time where Voyager 1 and 2 are. You can also see movies about their trip! (They were launched in the 70's and they're leaving the solar system these days.)
+As humans, we are just starting space exploration. We have sent spacecrafts to all the planets in our solar system and Voyager 1 and 2 are now outside of our solar system, exploring the vast expenses between stars. You can go to the [NASA website](http://voyager.jpl.nasa.gov/where/) to see in real time where Voyager 1 and 2 are. You can also see movies about their trip! 
+
+>They were launched in the 70's and they are just now leaving the solar system.
 
 The Universe is Big. Really big 
 --------------------------------
