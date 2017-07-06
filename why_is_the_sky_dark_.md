@@ -1,8 +1,8 @@
-This is the last week! You have learned a lot of physics in this class but with more knowledge always comes more questions. As we will see this week, it turns out that 95 % of the Universe is made of dark matter and dark energy and we don't know what those two "dark" components are! So you now have enough knowledge in physics to explain how we don't know what 95% of the Universe is!
+You have learned a lot of physics in this class but with more knowledge always comes more questions. We will now conclude with two outstanding physics questions. It turns out that 95 % of the Universe is made of dark matter and dark energy and we don't know what those two "dark" components are! By the end of this class you will have enough knowledge in physics to explain how we don't know what 95% of the Universe is!
 
 This is a strange point in the history of science. On the one hand, our theories of the Universe have never been so successful. The theory of quantum mechanics (the particle/wave) and of relativity have been verified to hold to unprecedented accuracy. We understand (in varying degrees) all four fundamental forces with electromagnetism being the most understood and the strong nuclear and gravity being the trickier ones.
 
-So physics as a science is rocking and yet when we look at the Cosmos we come back baffled. Most of the energy and matter in the Universe is in the form of dark energy and dark matter. We don't know what this dark stuff is. We don't even know if it is just some new type of particle/wave or some completely new building block of Nature.
+Physics as a science is rocking and yet when we look at the Cosmos we come back baffled. Most of the energy and matter in the Universe is in the form of dark energy and dark matter. We don't know what this dark stuff is. We don't even know if it is just some new type of particle/wave or some completely new building block of Nature.
 
 Of the two, dark matter is the one we are the closest to making some tangible progress in finding out what it is. Dark energy is more mysterious and more thought provoking.
 
