@@ -32,14 +32,4 @@ $$ g \Delta t = \Delta v $$
 
 The conclusion is that the time it takes to fall only depends on the velocity (and the constant g). The only thing that matter is whether the hammer and the feather are thrown downward or simply dropped. The mass of the object is irrelevant for the time it takes to free fall!
 
-<div class="question">Q. Astronauts in the International Space Station (ISS) are weightless. This is because
-
-1. [There is no gravity in space (or at least its much weaker)](#)  
-  **No.** There is gravity in space. The ISS is only 400 km high (equivalent to the distance between State College and New-York). This is not very high. The astronauts feel 95% of the same gravitational force that we feel on the surface.
-2. [The astronauts are in free fall](#)**Correct.** The astronauts and the ISS are in orbit. They are continuously falling but they are moving so fast that they miss the Earth and instead orbit around it.
-3. [They are in equilibrium between the moon's gravity and the Earth's gravity](#)  
-  **No.** There is such a place of equilibrium but its much closer to the moon than the Earth.
-4. [None of the above](#)  
-  **No.**
- 
-</div>
+[ciscode|rev=1|tool=elmsmedia|item=2734|entity_type=node|render=display_mode|display_mode=h5p]
