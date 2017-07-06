@@ -10,8 +10,6 @@ If the particle is contained in a small area. The wavefunction must be a standin
 
 The most important properties of atoms have to do with their electrons, and this is what chemistry is about. We have seen that the quantization of energy of those electrons leads to atomic spectra, to band-gap in solids, and, ultimately, to all of the high tech in our world.
 
-![Nuclear reaction](https://online.science.psu.edu/sites/default/files/phys010/W10QM3nuclear/NuclearReaction.png)
-
 One important aspect that we have not yet seen is the nucleus. We have treated the nucleus as a point particle even though it really should be described by a wave just like the electron.
 
 I remind you that the nucleus is made of protons and neutrons. The protons repulse each other because of electricity. In order to overcome that repulsion, there must be an attractive force. This is the nuclear force and it acts equally between protons and neutrons.
