@@ -6,9 +6,11 @@ Like most popular stories, it is probably not true but it contains an element of
 
 The really big insight of Newton is not "just" that he discovered the law of gravity. The big insight is that he realized that the law is universal. It applies on the Earth and it applies in the cosmos, it is the same force everywhere. It turns out that electromagnetism is also a long-range force but because large objects tend to be neutral, the force of electricity does not have as much of an impact in the cosmos. In any case, Newton did not even know about electricity back in those days.
 
-Since the force of gravity is always attractive, it wins on large distances and it becomes the most important force driving structure formation such as stars, planets and galaxies in our Universe. \*\*Note that the two nuclear forces are short range and only apply on nuclear scales.
+Since the force of gravity is always attractive, it wins on large distances and it becomes the most important force driving structure formation such as stars, planets and galaxies in our Universe. 
 
-So in 1687, in his famous work "Principia Mathematica", Newton proposed the _Universal_ law of Gravitation with emphasis on the universal part of it. The law states that any two objects with mass \(m_1\) and \(m_2\) attract each other with a force proportional to both masses and inversely proportional the distance between the objects squared (see Fig 3).
+> Note that the two nuclear forces are short range and only apply on small length scales such as the nucleus.
+
+So in 1687, in his famous work "Principia Mathematica", Newton proposed the _Universal_ law of Gravitation with emphasis on the universal part of it. The law states that any two objects with mass $$m_1$$ and $$m_2$$ attract each other with a force proportional to both masses and inversely proportional the distance between the objects squared (see Fig 3).
 
 ![](https://online.science.psu.edu/sites/default/files/phys010/W14cosmo/2013-11-17_14-20-24.png "Fig 3. The universal law of gravitation states that two objects with mass m1 and m2 attract each other with a force that is inversly proportional to the distance squared. ")
 
