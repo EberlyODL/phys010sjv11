@@ -32,17 +32,7 @@ When U-235 absorbs a neutron, it becomes U-236 which is really unstable and the 
 
 The process also releases three neutrons. All the particles in the end process have a lot of kinetic energy. This leads to thermal energy and the nuclear reaction can be used to work a steam engine and create electricity.
 
-<div class="question">Q. Let's estimate how much energy is released during fission of U-235. Look at the [binding energy curve](http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Binding_energy_curve_-_common_isotopes.svg/2000px-Binding_energy_curve_-_common_isotopes.svg.png) again and the [table of elements](http://www.webelements.com/). U-235 has an average binding energy per nucleon of 7.5 MeV while Krypton and Barium are around 8.5 MeV. Given this energy, how much energy do you think will be released?
-
-1. [8.5 MeV.](#)**No.** Too low.
-2. [7.5 MeV](#).  
-  **No.** Too low.
-3. [16 MeV](#).  
-  **No.** Too low.
-4. [235 MeV](#).  
-  **Correct.** We gain about one MeV per nucleon of binding energy. We started with 235 nucleons so the final energy will be reduced by 235 MeV roughly.
- 
-</div>
+[ciscode|rev=1|tool=elmsmedia|item=2721|entity_type=node|render=display_mode|display_mode=h5p]
 
 ## External Resources
 
