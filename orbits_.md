@@ -31,4 +31,4 @@ The geosynchronous orbit is where the great majority of communication satellites
 
 In the movie below, you can see most of the known (non-military) satellites. Most of them are on the geosynchronous orbit. The movie starts really slow, you may want to skip to 30 seconds into the movie.
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/OU2YVK8c-dA?rel=0" width="560"></iframe>
+[ciscode|rev=1|tool=elmsmedia|item=2743|entity_type=node|render=display_mode|display_mode=mediavideo]
