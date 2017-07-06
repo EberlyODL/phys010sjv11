@@ -22,10 +22,10 @@ And if we look beyond we see millions and millions of other galaxies. They tend 
 
 [ciscode|rev=1|tool=elmsmedia|item=901|entity_type=node|render=display_mode|display_mode=image]
 
-The vastness of the Universe is absolutely bewildering.
-
 ## External Resources
 
-This is a very well made video by NASA of entry, descent and landing of the Mars Rover. In order to send a robot to Mars, it needs to escape the Earth and it therefore moves at least at 11 km/s. Slowing it down to land on Mars, where you want, is a challenging feat of engineering!
+The vastness of the Universe is absolutely bewildering and we have still just barely made it to our moon! Lots to explore to say the least. 
 
- <iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/Ki_Af_o9Q9s?rel=0" width="560"> </iframe>
+Below is a very well made video by NASA of entry, descent and landing of the Mars Rover. In order to send a robot to Mars, it needs to escape the Earth and it therefore moves at least at 11 km/s. Slowing it down to land on Mars, where you want, is a challenging feat of engineering!
+
+[ciscode|rev=1|tool=elmsmedia|item=2747|entity_type=node|render=display_mode|display_mode=mediavideo]
