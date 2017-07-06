@@ -114,7 +114,7 @@
     * [Binding Energy](binding_energy.md)
     * [Alpha and Gamma Radiation](alpha_and_gamma_radiation.md)
     * [Half-Life](half_life.md)
-    * [Newsflash 11](newsflash_11.md)
+    * [Newsflash 11](newsflash_10.md)
     * [Uranium-233, Uranium-235, and Plutonium-239](uranium_233_uranium_235_and_plutonium_239.md)
     * [Chain Reaction](chain_reaction.md)
     * [How a Nuclear Reactor Works](how_a_nuclear_reactor_works.md)
