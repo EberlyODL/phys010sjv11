@@ -14,12 +14,11 @@ Look at this fun video from the Perimeter Institute for Theoretical physics.
 
 If the Universe is infinite with an infinite amount of stars, the sky should always be bright. This is known as Olbers' paradox. We don't know if the Universe is infinite in size. This is one (of the many) outstanding question we are trying to find out. But as the video showed, we do know that the Universe is evolving and stars have not been there forever. There was a time when there were no stars.
 
-The sky is dark because we can only see the stars for which the light had time to reach us since their formation! **The reason the sky is dark is not because of dark matter or dark energy!** As we look further in the Universe, we see light that was emitted further in the past. We see stars and galaxies in their younger stages (see Fig 1). With our best telescope, we can see the very first structure in our Universe!
+The sky is dark because we can only see the stars for which the light had time to reach us since their formation! **The reason the sky is dark is not because of dark matter or dark energy!** As we look further in the Universe, we see light that was emitted further in the past. We see stars and galaxies in their younger stages; see Fig. "Looking Back in the Past". With our best telescope, we can see the very first structure in our Universe!
 
-![](https://online.science.psu.edu/sites/default/files/phys010/W15future/heic1005c-2.jpg "Fig 1: As we look further away in the Universe. We are also looking in the past. ")
+[ciscode|rev=1|tool=elmsmedia|item=2752|entity_type=node|render=display_mode|display_mode=image]
 
-Expansion and the Big-Bang.
----------------------------
+## Expansion and the Big-Bang.
 
 The Universe is evolving in time. Star first formed, we grow old and galaxies and stars grow old.
 
