@@ -1,10 +1,3 @@
-- M: Hello Sophie, I am back. How was the quantum world?
-- S: exhausting a bit, there is a lot of stuff!
-- M: I know and this is a new strange mindset for most people. Well let us take a break and look at gravity and the Universe. But first, here is a quick review of where we stand.
-
-Plan
-----
-
 ![](https://online.science.psu.edu/sites/default/files/phys010/W14cosmo/Plan.png "Fig 1: The three units for this class. In this last part, we will look at gravity!")
 
 In the first unit we were introduced to the basic building blocks of Nature while in the second unit we saw our first force, electromagnetism, how it connects to light and we studied the particle/wave duality.
