@@ -1,6 +1,6 @@
 One of the best and most beautiful evidence that we have for dark matter is the bullet cluster. This is a very special galaxy cluster through a gravitational lensing analysis that was done about 10 years ago it is very revealing about dark matter.
 
-Here is the Bullet cluster as seen with the Hubble space telescope (i.e. detecting visible light -- see Fig. "Bullet cluster: visible light").
+Here is the Bullet cluster as seen with the Hubble space telescope (i.e. detecting visible light -- see Fig. "Bullet cluster: visible light"). Almost every smudge is a entire galaxy. 
 
 [ciscode|rev=1|tool=elmsmedia|item=1005|entity_type=node|render=display_mode|display_mode=image]
 
