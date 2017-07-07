@@ -16,7 +16,7 @@ Alpha Centauri is in the constellation Centaurus and it is the third brightest s
 
 We live together with 100 billions of other stars in the Milky Way galaxy, a typical spiral galaxy. We also have now very good evidence that at the center of our galaxy, there is a supermassive black hole called **Sagittarius A\***; see Fig. "Milky Way".
 
-[ciscode|rev=1|tool=elmsmedia|item=900|entity_type=node|render=display_mode|display_mode=image__left]
+[ciscode|rev=1|tool=elmsmedia|item=900|entity_type=node|render=display_mode|display_mode=image]
 
 And if we look beyond we see millions and millions of other galaxies. They tend to cluster into the aptly named: galaxy clusters. Galaxy clusters are the biggest objects held together by gravity that exist in the Universe. See the Coma Cluster in Fig. "The Coma Galaxy Cluster".
 
