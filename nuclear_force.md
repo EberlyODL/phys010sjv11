@@ -1,6 +1,6 @@
 We are nearing the end of our exploration of the quantum world.  All 'particles' are represented by a wavefunction whose intensity tells us the probability of finding that particle at a particular location.
 
-[ciscode|rev=1|tool=elmsmedia|item=840|entity_type=node|render=display_mode|display_mode=image__right]
+[ciscode|rev=1|tool=elmsmedia|item=840|entity_type=node|render=display_mode|display_mode=image]
 
 If the particle is contained in a small area. The wavefunction must be a standing wave. For such waves, only some quantized set of wavelengths (or energies) are allowed. The cloud model of the atom (see Fig. "Cloud Model Helium Atom") shows the wavefunction of the electron.
 

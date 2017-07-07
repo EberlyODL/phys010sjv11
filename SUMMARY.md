@@ -136,8 +136,5 @@
     * [Accelerated Expansion](accelerated_expansion.md)
     * [Newsflash 13](newsflash_13.md)
     * [Week 12 Summary](week_14_summary.md)
-
----
-
 * [End of Book](README.md)
 
