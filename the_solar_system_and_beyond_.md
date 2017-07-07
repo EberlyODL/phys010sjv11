@@ -8,7 +8,7 @@ As humans, we are just starting space exploration. We have sent spacecrafts to a
 
 The closest star from our beloved Sun is Alpha Centauri at 4.37 light-years away; see Fig. "Closest Stars". 
 
-> A light-year is the distance light travels in a year. It is equal to $$9.46\times 10^12'; km$$. 
+> A light-year is the distance light travels in a year. It is equal to $$9.46\times 10^{12}\; km$$. 
 
 Alpha Centauri is in the constellation Centaurus and it is the third brightest star in the sky. Interestingly, Alpha Centauri is not a single star but rather a system of three stars orbiting each other. Proxima is the smallest of the three stars and it is very weakly associated with the other two. Technically, Proxima is really the closest star to us.
 
