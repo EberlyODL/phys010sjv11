@@ -12,11 +12,11 @@ There are three main fuels that we can easily do fission with in nature.
 
 * **U-233:** This is another radioactive isotope of Uranium. It does not exist in nature but it can be created by bombarding Thorium-232 with neutrons.
 
-[ciscode|rev=1|tool=elmsmedia|item=830|entity_type=node|render=display_mode|display_mode=image__left]
+[ciscode|rev=1|tool=elmsmedia|item=830|entity_type=node|render=display_mode|display_mode=image]
 
 * **Plutonium-239**: It does not exist in nature but it can be created by bombarding Uranium-238 with neutrons.
 
-[ciscode|rev=1|tool=elmsmedia|item=831|entity_type=node|render=display_mode|display_mode=image__left]
+[ciscode|rev=1|tool=elmsmedia|item=831|entity_type=node|render=display_mode|display_mode=image]
 
 ## Uranium Cycle
 
