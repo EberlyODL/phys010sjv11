@@ -6,7 +6,8 @@ The objectives for this lesson are that by the end of the week you will be able 
 * LOFor09: note some differences between Newton's theory and Einstein's theory of General Relativity
 * LOPW13: describe the Doppler effect.
 * LOCos01: identify and name different orbits around the Earth
-* LOCos02: list some of the indirect evidences we have for dark matter
+
+* LOCos02: list some of the indirect evidences we have for dark matter
 * LOCos03: discuss dark energy, why we think it exists in the Universe and what it could be 
 
 ## NewsFlash
