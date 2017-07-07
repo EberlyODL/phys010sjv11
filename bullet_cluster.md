@@ -2,9 +2,6 @@ One of the best and most beautiful evidence that we have for dark matter is the 
 
 Here is the Bullet cluster as seen with the Hubble space telescope (i.e. detecting visible light -- see Fig. "Bullet cluster: visible light").
 
-
-![](https://online.science.psu.edu/sites/default/files/phys010/W15future/276170main_bulletcluster_HI-1.jpg "Fig 6: Bullet cluster as seen with the Hubble telescope using visible light. Almost every smudge is a galaxy. ")
-
 [ciscode|rev=1|tool=elmsmedia|item=1005|entity_type=node|render=display_mode|display_mode=image]
 
 Here is what the cluster looks like in X rays (superposed on top of the optical image -- see Fig. "Bullet cluster: x-rays +visible"). The X-ray image shows the presence of gas in the galaxy that is impossible to see in the visible spectrum. The gas is very hot and the electrons are moving really fast which is why the gas emits X rays. As you can see in Fig. "Bullet cluster: x-rays +visible", the gas on the right has the form of a shock wave. This is where the name "Bullet cluster" comes from.
