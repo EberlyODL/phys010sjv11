@@ -20,9 +20,9 @@ We have experimentally measured the average binding energy for nucleons in each 
 
 [ciscode|rev=1|tool=elmsmedia|item=2701|entity_type=node|render=display_mode|display_mode=h5p]
  
--S: I have a question here.
--M: Go ahead I will take it.
--S: What's up with the spike for Helium?
--M: Very good. Helium is a particularly stable atom for the number of nuclei it has. This is why in the nucleus, the protons and neutrons like to group themselves in bunches of helium nuclei. We call those **bunches of 4, the alpha particle**.
--S: is that it?. Your answer is that it just happens to be that way.
--M: Yes. This configuration of 2 protons and 2 neutrons just happens to be particularly stable.
+* S: I have a question here.
+* M: Go ahead I will take it.
+* S: What's up with the spike for Helium?
+* M: Very good. Helium is a particularly stable atom for the number of nuclei it has. This is why in the nucleus, the protons and neutrons like to group themselves in bunches of helium nuclei. We call those **bunches of 4, the alpha particle**.
+* S: is that it?. Your answer is that it just happens to be that way.
+* M: Yes. This configuration of 2 protons and 2 neutrons just happens to be particularly stable.
