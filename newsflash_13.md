@@ -6,6 +6,8 @@ Since its discovery in 1998, we now have much corroborative evidence for dark en
 Sophie: This is incredible! 95% of the Universe is unknown dark stuff!
 Marie: Yes, as we said. With more knowledge comes more ignorance!
 
+[ciscode|rev=1|tool=elmsmedia|item=1000|entity_type=node|render=display_mode|display_mode=image]
+
 
 ## What is Dark energy?
 
