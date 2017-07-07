@@ -8,7 +8,7 @@ There are three main fuels that we can easily do fission with in nature.
 
 * **U-235:** This is a radioactive isotope of Uranium. It occurs naturally in nature. You could find it in your backyard . . .
 
-[ciscode|rev=1|tool=elmsmedia|item=829|entity_type=node|render=display_mode|display_mode=image__left__lightboxed]
+[ciscode|rev=1|tool=elmsmedia|item=829|entity_type=node|render=display_mode|display_mode=image]
 
 * **U-233:** This is another radioactive isotope of Uranium. It does not exist in nature but it can be created by bombarding Thorium-232 with neutrons.
 
@@ -36,4 +36,4 @@ The process also releases three neutrons. All the particles in the end process h
 
 ## External Resources
 
-- Some details on the energy released during nuclear fission can be found at <a href="http://www.euronuclear.org/info/encyclopedia/n/nuclear-fission.htm" target="_blank">the European Nuclear Society</a> 
+- Some details on the energy released during nuclear fission can be found at <a href="http://www.euronuclear.org/info/encyclopedia/n/nuclear-fission.htm" target="_blank">the European Nuclear Society</a>
