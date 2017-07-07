@@ -1,35 +1,30 @@
-<div class="question">Q. Suppose we look at two distant galaxies: Galaxy 1 is twice as far away as Galaxy 2, we know that
+[ciscode|rev=1|tool=elmsmedia|item=2753|entity_type=node|render=display_mode|display_mode=h5p]
 
-1. [Galaxy 1 is older than Galaxy 2](#)**No.** Not necessarily.
-2. [They could both have the same age but we see Galaxy 1 in its younger stage.](#)**Yes. Exactly.** The actual age today may or may not be the same but we see galaxy 1 when it was much younger than what it is today.
-3. [They could both have the same age but we see Galaxy 2 in its younger stage.](#)**No.** Close but reverse.
-
-</div>Luminous matter (as opposed to dark matter) is all the matter that we know and love. It is the matter that is charged under the electromagnetic force. So it is electrons, protons and their combination into atoms, etc...
+Luminous matter (as opposed to dark matter) is all the matter that we know and love. It is the matter that is charged under the electromagnetic force. It is electrons, protons, neutrons and their combination into atoms, etc...
 
 Their electric charge allows them to create electromagnetic waves which is why they are luminous. Any emitter of electromagnetic waves is what we will refer to as luminous matter. So the Earth which emit in the infrared is luminous. Of course, the Earth is also luminous because it reflects the Sun's rays.
 
 When we look at the luminous matter in the Universe, we find that it is mostly made of hydrogen (75%) and helium (25%): the two smallest and simplest atoms.
 
-What about dark matter, how do we know it is there if we can't see it? The fact that we don't see it means it does not produce electromagnetic waves. It must be neutral under the electric force. It could be neutrons. It could be neutrinos. We have tried all the neutral matter particles that we know and they don't explain the details of what we "see." So dark matter is something new and undiscovered.
+What about dark matter, how do we know it is there if we can't see it? The fact that we don't see it means it does not produce electromagnetic waves. It must be neutral under the electric force. It could be neutrons. It could be neutrinos. We have tried to explain the data with all the neutral matter particles that we know and it does not work. So dark matter is something new and undiscovered.
 
 But first, what do we "see"? What is the evidence for the existence of dark matter?
 
-Indirect evidence for Dark matter.
-----------------------------------
+## Indirect evidence for Dark matter.
 
-The first evidence for dark matter came from galaxy rotation curves. You looked at this in your lab #3. We observed that the orbital speed of stars around all galaxies grows linearly the further from the center the star is (see Fig 2).
+The first evidence for dark matter came from galaxy rotation curves.  We observe that the orbital speed of stars around all galaxies grows linearly the further from the center the star is; see Fig "Rotation Curve in Galaxy".  
 
-![](https://online.science.psu.edu/sites/default/files/phys010/W15future/galaxyrotation.png "Fig 2: We observe that the orbital speed of the few (outliers) stars far from the galaxy center increases linearly as we go further away. This can be explained if we assume that the stars are orbiting inside of a gas of dark matter. Farther stars are orbiting around more mass. ")
+As you will examine in more details in your lab (or may have already), it is as if the stars were orbiting inside of a gas of matter and as they orbit further away, there is more matter in the inner radius. This leads to stronger gravity which makes the stars orbit faster.
 
-It is as if the stars were orbiting inside of a gas of matter and as they orbit further away, there is more matter in the inner radius. This leads to stronger gravity which makes the star orbit faster.
+[ciscode|rev=1|tool=elmsmedia|item=1001|entity_type=node|render=display_mode|display_mode=image]
 
 Since we don't see any matter there (checking for all frequencies of the electromagnetic wave), we deduce that it must be some kind of dark matter.
 
 Here is another indirect evidence. The biggest objects in the Universe that are held together by the force of gravity are galaxy clusters.
 
-Here is Abell 370 (see Fig 3), a giant galaxy cluster. Every smudges in that picture is a galaxy.
+Here is Abell 370 (see Fig. " Abell 370"), a giant galaxy cluster. Every smudges in that picture is a galaxy.
 
-![](https://online.science.psu.edu/sites/default/files/phys010/W15future/Abell%20370.jpg "Fig 3: Abell 370. This is a giant galaxy cluster. Every smudge is a galaxy. The center galaxy is the biggest one. All the galaxies are orbiting and are held together by the force of gravity. ")
+[ciscode|rev=1|tool=elmsmedia|item=1002|entity_type=node|render=display_mode|display_mode=image]
 
 By looking at the Doppler shift (see week 14) of each galaxy, we can figure out at what speed they are moving. Part of that speed is related to the expansion of space, everything moves away from us, but another part is the actual local speed of the galaxy.
 
