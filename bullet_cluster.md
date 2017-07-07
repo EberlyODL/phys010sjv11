@@ -8,7 +8,7 @@ Here is what the cluster looks like in X rays (superposed on top of the optical 
 
 [ciscode|rev=1|tool=elmsmedia|item=1006|entity_type=node|render=display_mode|display_mode=image]
 
-Finally, Fig. "Bullet cluster: lensing mass" shows where all the mass must be as determined by gravitational lensing.
+Finally, Fig. "Bullet cluster: lensing mass" shows where all the mass must be as determined by gravitational lensing. It is colored blue but this is a fake color. `
 
 [ciscode|rev=1|tool=elmsmedia|item=1007|entity_type=node|render=display_mode|display_mode=image]
 
