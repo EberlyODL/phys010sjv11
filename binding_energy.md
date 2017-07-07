@@ -4,7 +4,7 @@ The nuclear force acts very much like a box. It is a very strong force at the ou
 
 Nuclear physicists call this the **Shell Model** and, while it is rudimentary, it does capture most of the important phenomena about nuclear physics.
 
-> In the shell model, we imagine that protons are neutrons free to roam around inside the nucleus but hard to get out. Note that this very different than the artistic representation often depicted where protons and neutrons are stuck together. Second, the combination of 2 protons and 2 neutrons turns out to be very stable and we can model the nucleus as having such bound states inside of it.  
+> In the shell model, we imagine that protons and neutrons are free to roam around inside the nucleus but that it is hard to get out. Note that this very different from the artistic representation of the nucleus where protons and neutrons are touching each other together. Second, the combination of 2 protons and 2 neutrons turns out to be very stable and we can model the nucleus as having such bound states inside of it.  
 
 ## Average Binding Energy per Nucleon 
 
@@ -20,9 +20,9 @@ We have experimentally measured the average binding energy for nucleons in each 
 
 [ciscode|rev=1|tool=elmsmedia|item=2701|entity_type=node|render=display_mode|display_mode=h5p]
  
-S: I have a question here.
-M: Go ahead I will take it.
-S: What's up with the spike for Helium?
-M: Very good. Helium is a particularly stable atom for the number of nuclei it has. This is why in the nucleus, the protons and neutrons like to group themselves in bunches of helium nuclei. We call those **bunches of 4, the alpha particle**.
-S: is that it?. Your answer is that it just happens to be that way.
-M: Yes. This configuration of 2 protons and 2 neutrons just happens to be particularly stable.
+-S: I have a question here.
+-M: Go ahead I will take it.
+-S: What's up with the spike for Helium?
+-M: Very good. Helium is a particularly stable atom for the number of nuclei it has. This is why in the nucleus, the protons and neutrons like to group themselves in bunches of helium nuclei. We call those **bunches of 4, the alpha particle**.
+-S: is that it?. Your answer is that it just happens to be that way.
+-M: Yes. This configuration of 2 protons and 2 neutrons just happens to be particularly stable.
