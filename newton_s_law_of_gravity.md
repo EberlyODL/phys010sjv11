@@ -28,6 +28,7 @@ $$ F \Delta t = \Delta p = m \Delta v$$
 The case of gravity is special because the force depends on the mass $$(F = mg$$) so you can cancel it on both side. You get
 
 $$ mg \Delta t = m \Delta v $$ 
+
 $$ g \Delta t = \Delta v $$
 
 The conclusion is that the time it takes to fall only depends on the velocity (and the constant g). The only thing that matter is whether the hammer and the feather are thrown downward or simply dropped. The mass of the object is irrelevant for the time it takes to free fall!
