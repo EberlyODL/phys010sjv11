@@ -11,7 +11,6 @@ The objectives for this lesson are that by the end of the week you will be able 
 * LOCos03: discuss dark energy, why we think it exists in the Universe and what it could be 
 
 ## NewsFlash
-We have two news articles to finish! 
 
 * First, detection of gravitational waves!
 
@@ -20,6 +19,3 @@ target="_blank">Advanced LIGO and Gravitational Waves</a>
 
 <a href="https://www.ligo.caltech.edu/news/ligo20160211" target="_blank">Press Release of the first direct detection!</a>
 
-* An older article but maybe even more important discovery. Dark energy. 
-
-<a href="http://www.nbcnews.com/id/28256534/ns/technology_and_science-space/t/mysterious-dark-energy-demystified/#.Ubc4oOvHRqM" target="_blank">Dark Energy and the Fate of the Universe</a>
