@@ -20,3 +20,5 @@ Putting it all together, we get this amazing image that clearly shows two differ
 We think that what happened is that the two galaxy clusters collided, the gas interacted but the dark matter did not. Because this image clearly shows that the majority of the mass of the objects is separated from the gas, it provide evidence for a new type of mass that we can't see, this must be the dark matter. 
 
 Remember that we don't see dark matter. The blue is a fake color where we inferred the dark matter must be. We know it must be there because it forces the galaxies and the gas to orbit around it because it bends the surrounding light. That is we detect dark matter because of what it does via gravity.
+
+[ciscode|rev=1|tool=elmsmedia|item=1008|entity_type=node|render=display_mode|display_mode=image]
