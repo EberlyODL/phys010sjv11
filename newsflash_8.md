@@ -1,22 +1,16 @@
-The news article for this week is about whether the LHC was (or still is?) going to destroy the world! This was a question born out of misunderstanding. Most of the proponents had irrational fears about the LHC. As you may know, the LHC has been running now for a few years, and well, ... we are still here!
+New physics at the LHC. 
 
-- [Ethics Case Study: Will the LHC Destroy the World?](http://www.nytimes.com/2008/03/29/science/29collider.html?p)
-- The print version with no images can be found in the New York Times article ["Asking a Judge to Save the World . . .](http://www.nytimes.com/2008/03/29/science/29collider.html?p=&pagewanted=print)".
+The LHC has been running for a few years now. It has discovered the Higgs boson but this was expected to be there. Maybe the collider will detect new physics. One has to be careful in science and discoveries take a while. 
 
-### Ethics of Science, the Precautionary Principle
+## Hints of new physics 
 
-The precautionary principle is an important principle often quoted in making laws in many countries. In a nutshell, the principle is
+The key word is hints!
 
-**If an action (or policy) has a suspected risk of causing harm to the public or to the environment.  
-The burden of proof that the action is safe falls on the people that want to take the action.**
+<a href="https://www.nature.com/news/physicists-excited-by-latest-lhc-anomaly-1.21865" target="_blank">Hint of new particles?</a>
 
-Using the precautionary principle, as a scientist, you can be _morally_ allowed to publish sooner your results (without all the verifications) when it is a matter of public safety.
+I choose this article because the media often jumps quickly on "hints" of new physics. Way too quickly in my opinion. Almost always, these hints turn out to be nothing. I am betting this particular discrepancy is probably just a fluke and I will wait until more data is collected and analyzed before getting excited.
 
-On the opposite spectrum, if the scientists are the ones posing a danger to the planet than the burden of proof than what they plan to do is safe falls on them. In the case of the LHC, the scientists had the burden of proof. They had to show that turning on the machine would not, without any chances and without any doubts, destroy the world.
-
-But this raises some ethical issues. Rest assured that the particle physics community has put considerable thoughts in the case of the LHC, and we convinced ourselves that it is perfectly safe.
-
-### The discovery of the Higgs particle. 
+## The discovery of the Higgs particle. 
 
 As you probably have heard, the LHC was turned on, producing invaluable data for quite a while now, and the Higgs boson was discovered as expected! (maybe unexpected ones are to come?).
 
