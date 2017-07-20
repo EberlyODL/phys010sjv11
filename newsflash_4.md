@@ -1,10 +1,10 @@
-Here is the link to this week's article
+This week we will read this News article about:
 
-<a href="http://news.sciencemag.org/europe/2011/10/faster-light-result-be-scrutinized" target="_blank">Opera Neutrino Superluminal Travel</a>
+<a href="http://news.sciencemag.org/europe/2011/10/faster-light-result-be-scrutinized" target="_blank">The Opera Neutrino Superluminal Travel</a>
 
 Below is a figure of the experiment. Neutrinos are produced at the CERN lab in Geneva. They zip through the Earth and arrive at the OPERA detector in Italy. They know the distance between the two labs very well. By dividing the distance by the time, they can figure out the speed of the neutrinos.
 
-The expectation is that neutrinos move at the speed of light, but this measurement was going to test this idea.
+The expectation is that neutrinos move at the speed of light, but this measurement was going to test this idea, the results were surprising, originally.
 
 [ciscode|rev=1|tool=elmsmedia|item=979|entity_type=node|render=display_mode|display_mode=image]
 

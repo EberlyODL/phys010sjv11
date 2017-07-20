@@ -1,19 +1,12 @@
-- M: Hello Sophie, I am back. How was the quantum world?
-- S: exhausting a bit, there is a lot of stuff!
-- M: I know and this is a new strange mindset for most people. Well let us take a break and look at gravity and the Universe. But first, here is a quick review of where we stand.
-
-Plan
-----
-
-![](https://online.science.psu.edu/sites/default/files/phys010/W14cosmo/Plan.png "Fig 1: The three units for this class. In this last part, we will look at gravity!")
+[ciscode|rev=1|tool=elmsmedia|item=894|entity_type=node|render=display_mode|display_mode=image]
 
 In the first unit we were introduced to the basic building blocks of Nature while in the second unit we saw our first force, electromagnetism, how it connects to light and we studied the particle/wave duality.
 
-![](https://online.science.psu.edu/sites/default/files/phys010/W14cosmo/Law%20of%20Physics2.jpg "Fig 2: Building blocks and laws of Physics")
+Fig. "Concept Map" shows the basic picture we have been studying. This is not a watered-down version of physics. All of these laws of physics are currently accepted to be true. There are no approximations.
 
-Fig. 2 shows the basic picture we have been studying. This is not a watered-down version of physics. All of these laws of physics are currently accepted to be true. There are no approximations.
+[ciscode|rev=1|tool=elmsmedia|item=895|entity_type=node|render=display_mode|display_mode=image]
 
-In addition to these basic laws, we have seen that particle/wave interact with each other via fundamental forces. Using these forces, the particle/wave can exchange momentum with one another and affect each other's trajectories.
+In addition to these basic laws, we have seen that particle/wave interact with each other via fundamental forces. Using these forces, the particles/waves can exchange momentum with one another and affect each other's trajectories.
 
 The four forces of Nature are
 

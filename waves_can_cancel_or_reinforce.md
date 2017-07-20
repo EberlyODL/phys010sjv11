@@ -1,6 +1,6 @@
 Imagine an earthquake (which is a wave) coming to you. Or rather, let us imagine there are two earthquakes. The one coming from the right wants to make you move up while another one from the left arrives and it wants to make you move down (at that particular moment). Can they cancel?
 
-Yes, waves can add up or cancel and this story about earthquakes waves cancelling is not as crazy as it sounds. In many earthquakes, you will often find buildings untouched while right next to them you find only rubbles. Usually this happens when the earthquake wave bounces on something and interacts back with itself. In some lucky places, it can cancel completely.
+Yes, waves can add up or cancel and this story about earthquakes waves cancelling is not as crazy as it sounds. In many earthquakes, you will often find buildings untouched while right next to them you find only rubble. Usually this happens when the earthquake wave bounces on something and interacts back with itself. In some lucky places, it can cancel completely.
 
 ## Beats 
 
