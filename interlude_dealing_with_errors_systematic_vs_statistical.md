@@ -10,7 +10,7 @@ You want to check whether your prediction agrees with experiments.
 
 To make sure you are doing things right, you take multiple measurements. I did it at home and here are my results for my own grandfather watch whose length I measured to be 20 cm.
 
-|Period (s)|Lenght(m)| Gravitational constant "g" ($m/s^2$)
+|Period (s)|Length(m)| Gravitational constant "g" ($m/s^2$)
 |--------
 |0.95|2|9.75
 |1.05|0.2|7.16

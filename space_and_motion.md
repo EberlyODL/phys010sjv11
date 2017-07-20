@@ -1,4 +1,4 @@
-Welcome back We are about to see the last building block of nature! After this week we will have all the pieces ready for the chess game, and we will start looking at the rules of the game.
+We are about to see the last building block of nature! After this week we will have all the pieces ready for the chess game, and we will start looking at the rules of the game.
 
 - S: So let's see ... What do we have for building blocks? The world is made of atoms, which have energy and momentum. And there are waves.
 - M: And the waves also have energy and momentum.
