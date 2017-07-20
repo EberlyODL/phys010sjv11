@@ -2,11 +2,9 @@ There are two theories of relativity; special and general. The special theory on
 
 What Einstein did with special relativity is to propose to extend the old relativity principle to all laws of physics (not just mechanics).
 
-> _Principle of Relativity: All the laws of physics (not just mechanics) are the same for all observers moving at constant velocity._
+> _Principle of Relativity (ala Newton): All the laws of physics (not just mechanics) are the same for all observers moving at constant velocity._
 
-From this principle, the theory of special relativity follows. This is all there is to it.
-
-In particular, we have the following logic
+From this principle, the theory of special relativity follows. Here is the logic for special relativity: 
 
 1. Maxwell's theory of electricity is true for all observers moving at constant speed.
 2. Maxwell's theory predicts that light travels at $ c= 299,792,458\; m/s$.
@@ -18,7 +16,7 @@ In particular, we have the following logic
 
 [ciscode|rev=1|tool=elmsmedia|item=973|entity_type=node|render=display_mode|display_mode=image]
 
-## Addition of Speed \*\* This is highly optional, your book also discusses this.
+## How to add  speeds \*\* This is optional, your book also discusses this.
 
 Einstein's principle of relativity says that the speed of light is measured to be the same for all observers moving at constant velocity. Imagine I turn on a flashlight in a train moving at the speed of c/2 with respect to the ground $v_{TG} = c/2$, the speed of the light with respect to the train $v_{cT}$ is c and the speed of light with respect to the ground $v_{cG}$ must also be c. 
 

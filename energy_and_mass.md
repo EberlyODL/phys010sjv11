@@ -1,4 +1,4 @@
-In week 2 we saw that particles that move with speed v have energy and momentum due to their movement. (We are only interested in the energy of movement, the kinetic energy.)
+In week 2 and 3 we saw that particles that move with speed v have energy and momentum due to their movement. (We are only interested in the energy of movement, the kinetic energy.)
 
 Momentum $p=mv$ and kinetic energy $K= \frac12 mv^2$
 
