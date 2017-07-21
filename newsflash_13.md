@@ -4,6 +4,7 @@
 Since its discovery in 1998, we now have much corroborative evidence for dark energy. We now think that about 70% of the energy of the Universe is made of dark energy. About 25% is dark matter and the remaining 5% is us, the ordinary matter.
 
 Sophie: This is incredible! 95% of the Universe is unknown dark stuff!
+
 Marie: Yes, as we said. With more knowledge comes more ignorance!
 
 [ciscode|rev=1|tool=elmsmedia|item=1000|entity_type=node|render=display_mode|display_mode=image]
