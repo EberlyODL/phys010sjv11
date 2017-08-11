@@ -5,8 +5,8 @@ The objectives for this lesson are that by the end of the week you will be able 
 
 * LOFor03: predict whether the electric force will be attractive or repulsive in various situations
 * LOFor04: estimate the magnitude and direction of the electric force given the electric field 
-* LOTec01: distingish the notion of current and voltage (use the water tower analogy), and relate them proportionately.
-* LOTech01A:	explain current and voltage as they relate to electrical safety in the home.
+* LOTec01: distingish the notion of current and voltage (use the water tower analogy).
+* LOTech08	explain current and voltage as they relate to electrical safety in the home.
 * LOTec02: distinguish the functions and basic structures of a conductor, a capacitor and a battery. 
 
 
