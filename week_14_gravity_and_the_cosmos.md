@@ -8,7 +8,6 @@ The objectives for this lesson are that by the end of the week you will be able 
 * LOPW13: describe the Doppler effect.
 * LOCos01: identify and name different orbits around the Earth
 
-
 ## NewsFlash
 The detection of gravitational waves!
 

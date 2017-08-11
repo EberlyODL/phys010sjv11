@@ -1,5 +1,5 @@
+### One final summary of big topics covered this week:
 - We do not know whether the Universe is finite or infinite, but we know that it is evolving. We can only see the light of the stars that are close enough for their light to have had time to reach us. This resolves Olbers' paradox and explains why the sky is dark. Their used to be a time in the Universe where there were no stars.
-
 - Any matter that is neutral under the electromagnetic force is "dark." So neutrons and neutrinos would be dark-matter candidates. We have evidence of another dark matter (beyond neutrons and neutrinos) in the Universe. It's exact nature as a particle (or something else) is unknown.
 - Indirect evidence for dark matter comes from its gravitational effect on the rotation curve of stars in galaxy, and from the behavior of galaxies in galaxy clusters.
 - Gravitational lensing refers to the bending of light around massive objects. By looking at distorted images we can figure where and how much mass there is in a galaxy cluster.
@@ -10,7 +10,7 @@
 matter, and ~5% ordinary matter.
 We hope one day to understand what that dark 95% really is.
 
-## Final thoughts: The future of physics. Expansion and the Big-Bang.
+### Final thoughts: The future of physics. Expansion and the Big-Bang.
 
 The Universe is evolving in time. Star first formed, we grow old and galaxies and stars grow old.
 

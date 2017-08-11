@@ -6,10 +6,6 @@ This week is shorter, spend some time reviewing for the Final. By the end of the
 * LOCos03: discuss dark energy, why we think it exists in the Universe and what it could be 
 
 
-1. Explain Olbers' paradox and its resolution.
-2. Differentiate luminous matter from dark matter.
-4. Explain what the images of the bullet cluster shows.
-
 News Article
 ------------
 
