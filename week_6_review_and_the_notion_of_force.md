@@ -7,8 +7,3 @@ The objectives for this lesson are that by the end of the week you will be able 
 * LOFor02: apply Newton’s third law in some examples.
 
 
-## News Article
-
-The 2003 Northeast blackout!
-
-- [The cause of the blackout.](http://www.scientificamerican.com/article.cfm?id=2003-blackout-five-years-later)
