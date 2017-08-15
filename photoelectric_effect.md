@@ -2,6 +2,9 @@ Let us practice the use of the potential energy graph.
 
 <iframe src="https://h5p.org/h5p/embed/86028" width="1090" height="638" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
+For a little more practice and review of Kinetic Energy try this question:
+<iframe src="https://h5p.org/h5p/embed/104438" width="1090" height="626" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 The energy graph will be immensely useful as we talk about the behavior of electrons and protons in the next three weeks.
 
 The photoelectric effect on its own is not so mysterious. You should think of a conductor as a container within which the electrons are trapped. A good analogy would be a swimming pool and the electrons are drops of water. If you jump in the swimming pool and start making waves, drops of water will be thrown away. Analogously, when we shine light on a metal, all the electrons inside are excited and some are ejected. This is the simple physics behind the photoelectric effect, and you may ask what the fuss is all about.
@@ -10,7 +13,7 @@ The photoelectric effect on its own is not so mysterious. You should think of a 
 
 ## The Stopping Potential
 
-Photoelectrons are ejected from the target on the cathode with some kinetic energy. The tube is empty of air; therefore, the electrons just fly from the cathode to the anode with some kinetic energy K creating a current. We can stop the current by turning on an electric potential.
+When light is shone on a target, the photoelectrons are ejected from the target on the cathode with some kinetic energy. The tube is empty of air; therefore, the electrons just fly from the cathode to the anode with some kinetic energy K creating a current. We can stop the current by turning on an electric potential - we can use that to figure out _how much_ kinetic energy the electrons have.
 [ciscode|rev=1|tool=elmsmedia|item=2217|entity_type=node|render=display_mode|display_mode=image__left]
 
 **_\*\* Watch out for name confusion:_**
@@ -28,9 +31,9 @@ By turning a potential, it is as if we were setting up a slope, as in Fig. "Pote
 
 [ciscode|rev=1|tool=elmsmedia|item=2219|entity_type=node|render=display_mode|display_mode=image__right]
 
-If they do not have enough potential energy they will turn around (this is an example of a turning point). 
+<iframe src="https://h5p.org/h5p/embed/104515" width="1090" height="623" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-In the experiment, we can adjust the potential on the battery just to the point where there is no more current. This happens when kinetic energy is equal to potential energy on top of the slope. We call this critical value of voltage, **the stopping potential.**
+In the experiment, we can adjust the potential on the battery just to the point where there is no more current. When current = zero, we found the spot where kinetic energy is equal to potential energy on top of the slope. We call this critical value of voltage, **the stopping potential.**
 
 $K = U = e V_{stop}$
 
