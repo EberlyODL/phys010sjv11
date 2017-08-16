@@ -1,6 +1,7 @@
 Coming back to the Newsflash about the asteroid hitting Russia - Can you answer the question now about what happened to the kinetic energy of the asteroid once it hit the earth? Where did that energy go? See if you can come up with a list. Remember, energy is Conserved, so it has to go somewhere!
 
 **Summary: **
+<iframe width="480" height="270" src="https://psu.voicethread.com/app/player/?threadId=9443958" frameborder="0" allowfullscreen></iframe>
 
 * Forms of energy are: gravitational potential, kinetic, nuclear, electrical potential, etc…
 * Get a good feeling of both tables on daily life section.
