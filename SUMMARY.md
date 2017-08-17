@@ -41,6 +41,5 @@
     * [The Double Slit Experiment](the_double_slit_experiment.md)
     * [Stationary Waves](stationary_waves_kp.md)
     * [Week 4 Summary](week-4-summary.md)
-  
 * [End of Book](README.md)
 
