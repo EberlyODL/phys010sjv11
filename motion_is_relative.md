@@ -10,15 +10,15 @@ Imagine a train car moving with velocity $v_T$ of 2 m/s (this is 2 meters per se
 
 Imagine a train car moving with velocity $v_{TG}= 2\;m/s$ **_with respect to the ground_**. Inside there is a cart moving at $v_{CT} = 1\;m/s$ **_with respect to the train_**. Still inside the cart there is a ball moving at $v_{BC}= 4\;m/s$ **_with respect to the cart_**.
 
-Velocities are always measured with respect to something. We call the viewpoint "the observer" even though that does not mean there is an actual human there. So we would say that the velocity of the train, as seen by an observer on the ground, is 2 m/s. The notation is important to know:
+Velocities are always measured with respect to something. We call the viewpoint "the observer" even though that does not mean there is an actual human there. So we would say that the velocity of the train, as seen by an observer on the ground, is 2 m/s ($v_{TG}$) The notation is important to know:
 
 $ v_{TG} = v_{\rm{train(T)\;with\;respect\;to\;ground(G)}}$
 
 $ v_{CT} = v_{\rm{cart(C)\;with\;respect\;to\;train(T)}}$
 
-> The choices of symbols C, T, B, G are arbitrary; you just choose whatever you want.
+> The choices of letters C, T, B, G are arbitrary; you just choose whatever you want, in this case I choose the starting letter of the word - easier to remember.
 
-- M: Note that, if you reverse the order, you just reverse the sign of the speed.
+- M: Interesting note: if you reverse the order, you just reverse the sign of the speed.
 - S: What do you mean?
 - M: For example, we know that the train is moving at 2 m/s to the right with respect to an observer on the ground $v_{TG}$ . If we want to have the velocity of the ground as seen by an observer on the train, we just reverse the subscript and the sign $v_{GT}$ and this is –2 m/s. This is the velocity of the ground with respect to the train. This just means that the ground is moving at 2 m/s to the left, as seen from someone on the train.
 - S: Oh like when I am on the bus. I see the trees and sign post moving to the back of the bus.
@@ -32,6 +32,6 @@ $ v_{CT} = v_{\rm{cart(C)\;with\;respect\;to\;train(T)}}$
 - S: Whoa, this is kind of confusing, velocity with respect to...
 - M: Take a break, catch your breath! The main point to remember is simple. To describe motion, you have to tell me about an observer (a reference frame). You have to tell me with respect to what.
 - S: Ok. Are we always going to use that notation with two subscripts?
-- M: No; in fact, we rarely care about changing point of view and will work in a specific reference frame. In fact, we often don't bother to mention with respect to what things are measured, since it is often obvious.
+- M: No; in fact, we rarely care about changing point of view and will always pick a specific reference frame to work in. In fact, we often don't bother to mention with respect to what things are measured, since it is often obvious.
 - S: Yes, the speed of a car is always meant to be with respect to the ground.
 - M: Exactly. In physics we measure things in the lab reference frame. The observer is whoever is doing the lab!
