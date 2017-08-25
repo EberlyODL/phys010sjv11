@@ -24,6 +24,7 @@ For the energy, Einstein found the following relation, which should remind you o
 
 $E^2 = (pc)^2+(mc^2)^2$
 
+(this $p$ is $\gamma m v$ now)
 - M: This is the most famous equation in physics.
 - S: Hmmm, I thought it was simpler than that.
 - M: Let's see. If you want the energy of a particle that is not moving, then $v=0$ and $p=0$. Then the formula becomes $E=mc^2$
