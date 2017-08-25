@@ -1,4 +1,4 @@
-How can this work in practice?  
+So, how can this work in practice?  
   
 Look at the two images below.
 

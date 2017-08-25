@@ -18,7 +18,7 @@ From this principle, the theory of special relativity follows. Here is the logic
 
 [ciscode|rev=1|tool=elmsmedia|item=973|entity_type=node|render=display_mode|display_mode=image]
 
-## How to add  speeds \*\* This is optional, your book also discusses this.
+## How to add  speeds: \*\* this is optional \*\*, your book also discusses this.
 
 Einstein's principle of relativity says that the speed of light is measured to be the same for all observers moving at constant velocity. Lets go back to Marie's example: Imagine I turn on a flashlight in a train moving at the speed of c/2 with respect to the ground $v_{TG} = c/2$, the speed of the light with respect to the train $v_{cT}$ is c and the speed of light with respect to the ground $v_{cG}$ must also be c. 
 
