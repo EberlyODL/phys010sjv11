@@ -19,7 +19,7 @@ This law essentially defined the notion of an inertial reference frame as we dis
 > 
 > _$F= ma$. The force which is moving an object equals the mass of the object times its acceleration._
 
-Acceleration measures the change in velocity per unit of time. We denote change using the $\Delta$ symbol which means the difference between the end and beginning.
+Acceleration measures the change in velocity per unit of time. Remember: change is written using the $\Delta$ symbol which means the difference between the end and beginning.
 
 $a = \frac{\Delta v}{\Delta t}$
 
