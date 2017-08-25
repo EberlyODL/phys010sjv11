@@ -1,8 +1,8 @@
 Now that we have some background both the flow of electrons (current) and how electrons get their energy (batteries or power plants on the grid) we will focus a bit on what happens in the home. First, it is important to define the relationship between current and voltage in a circuit, and this is known as **Ohm's Law**, because it was defined by one Mr. Georg Ohm. He said that the amount of current that you get in a circuit depends on the voltage supplied divided by the amount of **resistance** to current in that circuit. 
 
-$I= V/R$   
+$I= V/R$    
 
-Resistance (which is the $R$ in the equation above), is just that - something which slows down the current flow, usually by taking some of the electron's kinetic energy and turning it into something else. 
+Resistance (which is the $R$ in the equation above), is just that - something which slows down the current flow, usually by taking some of the electron's kinetic energy and turning it into something else.  (We will not use this equation for any calculations, only for our discussion about safety)
 
 
 ## Circuits 
@@ -13,12 +13,13 @@ There are generally two ways to wire multiple devices to a power source:
 
 - Buildings are instead wired in **parallel**. In parallel each appliance gets is own connection to the voltage source (a.k.a. outlet), and they split up the current, allowing a smaller amount of current can go through each appliance at once. 
 
+[ciscode|rev=1|tool=elmsmedia|item=3263|entity_type=node|render=display_mode|display_mode=image__right]
+Think of the queue's in a grocery store. There are many check-out counters that you can choose from - once you chose one then you purchase all your groceries at a single counter. This is parallel wiring in a store(!).
 
-<picture of shoppers>
+[ciscode|rev=1|tool=elmsmedia|item=3264|entity_type=node|render=display_mode|display_mode=image__left]
 
-Think of the queue's in a grocery store. There are many check-out counters that you can choose from - once you chose one then you purchase all your groceries at a single counter. This is parallel wiring in a store(!). The series analogy would be to have 1 single line with multiple registers - you'd have to buy some groceries at each register as you go along the line. This is the same as with electrical current. 
+The series analogy would be to have 1 single line with multiple registers - you'd have to buy some groceries at each register as you go along the line. This is the same as with electrical current. 
 
-<picture of appliances>
 
 ## Electricity and you
 <picture of breakers>
