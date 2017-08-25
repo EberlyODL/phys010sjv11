@@ -22,9 +22,10 @@ The series analogy would be to have 1 single line with multiple registers - you'
 
 
 ## Electricity and you
-<picture of breakers>
+
 Sharing current is where circuit breakers come into play. Generally, homes are equipped with circuit breakers and fuses. Is there a physics reason for these? Not really. These are there to prevent large currents from entering your home because they are a fire hazard, and dangerous to us humans. If you plug in too many appliances, they all want their share of the current coming into the house. Too many appliances = too much current, so you can "trip a breaker". 
 
+[ciscode|rev=1|tool=elmsmedia|item=3265|entity_type=node|render=display_mode|display_mode=image__right__circle]
 
 - S: So how much current is too much? 
 - M: Good question. Your body can handle about 1 mA (0.001) Amps without a problem - it will give you a small shock, but about 0.1 A is fatal. Somewhere in between you can go into cardiac arrest because your heart works by electrical signals.
