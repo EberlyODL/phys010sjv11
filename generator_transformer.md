@@ -47,7 +47,7 @@ This is a great tool as it allows us to change the voltage very efficiently.
 - M: So, we have kinetic energy in red loop -> energy of magnetic field -> kinetic energy of electron in blue loop.
 - S: Hmmm. I guess that magnetic field is a real thing then! 
 
-In the following demo, I will show you a transformer in action!
+In the following demo, Dr. Leblond shows us a transformer in action!
 
 [ciscode|rev=1|tool=elmsmedia|item=2167|entity_type=node|render=display_mode|display_mode=mediavideo]
 
@@ -62,3 +62,8 @@ But in your house, high voltage would be dangerous and unusable. Fortunately, it
 [ciscode|rev=1|tool=elmsmedia|item=2171|entity_type=node|render=display_mode|display_mode=image__boxed__right]
 
 The transformer only works with AC current and this is ultimately why that's the current we get in our house!
+
+
+- S: Wait, I though current was dangerous, not voltage. Why do we have to worry about those "Danger High Voltage" signs?
+- M: Well, this goes back to resistance and Ohm's Law $(I=V/R)$. High voltage will create a big current, even if your resistance is also large. So, its dangerous all the time, wet hands or dry hands. 
+- S: I'll be sure to stay away!

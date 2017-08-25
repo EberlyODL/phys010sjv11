@@ -65,6 +65,7 @@
     * [Electric Force](electric_field_and_currents.md)
     * [Batteries and the Volt](batteries_and_the_volt.md)
     * [Newsflash 7](newsflash_5.md)
+    * [Electricity in your home](electricity-in-your-home.md)
     * [Week 7 Summary](newsflash_5/week-7-summary.md)
   * [Week 8: Electromagnetism & Light](week_8_electromagnetism_light.md)
     * [Alternate Current and Magnetism](ac_dc_and_magnetism_.md)
@@ -142,6 +143,5 @@
 * [Accelerated Expansion](accelerated_expansion.md)
 * [Newsflash 15](newsflash_13.md)
 * [Week 15 Summary](week_15_summary.md)
-
 * [End of Book](README.md)
 
