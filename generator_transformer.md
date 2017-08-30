@@ -57,7 +57,7 @@ In the following demo, Dr. Leblond shows us a transformer in action!
 
 ... is the transformer (See fig "pole transformer)! To minimize loss in power when we transport electricity over large distances it is better to use high voltage (i.e., low current).
 
-But in your house, high voltage would be dangerous and unusable. Fortunately, it is easy to change the voltage from high to low (or the reverse) using a transformer. And actually, the ratio of high to low voltage is exactly the same as the ratio of the number of wraps of wire around the transformer.
+But in your house, high voltage would be dangerous and unusable. Fortunately, it is easy to change the voltage from high to low (or the reverse) using a transformer. And actually, the ratio of high to low voltage is exactly the same as the ratio of the number of wraps of wire around the transformer (just like the strength of an electromagnet depends on the number of wire wraps).
 
 [ciscode|rev=1|tool=elmsmedia|item=2171|entity_type=node|render=display_mode|display_mode=image__boxed__right]
 
