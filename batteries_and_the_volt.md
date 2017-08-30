@@ -14,7 +14,7 @@ You can think of the situation as the energy diagram in the figure below. The el
 
 [ciscode|rev=1|tool=elmsmedia|item=792|entity_type=node|render=display_mode|display_mode=image]
 
-But as it is this battery won't last long since there will be an accumulation of negative charge on the silver. When the next electron comes in, all the electrons that accumulated before him will repulse it (see Fig 7.)
+But as it is, this battery won't last long since there will be an accumulation of negative charge on the silver. When the next electron comes in, all the electrons that accumulated before him will repulse it (see Fig 7.)
 
 The solution is to use an electrolyte. We put a substance in between the zinc and silver where the atoms are ionized and the positive ions are free to move. The ions will move to cancel the charge and the current between the zinc and silver can then continue unimpeded for much longer (see Fig. 8)
 
