@@ -22,7 +22,7 @@ The series analogy would be to have 1 single line with multiple registers - you'
 
 ## Electricity and you
 
-Sharing current in parallel is where circuit breakers come into play. Generally, homes are equipped with circuit breakers and fuses. Is there a physics reason for these? Not really. These are there to prevent large currents from entering your home because they are a fire hazard, and dangerous to us humans. If you plug in too many appliances, they all want their share of the current coming into the house. Too many appliances = too much current, so you can "trip a breaker". 
+Sharing current in parallel is where circuit breakers come into play. Generally, homes are equipped with circuit breakers and fuses. These are there to prevent large currents from entering your home because they are a fire hazard, and dangerous to us humans. If you plug in too many appliances, they all want their share of the current coming into the house. Too many appliances = too much current, so you can "trip a breaker". 
 
 [ciscode|rev=1|tool=elmsmedia|item=3265|entity_type=node|render=display_mode|display_mode=image__right__circle]
 
