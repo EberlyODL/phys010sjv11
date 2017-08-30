@@ -20,4 +20,6 @@ The destructive interference happens when one wave is shifted compared to other 
 
 $\rm{shift} = \frac{\lambda}{2}$ leads to destructive interference.
 
-Constructive interference is easier, the two waves are exactly in phase and it looks like there is no shift between the two.
+Constructive interference is easier, the two waves are exactly in phase and it looks like there is no shift between the two. 
+
+We go over this again now, because light and interference will come back again as we travel through the quantum world.
