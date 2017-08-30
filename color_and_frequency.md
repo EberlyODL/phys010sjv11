@@ -1,4 +1,4 @@
-The discovery of the electromagnetic wave by James Clerk Maxwell in 1861 cannot be overstated as an achievement in humankind's search for answers. In one stroke, Maxwell finalized our understanding of the electromagnetic theory, set the stage for Einstein to discover relativity, and discovered that the speed of the electromagnetic wave was the speed of light, leading to the obvious connection that light itself is an electromagnetic wave.
+The discovery of the electromagnetic wave by James Clerk Maxwell in 1861 cannot be overstated as an achievement in humankind's search for answers. In one stroke, Maxwell finalized our understanding of the electromagnetic theory, set the stage for Einstein to discover relativity, and discovered that the speed of the electromagnetic wave was exactly the speed of light, leading to the obvious connection that light itself is an electromagnetic wave.
 
 ## One Wave with Many Names 
 
@@ -30,5 +30,5 @@ The important thing to remember is that all of these seemingly different waves a
 
 ## Color
 
-Even in the small range of frequencies and wavelengths that we can detect, the visible spectrum, we can make further subdivision. Our eyes can detect the differences between a light wave of 600 nm versus 400 nm where (1 nm = 1 nanometer = $10^{-9}$ m) and these differences are interpreted in our brain as different colors. Below is the spectrum of light:
+Even in the small range of frequencies and wavelengths that we can detect, the visible spectrum, we can make further subdivision. Our eyes can detect the differences between a light wave of 600 nm versus 400 nm where (1 nm = 1 nanometer = $10^{-9}$ m) and these differences are interpreted in our brain as different colors. Below is the spectrum of visible light:
 [ciscode|rev=1|tool=elmsmedia|item=2183|entity_type=node|render=display_mode|display_mode=image]
