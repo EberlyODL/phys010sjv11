@@ -6,7 +6,7 @@ Lets take a second look at interference and learn some more terms.
 
 ## Interference take 2
 
-If you have multiple waves in the same medium, recall that you can just superimpose them to get the resulting wave (we did this in in week 4). Try this.
+If you have multiple waves moving in the same direction in the same medium, recall that you can just superimpose them to get the resulting wave. Try this:
 
 <iframe src="https://h5p.org/h5p/embed/85372" width="1090" height="638" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
@@ -20,6 +20,6 @@ The destructive interference happens when one wave is shifted compared to other 
 
 $\rm{shift} = \frac{\lambda}{2}$ leads to destructive interference.
 
-Constructive interference is easier, the two waves are exactly in phase and it looks like there is no shift between the two. 
+Constructive interference is easier to explain, the two waves are exactly in phase and it looks like there is no shift between the two. 
 
-We go over this again now, because light and interference will come back again as we travel through the quantum world.
+We go over this again now, because light and interference will come back again as we travel through the quantum world in the next weeks.
