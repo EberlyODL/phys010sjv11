@@ -47,9 +47,7 @@ To get a sense of scale and how big and small things compare, look at the follow
 Here is a good video from Derek of Veritasium reviewing many of the concepts we have just discussed regarding scientific notation followed by an order of magnitude question.
 [ciscode|rev=1|tool=elmsmedia|item=2065|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail]
 
-> In some of the questions in this class, you will see dollars signs. This is where equations are meant to be and we are working on making them show up well in the questions. For the moment, just remember that 10^2 means $10^2$. 
-
-<iframe src="https://h5p.org/h5p/embed/74441" width="1090" height="289" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://h5p.org/h5p/embed/106456" width="1090" height="319" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ### Systems of Units
 

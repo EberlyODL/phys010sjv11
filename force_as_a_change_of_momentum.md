@@ -15,9 +15,9 @@ $ F\Delta t = \Delta p$
 
 This is the same as $F=ma$ but we will use the former more in this class. The SI unit for force is called the Newton (N). 
 
-> Force like momentum has a sign. A force to left is negative and a force to the right is positive. 
+> Force, like momentum, has a sign. A force to left is negative and a force to the right is positive. 
 
-This is one part of the class where you are expected to be able to do some numerical computation. Look at the following example. We have a 1000 kg car initially moving at $20 m/s$. The driver breaks upon seeing an accident and successfully stop in 5 seconds (this is $\Delta t$, the interval of time). What was the force?
+This is another part of the class where you are expected to be able to do some numerical computation. Look at the following example. We have a 1000 kg car initially moving at $20 m/s$. The driver breaks upon seeing an accident and successfully stop in 5 seconds (this is $\Delta t$, the interval of time). What was the force?
 
 [ciscode|rev=1|tool=elmsmedia|item=2137|entity_type=node|render=display_mode|display_mode=image]
 
