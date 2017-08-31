@@ -4,7 +4,7 @@ Momentum $p=mv$ and kinetic energy $K= \frac12 mv^2$
 
 We have also seen that **the momentum and the energy are conserved**.
 
-## Relativistic Energy-Momentum \*\* do not memorize the equations here. 
+## Relativistic Energy-Momentum \*\* do not memorize the equations here. \*\*
 
 Now that we have learned about the special nature of spacetime, how should we define v in these formulas? Normally the speed is
 
@@ -18,12 +18,13 @@ $p = \gamma m v$
 
 where $\gamma = \frac{1}{\sqrt{1-v^2/c^2}}$ which is a factor always greater than 1. As you get closer and closer to the speed of light the factor $\gamma$ grows bigger and so does the momentum!
 
-For the energy, Einstein found the following relation, which you can think of as the Pythagoras relationship:
+For the energy, Einstein found the following relation, which should remind you of the Pythagorean theorem:
 
 [ciscode|rev=1|tool=elmsmedia|item=974|entity_type=node|render=display_mode|display_mode=image]
 
 $E^2 = (pc)^2+(mc^2)^2$
 
+(this $p$ is $\gamma m v$ now)
 - M: This is the most famous equation in physics.
 - S: Hmmm, I thought it was simpler than that.
 - M: Let's see. If you want the energy of a particle that is not moving, then $v=0$ and $p=0$. Then the formula becomes $E=mc^2$
@@ -34,5 +35,5 @@ $E^2 = (pc)^2+(mc^2)^2$
 ### External Resources 
 
 * Minute Physics has a couple of nice videos regarding special relativity; have a look! 
-* <a href="http://www.youtube.com/watch?v=NnMIhxWRGNw&list=PLED25F943F8D6081C&index=4&feature=plcp" target="_blank">Pythagoras Equation for Energy</a>
+* <a href="http://www.youtube.com/watch?v=NnMIhxWRGNw&list=PLED25F943F8D6081C&index=4&feature=plcp" target="_blank">Pythagorean Theorem for Energy</a>
 * <a href="http://www.youtube.com/watch?annotation_id=annotation_447492&feature=iv&index=1&list=PLED25F943F8D6081C&src_vid=hW7DW9NIO9M&v=ajhFNcUTJI0" target="_blank">Special Relativity</a>

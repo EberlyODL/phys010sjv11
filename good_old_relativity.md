@@ -25,7 +25,7 @@ We will discuss the theory of electricity later on, but, for now, there is only 
 
 $ c = 299,792,458 \; m/s$, the speed of light.
 
-> the symbol "c" always means the speed of light (in vacuum). 
+> the symbol "c" always means the speed of light (in a vacuum). 
 
 - S: I do not see what is so strange here? Beside the fact that I don't see what light and electricity have to do with each other.
 - M: What is strange is that for the first time, a fundamental law of Nature was telling us specifically the speed of a wave. The speed was not an arbitrary derived quantity, it was right there in the equations.
