@@ -2,7 +2,7 @@ In lab #1, you showed that the interference pattern from the double slit experim
 
 [ciscode|rev=1|tool=elmsmedia|item=943|entity_type=node|render=display_mode|display_mode=image]
 
-Lets take a second look at interference.
+Lets take a second look at interference and learn some more terms.
 
 ## Interference take 2
 
