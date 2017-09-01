@@ -10,7 +10,10 @@ This law is just the statement that if the Earth via gravity makes you move fast
 
 $\Delta p_{Earth} = - \Delta p_{me}$
 
-If the change in momentum for both are the same (remember recoil!) and the interaction happens over the same time then the force must be the same ( $ F\Delta t = \Delta p$), except for the sign (+ or -), which is why we say the 2 forces are opposite!
+If the change in momentum for both are the same (remember recoil!) and the interaction happens over the same time then the force must be the same ( $ F\Delta t = \Delta p$), except for the sign (+ or -), which is why we say the 2 forces are equal and opposite!
+
+
+In general when 2 objects interact, the $\Delta p$ of one object must equal the negative $\Delta p$ of the other object, and the two feel equal and opposite forces.  
 
 [ciscode|rev=1|tool=elmsmedia|item=3258|entity_type=node|render=display_mode|display_mode=image]
 
