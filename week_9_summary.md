@@ -1,12 +1,14 @@
+Week 9 Summary:
+
 - The Crookes tube is a vacuum tube with an anode and a cathode. The green beam was later identified to be electrons by Thomson.
 - Experiment with Crookes tube led to the discovery of X-rays.
-- The total energy of an electron is its kinetic energy K plus its potential energy.
-- On a potential energy graph, the turning points are where the energy is all potential with no kinetic.
+- The total energy of an electron is its kinetic energy K plus its potential energy U.
+- On a potential energy graph, the turning points are where the energy is all potential with no kinetic (speed=0).
 - Solar cell technology is based on the photovoltaic (or photoelectric, essentially the same thing) effect in which light is absorbed by electrons which then create a current.
 - The photoelectric effect is a famous experiment that first proved that light was a particle.
 - The setup of that experiment is the following:
 
-    * You shine light on a target on a cathode. Electrons are ejected and move toward an anode. (the whole thing is inside of a vacuum tube). This create a current. We can stop the current by applying a voltage in the opposite direction. We can also change the frequency of the incident light and the intensity.
+    * You shine light on a target on a cathode. Electrons are ejected and move toward an anode. (the whole thing is inside of a vacuum tube). This create a current. We can stop the current by applying a voltage in the opposite direction. We can also change the frequency of the incident light and the intensity to see what happens.
 
 [ciscode|rev=1|tool=elmsmedia|item=860|entity_type=node|render=display_mode|display_mode=image]
 
