@@ -75,7 +75,7 @@
     * [Color and Frequency](color_and_frequency.md)
     * [Newsflash 8](newsflash_6.md)
     * [Light Interferes too](light_interference.md)
-    * [Week 8 Summary](week_8_summary.md)    
+    * [Week 8 Summary](week_8_summary.md)
   * [Week 9: Light as a particle](week_9_light_as_a_particle.md)
     * [The Crookes Tube](the_crooke_s_tube.md)
     * [Ejecting electrons](ejecting_electrons.md)
@@ -143,6 +143,5 @@
 * [Accelerated Expansion](accelerated_expansion.md)
 * [Newsflash 15](newsflash_13.md)
 * [Week 15 Summary](week_15_summary.md)
-
 * [End of Book](README.md)
 

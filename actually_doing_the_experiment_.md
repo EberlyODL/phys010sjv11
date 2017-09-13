@@ -2,13 +2,13 @@ As you will demonstrate in your lab this week, the following two graphs can be o
 
 [ciscode|rev=1|tool=elmsmedia|item=2221|entity_type=node|render=display_mode|display_mode=image]
 
-In the current vs frequency, we see that the electric current only start once some threshold value of frequency is used. 
+In the current vs frequency graph, we see that the electric current only start once some threshold value of frequency is used. 
 
 ### Current vs voltage graph
 
 [ciscode|rev=1|tool=elmsmedia|item=2223|entity_type=node|render=display_mode|display_mode=image]
 
-The figure "Current vs Voltage" shows another strange aspect of the photoelectric effect. As you increase the intensity of the light, you get a bit more current but the stopping potential (and thus the kinetic energy of each electrons) does not seem to change. 
+The figure "Current vs Voltage" shows another strange aspect of the photoelectric effect. As you increase the intensity of the light, you get a bit more current but the stopping voltage (and thus the kinetic energy of each electrons) does not seem to change. 
 
 
 > Fig. "Current vs Frequency" shows that there is a threshold frequency $f_0$ below which nothing happens. Fig. "Current vs Voltage" shows that, for positive potential, I can have a large current, and for any intensity of the light, the stopping potential $V_{stop}$ remains unchanged
