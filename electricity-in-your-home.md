@@ -9,20 +9,17 @@ Resistance (which is the $R$ in the equation above), is just that - something wh
 What is a circuit anyway? The most simple definition is a Voltage source which is connected to a resistor, causing current to flow! Take a lightbulb connected to a battery, for example. The electrons start out with some initial energy which they get from the battery. Some of the kinetic energy the electrons has is converted to thermal energy (light bulbs are hot!) and, of course, some of it is converted to light as they flow through the lightbulb. The low energy electrons then return to the battery and get a boost of energy to repeat the cycle. But your house has more than 1 lightbulb and resistor...
 
 There are generally two ways to wire multiple devices to a power source: 
-- You could string them along in a line: toaster, microwave, refrigerator, etc. This is called **series** wiring. The problem with this in your house is that each appliance has to share the same voltage, divided up between them. No problem if each appliance only needs 30V or less. If you look at each device though, they all say "120 V" - because that is how much they need to run (which is the voltage that comes out of the outlet). How do we assure each appliance gets 120 V?  We change the wiring. 
+
+- You could string them along in a line: toaster, microwave, refrigerator, etc. This is called **series** wiring. The problem with this in your house is that each appliance has to share the same voltage, divided up between them. This won't work though because each device says "120 V" (which is the voltage that comes out of the outlet). How do we assure each appliance gets 120 V?  
 
 - Buildings are instead wired in **parallel**. In parallel each appliance gets is own connection to the voltage source (a.k.a. outlet), and they split up the current, allowing a smaller amount of current can go through each appliance at once. 
 
 [ciscode|rev=1|tool=elmsmedia|item=3263|entity_type=node|render=display_mode|display_mode=image__right]
 Think of the queue's in a grocery store. There are many check-out counters that you can choose from - once you chose one then you purchase all your groceries at a single counter. This is parallel wiring in a store(!).
 
-[ciscode|rev=1|tool=elmsmedia|item=3264|entity_type=node|render=display_mode|display_mode=image__left]
-
-The series analogy would be to have 1 single line with multiple registers - you'd have to buy some groceries at each register as you go along the line. This is the same as with electrical current. 
-
 ## Electricity and you
 
-Sharing current in parallel is where circuit breakers come into play. Generally, homes are equipped with circuit breakers and fuses. These are there to prevent large currents from entering your home because they are a fire hazard, and dangerous to us humans. If you plug in too many appliances, they all want their share of the current coming into the house. Too many appliances = too much current, so you can "trip a breaker". 
+Sharing current in parallel is where circuit breakers come into play. Generally, homes are equipped with circuit breakers and fuses. These are there to prevent large currents from entering your home because they are a fire hazard, and dangerous to us humans. When appliances are wired in parallel, they share the current coming into the house (usually 200 Amps). Too many appliances = too much current, so you can "trip a breaker" - each small breaker is somewhere between 10 and 40 Amps. 
 
 [ciscode|rev=1|tool=elmsmedia|item=3265|entity_type=node|render=display_mode|display_mode=image__right__circle]
 
