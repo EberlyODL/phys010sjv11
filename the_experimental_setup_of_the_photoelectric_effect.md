@@ -16,12 +16,12 @@ You can download the photoelectric effect simulation in the resources below, thi
 
 By doing the experiment and trying out things we found that
 
-1. The current is directly proportional to the light intensity. If the light intensity is doubled, the current doubles.
+1. The measured current is directly proportional to the light intensity. If the light intensity is doubled, the current doubles.
 2. The current appears without delays.
-3. There is a threshold (minimum) frequency below which there is no current, no matter how intense.
-4. This threshold frequency depends on the metal used as target.
-5. By applying a reverse voltage, we can stop the current. The voltage necessary is referred to as **Stopping Potential $V_{stop}$.**
-6. The value of $V_{stop}$ does not change as we change the intensity. But it does change as we change the frequency.
+3. There is a threshold (minimum) frequency of light below which there is no current, no matter how intense.
+4. This threshold frequency of light depends on the metal used as target.
+5. By applying a reverse voltage, we can stop the current. The voltage necessary to do that is referred to as **Stopping Potential $V_{stop}$.**
+6. The value of $V_{stop}$ does not change as we change the intensity. But it does change if we change the frequency.
 
 ### External Resources
 
