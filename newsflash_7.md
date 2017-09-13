@@ -1,4 +1,4 @@
-The photoelectric effect is sometimes called the photovoltaic effect and it is how we convert sun's light to electricity.
+This weeks Newsflash is about the usefulness of the photoelectric effect. The photoelectric effect is sometimes called the photovoltaic effect and it is how we convert sun's light to electricity.
 
 <a href="http://www.sciencedaily.com/releases/2013/05/130506094511.htm" target="_blank">Recent Progress in Solar Cell Technology</a>
 
