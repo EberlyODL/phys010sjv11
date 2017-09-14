@@ -39,6 +39,6 @@ So good, there is a **link between the wave and the particle**. And the link is 
 
 ### External Resources
 
-- Try this simulation from PHET. After turning on the source and adding a double slit, you can change the display to show "hits." This way you can see the individual photons hitting the screen. Check out the single particles tab as well!
+- Try this JAVA simulation from PHET. After turning on the source and adding a double slit, you can change the display to show "hits." This way you can see the individual photons hitting the screen. Check out the single particles tab as well!
 
 <div style="position: relative; width: 300px; height: 197px;"><a href="https://phet.colorado.edu/sims/quantum-wave-interference/quantum-wave-interference_en.jnlp" style="text-decoration: none;"><img src="https://phet.colorado.edu/sims/quantum-wave-interference/quantum-wave-interference-600.png" alt="Quantum Wave Interference" style="border: none;" width="300" height="197"/><div style="position: absolute; width: 200px; height: 80px; left: 50px; top: 58px; background-color: #FFF; opacity: 0.6; filter: alpha(opacity = 60);"></div><table style="position: absolute; width: 200px; height: 80px; left: 50px; top: 58px;"><tr><td style="text-align: center; color: #000; font-size: 24px; font-family: Arial,sans-serif;">Click to Run</td></tr></table></a></div>
