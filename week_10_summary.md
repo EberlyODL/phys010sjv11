@@ -11,3 +11,5 @@ Recap of Light.
 M: The key phrase that will help you remember it is that: "_Light interacts as a particle, the photon, but it moves like a wave_.  
 
 The wave tells the photons where they should go (in a probabilistic manner), but every interaction is with one photon at a time.
+
+And the weird thing: Once you know some information about where a photon is (put a hand in the beam) you change the probabilities of where the photons will go, both in a Qbit system and in the more complex double slit experiment.
