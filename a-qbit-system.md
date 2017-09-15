@@ -1,6 +1,6 @@
-The double slit experiment is a complicated system to study quantum mechanics. In the double slit, we have to discuss the probability amplitude for all values of position on the screen. There is really an infinite number of spots where the photon can go. 
+The double slit experiment is a complicated system to study quantum mechanics. In the double slit, we have to discuss the probability amplitude for all values of all the positions on the screen. There is really an infinite number of spots where the photon can go. 
 
-We can create a system with only two possible positions for the photon. Like a coin with two sides, this is the simplest quantum system to analyze, manipulate and to do probability with. This is what we call the Qbit. 
+We can create a more simple system with only two possible positions for the photon. Like a coin with two sides, this is the simplest quantum system to analyze, manipulate and to do probability with. This is what we call the **Qbit**. 
 
 ## Bits
 
