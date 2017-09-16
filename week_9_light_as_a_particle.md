@@ -10,3 +10,5 @@ By the end of the week you will be able to
 ## News Article
 
 <a href="http://www.sciencedaily.com/releases/2013/05/130506094511.htm" target="_blank">Recent Progress in Solar Cell Technology</a>
+
+This week there will also be your second lab, on the photoelectric effect.

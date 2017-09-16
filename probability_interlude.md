@@ -12,13 +12,13 @@ Because 45 out of 100 throws ended up in region A, we could say that the chance 
 
 $P_A = \frac{N_A}{N_{tot}}$
 
-This is more and more accurate as the total number of throws gets really large. Similarly, we can define the probability of throwing in region B and C ($P_B$ and $P_C$) by counting the number of throws in region B or C ($N_B$ or $N_C$) and dividing it by the total number of throws ($N_{TOT}$). The bigger the total number of throws, the more accurate the probability becomes.
+This probability is more and more accurate as the total number of throws gets really large. Similarly, we can define the probability of throwing in region B and C ($P_B$ and $P_C$) by counting the number of throws in region B or C ($N_B$ or $N_C$) and dividing it by the total number of throws ($N_{TOT}$). The bigger the total number of throws, the more accurate the probability becomes.
 
 ## The Word OR
 
 Let's say you want to know the probability that the dart was in region A **OR** region B. What do you do?
 
-Since it does not matter which one, you just count all throws in A or B.
+Since it does not matter which one, you just count all throws that landed in A or B.
 
 $P_{A\; or \; B} = \frac{N_A + N_B}{N_{tot}} = P_A+P_B$
 
@@ -28,6 +28,6 @@ Note that the chance of hitting anything at all (A OR B OR C) should be 1 or 100
 
 $P_A+P_B+P_C =1$
 
-> As we will see quantum mechanics is special when it comes to adding probability because of interference.
+> As we will see, quantum mechanics is special when it comes to adding probability because of interference which happens.
 
-> Note: A probability is a pure number (no units) between 0 (impossible) and 1 (certain). Often the number is represented as a percentage or as a fraction. For example a probability of p = 0.25 can be represented as 25% (25/100) or as 1/4. One chance out of 4 is a probability p=0.25.
+> Note: A probability must be a pure number (no units) between 0 (impossible) and 1 (certain). Often the number is represented as a percentage or as a fraction. For example a probability of p = 0.25 can be represented as 25% ,25/100 or as 1/4. One chance out of 4 is a probability p=0.25.
