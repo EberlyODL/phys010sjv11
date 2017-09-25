@@ -9,7 +9,7 @@ Electricity is almost always caused by the movement of a single particle: the el
 As far as we know the electron has no substructure (it is not made of anything else). It is a fundamental particle of Nature and it has the following properties:
 
 1. It has a mass of $m_e= 9.1 \times 10^{-31}$ kg
-2. It has an electric charge of -1
+2. It has an electric charge of -1e
 
 ## Electric Charge
 
