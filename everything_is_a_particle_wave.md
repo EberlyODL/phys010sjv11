@@ -58,5 +58,5 @@ $E= hf$
 
 These two are equivalent because we know that the E&M wave travels at the speed of light so we know that $c=\lambda f$ while we also know from special relativity that the energy of the photon is $E=pc$.
 
-M: So, back to the wavelength of you. If you weigh 60 kg and are moving at 1 m/s, your wavelength  $\lambda = h/mv$ is $6.62x10^{ -34}$/(60 kg *1 m/s) = $1.1x10^{-35}$ meters! which means the size of your wavelength is billions of times smaller than an atom. And that, is why you are not all blurry like a wave.
+M: So, back to the wavelength of you. If you weigh 60 kg and are moving at 1 m/s, your wavelength  $\lambda = h/mv$ is $6.62x10^{ -34}$/(60 kg *1 m/s) = $1.1x10^{-35}$ meters! which means the size of your wavelength is billions of times smaller than an atom. And that, is another reason why you are not all blurry like a wave.
 
