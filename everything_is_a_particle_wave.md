@@ -4,15 +4,15 @@ What is so special about light? How is it that light is not really a particle, n
 Well, nothing is special about light. Every particle in the world is a "particle-wave."
 
 - S: Really, wouldn't that be very noticeable?
-- M: Well, first, we are talking about very small individual particles. In large groups, the wave nature gets "washed out," and the reason for that is simple: there is continuously something interacting with a very large object. And whenever any object interacts it does so as a particle.
-- S:. You mean that all the air molecules that bounce on me ensure that I remain a particle?
-- M: This is part of the reason. There is also the fact that the wave for massive objects has a very, very small wavelength. Let us discuss this.
+- M: Well, first, we are talking about very small individual particles like electrons or protons. In large groups, the wave nature gets "washed out," and the reason for that is simple: there is always something continuously interacting within or with a very large object (like a bus). And whenever any object interacts it does so as a particle.
+- S:. You mean that all the air molecules that are bouncin against me ensure that I behave like a particle?
+- M: This is part of the reason. There is also the fact that the wave for massive objects has a very, very small wavelength. Lets talk about this in detail:
 
-For light we have seen that the relationship between the particle and the wave is explained by fact that the energy of the particle is directly related to the frequency of the light wave. 
+For light the relationship between a particle and the wave is explained by fact that the energy of the light-particle is directly related to the frequency of the light-wave. 
 
 $E = hf$
 
-For particles with a mass, you need a more general relationship.To relate energy and wave. This equation shows the wavelength of a particle, was proposed by Louis de Broglie:
+For particles with a mass, you need a more general relationship. To relate energy and wave. This equation shows the wavelength of a particle, was proposed by Louis de Broglie:
 
 $ \lambda = \frac{h}{p}$
 
@@ -57,3 +57,6 @@ with _h_ being Planck's constant. Or we can also use Einstein's relation
 $E= hf$
 
 These two are equivalent because we know that the E&M wave travels at the speed of light so we know that $c=\lambda f$ while we also know from special relativity that the energy of the photon is $E=pc$.
+
+M: So, back to the wavelength of you. If you weigh 60 kg and are moving at 1 m/s, your wavelength  $\lambda = h/mv$ is $6.62x10^{ -34}$/(60 kg *1 m/s) = $1.1x10^{-35}$ meters! which means the size of your wavelength is billions of times smaller than an atom. And that, is why you are not all blurry like a wave.
+
