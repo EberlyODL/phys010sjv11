@@ -17,7 +17,7 @@ The anti-partner of the electron is called the positron. It has exactly the same
 
 The proton also has an antiparticle called the antiproton. Again, the antiproton has the opposite charge as the proton (so antiproton is negative).
 
-Some particles like the photon are their own antiparticle (in other words there is really no "antiphoton"). Essentially, this is because it is a neutral particle. The opposite of zero is still zero.
+Some particles like, the photon, are their own antiparticle (in other words there is really no "antiphoton"). Essentially, this is because it is a neutral particle. The opposite of zero is still zero.
 
 Things to remember about antiparticles:
 
