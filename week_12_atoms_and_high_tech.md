@@ -7,7 +7,6 @@ By the end of the week you will be able to:
 * LOTec06: understand by analogies what the transistor is and what it does
 
 
-
 ## News Article
 
 <a href="http://wallstreetpit.com/113644-new-graphene-transistors-super-fast-computers/" target="_blank">Graphene to replace Silicon? Where is Graphene Valley?</a>
