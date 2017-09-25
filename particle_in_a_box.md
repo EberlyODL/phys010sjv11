@@ -20,7 +20,7 @@ where L is the size of the box and n is an integer (1,2,3...). We conclude that 
 
 $p = n p_1$
 
-Similarly, the only energy the electron has inside the box is kinetic energy $K=\frac12 mv^2 = \frac{p^2}{m}$ where I wrote the formula in terms of momentum. So the energy goes like momentum squared.
+Similarly, the only energy the electron has inside the box is kinetic energy $K=\frac12 mv^2 = \frac{p^2}{2m}$ where I wrote the formula in terms of momentum. So the energy goes like momentum squared.
 
 $E_n = n^2 E_1$
 
