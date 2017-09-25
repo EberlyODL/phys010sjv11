@@ -34,4 +34,4 @@ At these locations where the protons are allowed to collide, one gets a shower o
 
 ### External Resources 
 
-- Look at this very good <a href="http://news.bbc.co.uk/2/hi/7543089.stm" target="_blank">Intro to LHC</a> from BBC news about the LHC.
+- Look at this very good <a href="http://news.bbc.co.uk/2/hi/7543089.stm" target="_blank">Intro to LHC</a> from BBC news.

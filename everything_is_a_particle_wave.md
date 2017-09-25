@@ -1,3 +1,4 @@
+## Particles have wavelengths too
 What is so special about light? How is it that light is not really a particle, not really a wave, but is, instead, some kind of dual quantity? Some strange "particle-wave."
 
 Well, nothing is special about light. Every particle in the world is a "particle-wave."
@@ -7,15 +8,17 @@ Well, nothing is special about light. Every particle in the world is a "particle
 - S:. You mean that all the air molecules that bounce on me ensure that I remain a particle?
 - M: This is part of the reason. There is also the fact that the wave for massive objects has a very, very small wavelength. Let us discuss this.
 
-For light we have seen that the relationship between the particle and the wave is that the energy of the particle is directly related to the frequency of the light wave. 
+For light we have seen that the relationship between the particle and the wave is explained by fact that the energy of the particle is directly related to the frequency of the light wave. 
 
 $E = hf$
 
-For particles with a mass, a more general relationship was proposed by Louis de Broglie, and it is
+For particles with a mass, you need a more general relationship.To relate energy and wave. This equation shows the wavelength of a particle, was proposed by Louis de Broglie:
 
 $ \lambda = \frac{h}{p}$
 
-For a massless particle like the photon we have that $E=pc$ and you can check (using that $c = \lambda f$) that the de Broglie relationship is the same as Einstein's. But for massive particles the momentum is $ p= mv$ (at "low" speed with respect to _c_). The de Broglie wavelength is
+This means that the wavelength is inversely related to its momentum. We call this the _de Broglie wavelength_.
+
+For a massless particle like the photon we have that $E=pc$ and you can check (using that $c = \lambda f$) that the de Broglie relationship ends up being $E=hf$. But for massive particles the momentum is $ p= mv$ (at "low" speed with respect to _c_). The de Broglie wavelength is then
 
 $ \lambda = \frac{h}{mv}$
 
