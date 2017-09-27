@@ -16,5 +16,5 @@ target="_blank">Advanced LIGO and Gravitational Waves</a>
 
 <a href="https://www.ligo.caltech.edu/news/ligo20160211" target="_blank">Press Release of the first direct detection!</a>
 
-Since this first detection - there have been 3 more published, the most recent wave detected was Aug 14, 2017.
+Since this first detection - there have been 3 more published detections, the most recent wave detected was Aug 14, 2017.
 
