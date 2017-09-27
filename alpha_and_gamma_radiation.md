@@ -24,9 +24,13 @@ For example, polonium 208 (84 protons and 124 neutrons) is unstable, it is radio
 Unfortunately, she died of cancer. Her lab notebook and other furniture from her lab, are being kept in Paris but they cannot be seen by the public because they are too radioactive and unsafe still to this day!
 
 - S: Why would the notebook be radioactive, it is not made of Polonium?
-- M: No, but it contains traces of polonium (or other radioactive materials that Curie discovered).
+- M: No, but it contains traces of polonium (or other radioactive materials that Curie discovered) which emit alpha particles.
 - S: It is sad that she died because of her research.
 - M: Well you can die of cancer for other causes, but, yes, she was in contact with many dangerous materials. Now we do nuclear research much more safely and Marie lives on thru the many discoveries she made!
+
+> Radioactive vs Radiation: This is an important distinction. Radioactive material emits radiation. The emitted radiation is what is dangerous, and this is because alpha particles and gamma  radiation are particularly hazardous to humans. 
+
+
 
 ## Gamma Radiation 
 
@@ -41,6 +45,8 @@ A typical electron transition in atoms creates photons with energy of about 1 eV
 A typical nuclei transition inside the atom create photons with energy of about $$10^6$$ eV which are gamma rays.
 
 [ciscode|rev=1|tool=elmsmedia|item=2704|entity_type=node|render=display_mode|display_mode=h5p]
+
+
 
 ## Mass Defect 
 
