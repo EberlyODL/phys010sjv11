@@ -33,11 +33,11 @@ The figure above is important to understand. The various levels of energy are al
 
 - M: Hey, Sophie, imagine that you have a box full of hydrogen and that you send a photon with energy of 12 eV. What do you think will happen to it?
 - S: I guess the electron could absorb the photon just like in the photoelectric effect.
-- M: Correct. Let's say the electron was in its ground state. What would be the final energy after absorbing the photon?
+- M: Correct, lets see if that is possible. Let's say the electron was in its ground state. What would be the final energy after absorbing the photon?
 - S: Hmmm, let's see. -13.6 + 12 = -1.6 eV. Which I guess is in between level 3 and level 2.
 - M: But can the electron be in between two levels?
 - S: I guess not.
-- M: Indeed, this is very much NOT allowed. The photon will not be absorbed and it will just pass through.
+- M: Indeed, this is very much NOT allowed. It turns out the photon will not be absorbed and it will just pass through.
 - S: Ok, makes sense.
 - M: But let's say that the electron was in level 2.
 
