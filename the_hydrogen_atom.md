@@ -15,7 +15,7 @@ The electron is bound to the atom just like the electron was bound to be in the 
 
 - The electron is confined, it cannot be on the proton and it cannot be further than its turning point (which depends on its energy and the shape of the energy graph for the atom).
 - Because of these limits, only quantized standing wave patterns are allowed.
-- This means that the energy of the electron is quantized - only specific energies are allowed, the rest are not.
+- This means that the energy of the electron is quantized. Quantized means only specific energies are allowed, the rest are not.
 
 Physicists can solve exactly for the standing wave solutions. Because the solutions are in three dimensions, it is complicated to write a formula or even just to visualize them. Below you can see standing waves on a drum (this is two-dimensional).
 

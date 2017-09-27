@@ -31,7 +31,7 @@ Let me summarize this again, since this is important:
 
 S: Pause.. what exactly does quantized mean again?
 M: Great time to remind everyone - quantized means that only specific values (of energy or momentum, or wave pattern) are allowed, usually this shows up by an integer in the equation ("n") - that can only be 1,2,3... and never 0.4, 1.5, etc. Like standing waves
-S: right. standing waves were quantized too, because of the "n"
+S: right. standing waves were quantized too, because of the "n", and electrons behave like waves with fixed ends, so.. I see.
 
 Note that n=0 is NOT possible, since the electron would have zero energy and we know that it must at least have its rest mass energy. So the lowest energy an electron can have is $E_1$ for n=1, the first harmonic. Fig. "Energy in Box" shows the first four levels of energy for an electron in a box.
 
