@@ -4,7 +4,7 @@ The electric potential energy felt by an electron around a single proton is just
 
 [ciscode|rev=1|tool=elmsmedia|item=2634|entity_type=node|render=display_mode|display_mode=image]
 
-Notice that we have defined the potential energy U to be always negative. This is an arbitrary choice. It is also a useful choice although it may seem confusing. Here is why we do it: The total energy is the sum of potential plus kinetic, so $E_{tot} = U +K$. If the total energy of the electron is a negative number, it will not be possible to escape from the atom since there is a **turning point** in the trajectory. We say that the electron is bound. If the total energy is positive, then the electron can escape to infinity and it is thus free of the proton. This happens when we ionize hydrogen and liberate the single electron. This is illustrated in the "Negative Energy" figure.
+Notice that we have defined the potential energy U to be always negative. This is an arbitrary choice. It is also a useful choice although it may seem confusing. Here is why we do it: The total energy is the sum of potential plus kinetic, so $E_{tot} = U +K$. If the total energy of the electron is a negative number, it will not be possible to escape from the atom since there is a **turning point** in the trajectory. We say that the electron is bound. If the total energy is positive, then the electron can escape to infinity and it is thus free of the proton. This happens when we ionize hydrogen and liberate the single electron. Ionize just means "turn into an ion" by freeing an electron. This is illustrated in the "Negative Energy" figure.
 
 [ciscode|rev=1|tool=elmsmedia|item=920|entity_type=node|render=display_mode|display_mode=image]
 
