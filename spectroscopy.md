@@ -1,4 +1,4 @@
-To recap. When an electron is bound to a proton, only a certain set of wavefunction are allowed. This is the so-called orbital model or cloud model of atoms (see Fig. "Cloud Model").
+To recap. When an electron is bound to a nucleus (which is just a proton for Hydrogen), only a certain set of wavefunction are allowed. This is the so-called orbital model or cloud model of atoms (see Fig. "Cloud Model").
 
 [ciscode|rev=1|tool=elmsmedia|item=910|entity_type=node|render=display_mode|display_mode=image]
 
@@ -9,7 +9,7 @@ The cloud represents where we are more likely to find the electron.
 - S: Nope, still here. Shouldn't the proton also be represented by a wavefunction? Why is it a dot in the figure?
 - M: Good question! It should be, indeed, but it is much more massive that the electron (about 2000 times) and its wavelength is so much shorter that you can't see the wave. The more mass you have, the more the standing waves have small wavelengths. The consequence is that the proton is almost always found in the center.
 - S: Ok, but technically I am right and you have a wave for both.
-- M: True.
+- M: Yes.
 
 These waves are quantized. For each wave we can calculate the energy of the electron. Because of the shape of the potential well, the formula for the energy is just
 

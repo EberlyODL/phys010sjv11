@@ -29,6 +29,10 @@ In this equation $E_1$ is a basic quantum of energy which depends on the size of
 Let me summarize this again, since this is important:
 **By imposing a rule that the wave of the electron vanishes at some places (ie. it can't go outside the walls), we get standing wave patterns with different harmonic wavelengths. This implies that the momentum and energy of the electron are quantized. That means that not all values of E and p are possible. Only special values that are integer multiples (or integer squared) of a basic unit.**
 
+S: Pause.. what exactly does quantized mean again?
+M: Great time to remind everyone - quantized means that only specific values (of energy or momentum, or wave pattern) are allowed, usually this shows up by an integer in the equation ("n") - that can only be 1,2,3... and never 0.4, 1.5, etc. Like standing waves
+S: right. standing waves were quantized too, because of the "n"
+
 Note that n=0 is NOT possible, since the electron would have zero energy and we know that it must at least have its rest mass energy. So the lowest energy an electron can have is $E_1$ for n=1, the first harmonic. Fig. "Energy in Box" shows the first four levels of energy for an electron in a box.
 
 [ciscode|rev=1|tool=elmsmedia|item=2617|entity_type=node|render=display_mode|display_mode=image]
