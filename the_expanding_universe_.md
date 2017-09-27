@@ -13,7 +13,7 @@ There is even more information in those lines that we can extract when we know a
 
 ## Doppler Effect.
 
-You know what the Doppler effect is from the sound of sirens on ambulances (or the whistle of a moving train). The Doppler effect arises when a source of a wave is moving. As you can see in Fig. "Doppler Effect", as the source moves to the right, the wavelength of the wave on the right is smaller than the wavelength on the left.
+You have heard the Doppler effect, even if you didn't know it. The Doppler effect is often heard from the sound of sirens on ambulances (or the whistle of a moving train) as they pass by you. The Doppler effect arises when a source of a wave is moving. As you can see in Fig. "Doppler Effect", as the source moves to the right, the wavelength of the wave on the right is smaller than the wavelength on the left.
 
 The wave is stretched if the source is moving away from you or it becomes more squeezed if the source is moving towards you; i.e., without looking you can tell whether the train is coming toward you or going away from you.
 

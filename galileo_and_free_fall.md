@@ -1,11 +1,11 @@
 ## Gravity
 
-The first fundamental force to be understood.  
+Was the first fundamental force to be understood.  
 (Understanding gravity was a critical step in the scientific revolution & changing our view of the Universe.)  
   
 &  
   
-The fundamental force we still least understand!  
+The fundamental force we still understand the least!  
 (Understanding gravity is one of the great challenges of modern physics! Particularly unifying gravity with quantum mechanics.)
 
 [ciscode|rev=1|tool=elmsmedia|item=888|entity_type=node|render=display_mode|display_mode=image]
