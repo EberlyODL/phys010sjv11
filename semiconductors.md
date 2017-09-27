@@ -1,6 +1,6 @@
 We have seen how the energy levels of the electron are quantified inside of an atom. Imagine you have hydrogen in gas form where all the atoms are in their ground state. You will need 13.6 eV per hydrogen atom to free all the electrons. Once the electrons are free, you will have a hydrogen plasma and it will conduct electricity (since the electrons are free to move).
 
-This idea of an energy gap, often called **band gap**, is what differentiates conductors from semiconductors from insulators. Fig. "Band Gap" shows the allowed band of energy for electrons in a solid material (usually crystals).
+The idea of an energy gap, often called **band gap**, is what differentiates conductors from semiconductors from insulators. It tells us how much energy is required to free an electron from the atoms. Fig. "Band Gap" shows the allowed band of energy for electrons in a solid material (usually crystals).
 
 [ciscode|rev=1|tool=elmsmedia|item=905|entity_type=node|render=display_mode|display_mode=image]
 
