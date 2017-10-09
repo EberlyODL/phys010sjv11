@@ -1,4 +1,4 @@
-It used to be that people ate out of radioactive plates. Look below!
+It used to be that people ate off of radioactive plates. Look below!
 
 [ciscode|rev=1|tool=elmsmedia|item=2706|entity_type=node|render=display_mode|display_mode=mediavideo]
 
@@ -6,11 +6,11 @@ It used to be that people ate out of radioactive plates. Look below!
 
 [ciscode|rev=1|tool=elmsmedia|item=2707|entity_type=node|render=display_mode|display_mode=mediavideo]
 
-Atoms can decay but when do they do it? All types of nuclear radiation are probabilistic in nature. We cannot tell exactly when its going to happen. But given a large enough sample of material we can predict how many atoms should have decayed by a certain time.
+Atoms can decay but when do they do it? All types of nuclear radiation are probabilistic in nature. We cannot tell exactly when its going to happen. But given a large enough sample of material we can predict how many atoms should have decayed by a certain time. 
 
 ## Half-life (Symbol is t½)
 
-A half-life is the time it takes for a quantity to fall to half of its value. We usually talk about half-life for radioactive decays, but it really applies to many kinds of unstable situations. For example, if the electron in the hydrogen atom is excited in the level 2 (n=2), it can decay back to level 1. We don't know when that will happen, it is probabilistic, and we say that this excited electron has some half-life t½.
+A half-life is the time it takes for a quantity to fall to half of its original value. We usually talk about half-life for radioactive decays, but it really applies to many kinds of unstable situations. For example, if the electron in the hydrogen atom is excited in the level 2 (n=2), it can decay back to level 1. We don't know when that will happen, it is probabilistic, and we say that this excited electron has some half-life t½.
 
 Back to Polonium 208. It is unstable to alpha decay (and then it becomes lead Pb 204). The half-life for this process is about 2,900 years. That means that if you have 100 atoms of Polonium 208 and you wait 2,900 years, you should have about 50 atoms of polonium and 50 atoms of lead.
 
