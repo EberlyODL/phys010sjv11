@@ -1,4 +1,4 @@
-To recap. When an electron is bound to a proton, only a certain set of wavefunction are allowed. This is the so-called orbital model or cloud model of atoms (see Fig. "Cloud Model").
+To recap. When an electron is bound to a nucleus (which is just a proton for Hydrogen), only a certain set of wavefunction are allowed. This is the so-called orbital model or cloud model of atoms (see Fig. "Cloud Model").
 
 [ciscode|rev=1|tool=elmsmedia|item=910|entity_type=node|render=display_mode|display_mode=image]
 
@@ -9,7 +9,7 @@ The cloud represents where we are more likely to find the electron.
 - S: Nope, still here. Shouldn't the proton also be represented by a wavefunction? Why is it a dot in the figure?
 - M: Good question! It should be, indeed, but it is much more massive that the electron (about 2000 times) and its wavelength is so much shorter that you can't see the wave. The more mass you have, the more the standing waves have small wavelengths. The consequence is that the proton is almost always found in the center.
 - S: Ok, but technically I am right and you have a wave for both.
-- M: True.
+- M: Yes.
 
 These waves are quantized. For each wave we can calculate the energy of the electron. Because of the shape of the potential well, the formula for the energy is just
 
@@ -33,11 +33,11 @@ The figure above is important to understand. The various levels of energy are al
 
 - M: Hey, Sophie, imagine that you have a box full of hydrogen and that you send a photon with energy of 12 eV. What do you think will happen to it?
 - S: I guess the electron could absorb the photon just like in the photoelectric effect.
-- M: Correct. Let's say the electron was in its ground state. What would be the final energy after absorbing the photon?
+- M: Correct, lets see if that is possible. Let's say the electron was in its ground state. What would be the final energy after absorbing the photon?
 - S: Hmmm, let's see. -13.6 + 12 = -1.6 eV. Which I guess is in between level 3 and level 2.
 - M: But can the electron be in between two levels?
 - S: I guess not.
-- M: Indeed, this is very much NOT allowed. The photon will not be absorbed and it will just pass through.
+- M: Indeed, this is very much NOT allowed. It turns out the photon will not be absorbed and it will just pass through.
 - S: Ok, makes sense.
 - M: But let's say that the electron was in level 2.
 

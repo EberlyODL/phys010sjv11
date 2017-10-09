@@ -5,7 +5,7 @@
 - Einstein's theory of General Relativity eventually supplanted Newton's theory. The difference between the two theories is very small in our daily life but Einstein's theory does predict a few qualitatively new phenomena 
   - It predicts that light should also be affected by gravity. This has been verified experimentally.
   - It predicts the existence of black holes. We now have pretty good evidence that there is a black hole in the center of the Milky Way.
-  - It predicts gravitational waves: ripples in spacetime. We are on the lookout for those.
+  - It predicts gravitational waves: ripples in spacetime. Humans have just started measuring these using LIGO.
 - We can describe orbits by just using Newton's theory. The velocity to stay in orbit is
 
 $$v^2 = \frac{GM}{r}$$

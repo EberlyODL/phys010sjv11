@@ -15,7 +15,7 @@ These black lines are the lines of absorption. They are also called spectral lin
 - S: In my case, that would be my bed.
 - M: Yes, you are currently in an excited state, but it won't last. We all return to our ground state sooner or later!
 
-If you heat up (with a fire or whatever) our gas of hydrogen, some electrons will move to excited states. These states are always unstable, and, after a while (usually very short), the electron will tumble back down and, in doing so, they will emit light (see Fig. "Photon Emission").
+If you heat up (with a fire or whatever) our gas of hydrogen, some electrons will move to excited states (n>1). These states are always unstable, and, after a while (usually very short), the electron will tumble back down and, in doing so, the extra energy they had will be emitted as light (see Fig. "Photon Emission").
 
 [ciscode|rev=1|tool=elmsmedia|item=917|entity_type=node|render=display_mode|display_mode=image]
 

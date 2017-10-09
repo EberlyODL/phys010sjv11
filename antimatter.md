@@ -1,4 +1,4 @@
-The stationary wave we have just discussed are important for most electrons in normal objects surrounding. Electrons move but they are restrained to stay within atoms or metals because of electric forces. We will continue our study of electrons in conductors and semiconductors next week. It is the basis for many important technologies. 
+The standing waves we have just discussed are important for most electrons in normal objects surrounding us. Electrons do move but, generally, they are restrained to stay within atoms or metals because of electric forces, and so they kind of behave like they are trapped in boxes. We will continue our study of electrons in conductors and semiconductors next week. It is the basis for many important technologies. 
 
 We will conclude this week with a side story of what happens if we start moving electrons (or protons) at high speed (near speed of light). 
 
@@ -17,7 +17,7 @@ The anti-partner of the electron is called the positron. It has exactly the same
 
 The proton also has an antiparticle called the antiproton. Again, the antiproton has the opposite charge as the proton (so antiproton is negative).
 
-Some particles like the photon are their own antiparticle (in other words there is really no "antiphoton"). Essentially, this is because it is a neutral particle. The opposite of zero is still zero.
+Some particles like, the photon, are their own antiparticle (in other words there is really no "antiphoton"). Essentially, this is because it is a neutral particle. The opposite of zero is still zero.
 
 Things to remember about antiparticles:
 

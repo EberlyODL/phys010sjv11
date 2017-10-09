@@ -1,9 +1,9 @@
-Up to now, we have looked at spontaneous radioactive decay that leads to either alpha radiation or gamma radiation. Nuclear fission, on the other hand, is about triggering externally a breakup of the nucleus.
+Up to now, we have looked at spontaneous radioactive decay that leads to either alpha radiation or gamma radiation. Nuclear fission, on the other hand, is about externally triggering the breakup of a nucleus.
 
 [ciscode|rev=1|tool=elmsmedia|item=828|entity_type=node|render=display_mode|display_mode=image__left]
 
-The basic idea is to hit the nucleus with a high-energy neutron that will split the atom and eject alpha particles and neutrons. Large amounts of energy can be released in this process. The source of that energy ultimately stems from the nuclear potential energy but we usually just say mass energy. In fission, the atom you start with weighs more than the broken pieces. This is a large source of energy that we can tap in nuclear reactors.
-
+The basic idea of fission is to hit a nucleus with a high-energy neutron that will split the atom and eject alpha particles and more neutrons. Large amounts of energy can be released in this process. The source of that energy ultimately stems from the nuclear potential energy but we usually just say mass energy. In fission, the atom you start with weighs more than the sum of the broken pieces (the extra mass energy is turned into kinetic energy of the broken pieces). This is a large source of energy that we can and do tap in nuclear reactors.
+## Fuel for Fission reactions
 There are three main fuels that we can easily do fission with in nature.
 
 * **U-235:** This is a radioactive isotope of Uranium. It occurs naturally in nature. You could find it in your backyard . . .
@@ -14,7 +14,7 @@ There are three main fuels that we can easily do fission with in nature.
 
 [ciscode|rev=1|tool=elmsmedia|item=830|entity_type=node|render=display_mode|display_mode=image__left]
 
-* **Plutonium-239**: It does not exist in nature but it can be created by bombarding Uranium-238 with neutrons.
+* **Plutonium-239**: It does not exist in nature but it can be created by bombarding Uranium-238 (which is available in nature in large quantities) with neutrons. 
 
 [ciscode|rev=1|tool=elmsmedia|item=831|entity_type=node|render=display_mode|display_mode=image__left]
 
@@ -24,13 +24,13 @@ The current system used for nuclear fission in nuclear reactors relies on U-235 
 
 We first mine for Uranium-238, which can be found in pretty large quantities (40 x more uranium on Earth than silver). It is almost stable: t½ is about 4.468 billions years old.
 
-A typical sample of U-238 will contain 0.7% of U-235 with a half-life t½ of about 703,800,000 years. In order to effectively do fission we need more U-235 than that and so we have a procedure called "Uranium enrichment" in which we increase the % of U-235 in the U-238 sample. We then create a rod with this enriched uranium and we send high-speed neutrons toward it.
+A typical sample of U-238 will contain 0.7% of U-235 with a half-life t½ of about 703,800,000 years. In order to effectively do fission we need more U-235 than that and so we have a procedure called "Uranium enrichment" in which we increase the % of U-235 in the U-238 sample - concentrating it. We then create a rod with this enriched uranium and we send high-speed neutrons toward it.
 
-When U-235 absorbs a neutron, it becomes U-236 which is really unstable and the whole atom breaks into Krypton and Barium (see <a href="http://www.webelements.com/" target="_blank">table of element</a> for Kr and Ba); see Fig. "Uranium Cycle". 
+When U-235 absorbs a neutron, it becomes U-236 which is really unstable- this causes the whole atom to break apart into Krypton and Barium (see <a href="http://www.webelements.com/" target="_blank">table of element</a> for Kr and Ba); see Fig. "Uranium Cycle". 
 
 [ciscode|rev=1|tool=elmsmedia|item=832|entity_type=node|render=display_mode|display_mode=image]
 
-The process also releases three neutrons. All the particles in the end process have a lot of kinetic energy. This leads to thermal energy and the nuclear reaction can be used to work a steam engine and create electricity.
+When U-236 breaks it also releases three neutrons (these neutrons can be used to further the fission). All the particles in the end process have a lot of kinetic energy. This leads to thermal energy and the thermal energy from the nuclear reaction can be used to work a steam engine and create electricity!
 
 [ciscode|rev=1|tool=elmsmedia|item=2721|entity_type=node|render=display_mode|display_mode=h5p]
 

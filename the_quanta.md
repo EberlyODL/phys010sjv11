@@ -30,7 +30,7 @@ S: What was Einstein's solution to the experiment we just did?
 
 ## Light is Quantized
 
-Einstein's proposition is that light is not really a continuous wave but, instead, arrives in small packets, small bunches. He imagined that each **"quantum"** of light has an energy given by
+Einstein's proposition is that light is not really a continuous wave but, instead, arrives in small packets, small bunches - a **"quantum"**. He imagined that each "quantum" of light has an energy given by
 
 $E = hf$
 
@@ -38,7 +38,7 @@ where f is the frequency and h is a number: Planck's constant. (It was introduce
 
 $h = 6.63\times 10^{-34}\;J\cdot s = 4.14\times 10^{-15} \rm{eV}\cdot s$
 
-The units are Joules times second or electron volt (1 eV = $1.602\times10^{-19}$ J) times second. Einstein then supposed that when light interacts with electrons, it is an all-or-nothing business. The electrons can absorb only 1 quanta of light at a time (not 1.5 not 2).
+The units are Joules times second or electron volt (1 eV = $1.602\times10^{-19}$ J) times second. Einstein then supposed that when light interacts with electrons, it is an all-or-nothing business. The electrons can absorb only 1 quanta of light at a time (not 1.5 not 2). If light is absorbed in quanta, we say that it is _quantized_.
 
 > Just a reminder that eV is just a (very small) unit of energy 1 eV = $1.602\times 10^{-19}$ Joules
 

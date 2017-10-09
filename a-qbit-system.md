@@ -26,3 +26,6 @@ Quantum computers may soon be a real possibility. Google, Microsoft and others a
 
 
 <a href="https://www.nytimes.com/2016/11/21/technology/microsoft-spends-big-to-build-quantum-computer.html" target="_blank">Microsoft Quantum Computing</a>
+
+Extra Resources: If you are intreagued by the qbit here is a great youtube video that explains it in a little more detail: 
+<a href=" https://www.youtube.com/watch?v=JhHMJCUmq28" target="_blank"> Quantum Computers Explained, by Kurzgesagt-in a Nutshell </a> 

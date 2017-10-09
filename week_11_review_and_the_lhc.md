@@ -7,7 +7,7 @@ The objectives for this lesson are that by the end of the week you will be able 
 * LOQua07: explain how energy quantization for confined electrons arises
 * LOQua11: describe what antimatter is
 * LOQua12: explain what a particle collider is and what it can do.
-* LOPW12: describe the concept of standing waves and determine the sets of wavelengths allowed.
+
 
 ## News Article
 
