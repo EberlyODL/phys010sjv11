@@ -55,4 +55,4 @@ Note that the photon never triggered the bomb but the fact that it could have do
 
 Extra resources:
 Here is  video going over the "hand" example again:
-[ciscode|rev=1|tool=elmsmedia|item=3530|entity_type=node|render=display_mode|display_mode=document]
+[ciscode|rev=1|tool=elmsmedia|item=3530|entity_type=node|render=display_mode|display_mode=mediasvg__left__small__lightboxed]
