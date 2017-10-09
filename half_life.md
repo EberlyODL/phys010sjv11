@@ -28,4 +28,4 @@ Back to Polonium 208. It is unstable to alpha decay (and then it becomes lead Pb
 
 ## External Resources.
 
-- Look at the following <a href="http://phet.colorado.edu/en/simulation/alpha-decay" target="_blank">PHET simulation</a>. In the multiple atoms tab, you can see the distribution of decays around the half-life. Also look at the single atom tab.
+- Look at the following <a href="http://phet.colorado.edu/en/simulation/alpha-decay" target="_blank">PHET simulation</a>. In the multiple atoms tab, you can see the distribution of decays around the half-life. Also look at the single atom tab. This is a good way to get a good understanding of half-life.

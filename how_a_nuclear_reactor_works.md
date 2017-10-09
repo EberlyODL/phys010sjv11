@@ -1,16 +1,16 @@
 ## Controlling the Chain Reaction
 
-We control the chain reaction by inserting a bar of cadmium, which absorbs the neutrons (see Fig. "Cadmium Bars")
+We control the chain reaction by inserting a bar of cadmium, which absorbs the neutrons (see Fig. "Cadmium Bars") - thus slowing down or speeding up the chain reaction in a controlled way. These are known as the "control rods".
 
 [ciscode|rev=1|tool=elmsmedia|item=833|entity_type=node|render=display_mode|display_mode=image]
 
 ## Nuclear Waste
 
-If it was just for U-235, nuclear waste would be small, but, of course, the fuel bar contains U-238 which can also absorb neutrons. When it does, it becomes Plutonium-239 (see Fig. "P-239 Radioactive Waste"). 
+If  the only nuclear waste was U-235, nuclear waste would be small, but, of course, that is not the only thing around. The fuel bar contains mostly U-238 which can also absorb neutrons. When it does, it becomes Plutonium-239 (see Fig. "P-239 Radioactive Waste"). 
 
 [ciscode|rev=1|tool=elmsmedia|item=834|entity_type=node|render=display_mode|display_mode=image]
 
-PU-239 can also be used in the nuclear reactor, but mostly it's a dangerous waste and we are just stuck with it. The half-life for Plutonium is
+PU-239 can also be used in the nuclear reactor, but mostly it's a dangerous waste because it emits alpha particles, and we are just stuck with it. The half-life for Plutonium is
 
 $$t_{\frac12}$$ = 24,000 years
 
