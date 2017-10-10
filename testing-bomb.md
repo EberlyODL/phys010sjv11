@@ -52,7 +52,3 @@ Note that the photon never triggered the bomb but the fact that it could have do
 **If you are not seriously perplexed by this. Reread this page again.**
 
 > If the photon lands in D0 a 100 times, you can tell your manager. There is a very good chance that this bomb is a dud.
-
-Extra resources:
-Here is  video going over the "hand" example again:
-[ciscode|rev=1|tool=elmsmedia|item=3530|entity_type=node]
