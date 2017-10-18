@@ -1,4 +1,4 @@
-Newton was the first to correctly describe the force of gravity and he found that near the surface of the Earth the force of gravity is indeed just proportional to the mass of the object
+Newton was the first to correctly describe the force of gravity that Galileo was studying. He found that near the surface of the Earth the force of gravity is indeed just proportional to the mass of the object
 
 $$ F_g = m g$$
 
