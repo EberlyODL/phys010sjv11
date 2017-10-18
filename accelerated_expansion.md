@@ -1,12 +1,12 @@
-Dark matter is mysterious but we have many plausible ideas for it. Any neutral particle with a sufficiently large mass is a good dark matter candidate. As we already said the neutron or the neutrino could be dark matter (they are dark because they don't have electric charge). But it turns out that neutron or neutrino would not work. They either move to fast (neutrino) or they interact with nuclear forces too often (neutron).
+Dark matter is mysterious but we have many plausible ideas for what it is. Any neutral particle with a sufficiently large mass is a good dark matter candidate. As we already said the neutron or the neutrino could be dark matter (they are dark because they don't have electric charge). But it turns out that, actually, neutron or neutrino would not work. They either move to fast (neutrino) or they interact with nuclear forces too often (neutron) - and would end up with protons making atoms.
 
-So we are on the lookout for a new neutral particle that could be the dark matter. The LHC is looking and many other experiments are underway. 
+So we are on the lookout for a new neutral particle that could be the dark matter. The LHC is looking and many other experiments are underway too. 
 
 Dark energy, on the other hand is even more mysterious.
 
 ## Expansion of the Universe
 
-As soon as Einstein figured out General Relativity, he applied the theory to model the Cosmos. What he found was perplexing. No matter what the Universe was made of, spacetime always ended up being dynamical, either expanding or contracting.
+As soon as Einstein figured out General Relativity, he applied the theory to model the Cosmos. What he found was perplexing. No matter what the Universe was made of, spacetime always ended up being dynamic, either expanding or contracting.
 
 A typical Universe in Einstein's theory starts with some amount of matter and radiation and then the Universe expands. This expansion slows down as matter dilute. If there is enough matter, the Universe would stop expanding and start contracting as gravity pulls things back. If there is not enough matter, the Universe dilutes and empty outs slowing down its expansion in the process. 
 
