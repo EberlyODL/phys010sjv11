@@ -4,7 +4,7 @@ Can we do better? Yes we can. With Einstein's theory, the curvature of spacetime
 
 [ciscode|rev=1|tool=elmsmedia|item=1003|entity_type=node|render=display_mode|display_mode=image]
 
-By looking at how images get distorted we can figure where the matter is, even if we can't see it directly; see Fig. "Massive clusters cause lensing".
+By looking at how light bends around galaxies, and how the images get distorted we can figure where the matter is, even if we can't see it directly; see Fig. "Massive clusters cause lensing".
 
 [ciscode|rev=1|tool=elmsmedia|item=1004|entity_type=node|render=display_mode|display_mode=image]
 
