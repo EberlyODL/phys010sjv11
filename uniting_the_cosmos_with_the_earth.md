@@ -1,6 +1,6 @@
 You may have heard the story of Newton and the apple. This popular story is that Newton got knocked on the head by an apple and then suddenly realized the Universal law of gravity.
 
-Like most popular stories, it is probably not true but it contains an element of truth. What probably likely happened is that Newton after seeing apples falling, realized that if the tree was higher, the force of gravity would keep acting on the apples. He then asked the question:
+Like most popular stories, it is probably not true but it contains an element of truth. What probably happened is that Newton, after seeing apples falling, realized that if the tree was higher, the force of gravity would keep acting on the apples. He then asked the question:
 
 > _What if the tree was as high as the moon? Wouldn't gravity still work?_
 
