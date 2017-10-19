@@ -14,6 +14,6 @@ Marie: Yes, as we said. With more knowledge comes more ignorance!
 
 We don't know yet but the best candidate we have for dark energy is the energy of vacuum. In the quantum world, small quantum fluctuations can happen all the time and they can have energy. This would be an energy of all space that would not dilute when space expands. It is therefore a good candidate for dark energy.
 
-The problem is that the amount of dark energy that we see is a strange amount to have from quantum fluctuations alone. So physicists are still perplex.
+The problem is that the amount of dark energy that we see is a strange amount to have from quantum fluctuations alone. So physicists are still perplexed.
 
 Maybe one day, we will have to invent a new theory to explain dark energy!
