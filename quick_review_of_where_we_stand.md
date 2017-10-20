@@ -2,11 +2,11 @@
 
 In the first unit we were introduced to the basic building blocks of Nature while in the second unit we saw our first force, electromagnetism, how it connects to light and we studied the particle/wave duality.
 
-Fig. "Concept Map" shows the basic picture we have been studying. This is not a watered-down version of physics. All of these laws of physics are currently accepted to be true. There are no approximations.
+The Fig. "Concept Map" shows the basic picture we have been studying. This is not a watered-down version of physics. All of these laws of physics are currently accepted to be true. There are no approximations.
 
 [ciscode|rev=1|tool=elmsmedia|item=895|entity_type=node|render=display_mode|display_mode=image]
 
-In addition to these basic laws, we have seen that particle/wave interact with each other via fundamental forces. Using these forces, the particles/waves can exchange momentum with one another and affect each other's trajectories.
+In addition to these basic laws, we have seen that particle/waves interact with each other via fundamental forces. Using these forces, the particles/waves can exchange momentum with one another and affect each other's trajectories.
 
 The four forces of Nature are
 

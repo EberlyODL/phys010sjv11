@@ -1,14 +1,14 @@
-If you launch a satellite with a speed of 5 miles/s (8 km/s) , you should be able to put it in Low-Earth Orbit. If you launch it at 7 miles/s (11 km/s), the satellite will escape the Earth.
+If you launch a satellite with a speed of 5 miles/s (8 km/s) , you should be able to put it in Low-Earth Orbit. If you launch it at 7 miles/s (11 km/s), the satellite will escape the Earth's gravitational pull.
 
-As humans, we are just starting space exploration. We have sent spacecrafts to all the planets in our solar system and Voyager 1 and 2 are now outside of our solar system, exploring the vast expenses between stars. You can go to the <a href="http://voyager.jpl.nasa.gov/where/" target="_blank">NASA website</a> to see in real time where Voyager 1 and 2 are. You can also see movies about their trip! 
+As humans, we are just starting space exploration. We have sent spacecrafts to all the planets in our solar system and Voyager 1 and 2 are now outside of our solar system, exploring the vast expanses between stars. You can go to the <a href="http://voyager.jpl.nasa.gov/where/" target="_blank">NASA website</a> to see in real time where Voyager 1 and 2 are. You can also see movies about their trip! 
 
->They were launched in the 70's and they are just now leaving the solar system.
+>They were launched in the 70's and they are just now leaving the solar system - space travel is slow.
 
 ## The Universe is Big. Really big 
 
 The closest star from our beloved Sun is Alpha Centauri at 4.37 light-years away; see Fig. "Closest Stars". 
 
-> A light-year is the distance light travels in a year. It is equal to $$9.46\times 10^12'; km$$. 
+> A light-year is the distance light travels in a year. It is equal to $$9.46\times 10^{12} km$$. 
 
 Alpha Centauri is in the constellation Centaurus and it is the third brightest star in the sky. Interestingly, Alpha Centauri is not a single star but rather a system of three stars orbiting each other. Proxima is the smallest of the three stars and it is very weakly associated with the other two. Technically, Proxima is really the closest star to us.
 
