@@ -6,3 +6,6 @@ Summary:
 - Semiconductors have a small band gap and, with the right push, they can be transformed from insulator to conductors.
 - conductors have no band gap, and it is easy for electrons to free themselves from the atoms and move (in a current for example)
 - The transistor is the most important machine in electronics. Its main use is as a valve. A small input voltage turns the valve on and lets a large current flow through.
+
+Voicethread review:
+<iframe width="480" height="270" src="https://psu.voicethread.com/app/player/?threadId=9798359" frameborder="0" allowfullscreen></iframe>
