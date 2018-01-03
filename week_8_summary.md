@@ -1,8 +1,6 @@
 - The most important concept this week was  
 
   **A changing electric (magnetic) field creates a magnetic (electric) field**
-    Voicethread review:
-<iframe width="480" height="270" src="https://psu.voicethread.com/app/player/?threadId=9623304" frameborder="0" allowfullscreen></iframe>
 
 - You should be able to explain the basic working of a generator, a transformer and an electromagnet.
 - Light is an electromagnetic wave. This is just an electric and magnetic field that oscillates. Radio waves, UV light, and microwaves are also electromagnetic waves.

@@ -1,5 +1,5 @@
 This week was a short week about a complicated concept. 
-<iframe width="480" height="270" src="https://psu.voicethread.com/app/player/?threadId=9444040" frameborder="0" allowfullscreen></iframe>
+
 * Waves can cancel and reinforce. (This is called interference.)
 
 * When two waves with different shapes meet, you can just add the shapes directly on top of each other to figure out the combined pattern.

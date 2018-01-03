@@ -10,6 +10,3 @@ Summary:
 - What is one of the radioactive wastes in nuclear reactors?
 - A chain reaction is a reaction that keeps increasing and can get out of control.
 - We use cadmium bars to control the chain reaction in nuclear reactors because they absorb neutrons.
-
-Video summary:
-<iframe width="480" height="270" src="https://psu.voicethread.com/app/player/?threadId=9798364" frameborder="0" allowfullscreen></iframe>

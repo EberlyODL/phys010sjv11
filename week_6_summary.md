@@ -13,6 +13,3 @@ Newton's laws in terms of momentum:
 
 A constant force F applied over an interval of time \(\Delta t\) changes the momentum by the amount   
   $F\Delta t = \Delta p$
-  
-Voicethread review :
-<iframe width="480" height="270" src="https://psu.voicethread.com/app/player/?threadId=9517509" frameborder="0" allowfullscreen></iframe>

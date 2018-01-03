@@ -16,6 +16,3 @@ $$v^2 = \frac{GM}{r}$$
 - Our Universe contains: solar systems, galaxies and galaxy clusters.
 - Doppler effect is the fact that the wavelength of a wave is shortened when a source is moving toward you while it is elongated when it is moving away.
   - We observe that almost all galaxies in the Universe are moving away from us (universe is expanding) because we see redshift (Doppler shift) in their spectral lines.
-
-Voicethread to put it all together:
-<iframe width="480" height="270" src="https://psu.voicethread.com/app/player/?threadId=9871653" frameborder="0" allowfullscreen></iframe>

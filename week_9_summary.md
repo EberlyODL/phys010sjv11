@@ -1,5 +1,4 @@
-Week 9 Summary:
-<iframe width="480" height="270" src="https://psu.voicethread.com/app/player/?threadId=9623307" frameborder="0" allowfullscreen></iframe>
+
 
 - The Crookes tube is a vacuum tube with an anode and a cathode. The green beam was later identified to be electrons by Thomson.
 - Experiment with Crookes tube led to the discovery of X-rays.

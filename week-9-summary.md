@@ -6,5 +6,3 @@ Summary:
 - For an electron in a box, the energy levels go like the harmonic number squared.
 - You should be able to describe uncertainty and know what antimatter is.
 
-Voicethread Summary:
-<iframe width="480" height="270" src="https://psu.voicethread.com/app/player/?threadId=9787242" frameborder="0" allowfullscreen></iframe>
