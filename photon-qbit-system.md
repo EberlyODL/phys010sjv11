@@ -9,7 +9,7 @@ In quantum mechanics, we will be able to do a superposition such that the photon
 $\lvert 0\rangle$ is a upper beam photon and 
 $\lvert 1\rangle$ is a lower beam photon
 
-> The strange |\> symbol was invited by Paul Dirac and it is called the "ket". It means "a quantum state" and whatever is inside the |\> is the name of the quantum state. 
+> The strange |\> symbol was invented by Paul Dirac and it is called the "ket". It means "a quantum state" and whatever is inside the |\> is the name of the quantum state. 
 
 The basic idea for the Qbit is represent in the Fig. "Qbit". 
 
