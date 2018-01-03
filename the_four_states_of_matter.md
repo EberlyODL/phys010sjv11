@@ -25,7 +25,7 @@ The final state of matter is the plasma. This is like a gas but where the atoms/
 
 ### Demo Molecular Balls.
 
-In the demo below, Dr. Louis Leblond shows a model that illustrates the motion of atom in a gas.
+In the demo below, I will show a model that illustrates the motion of atom in a gas.
 
 [ciscode|rev=1|tool=elmsmedia|item=2080|entity_type=node|render=display_mode|display_mode=mediavideo]
 
