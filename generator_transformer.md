@@ -47,7 +47,7 @@ This is a great tool as it allows us to change the voltage very efficiently.
 - M: So, we have kinetic energy in red loop -> energy of magnetic field -> kinetic energy of electron in blue loop.
 - S: Hmmm. I guess that magnetic field is a real thing then! 
 
-In the following demo, Dr. Leblond shows us a transformer in action!
+In the following demo, I demonstrate a transformer in action!
 
 [ciscode|rev=1|tool=elmsmedia|item=2167|entity_type=node|render=display_mode|display_mode=mediavideo]
 

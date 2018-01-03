@@ -6,7 +6,7 @@ I recommend this short video by Brian Greene on the Higgs field and the Higgs pa
 
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/tcHz3o4t6Rk" width="560"></iframe>
 
-Maybe the collider will detect new physics. One always ha to be careful in science and discoveries take a while. 
+Maybe the collider will detect new physics. One always has to be careful in science and discoveries take a while. 
 ## Newsflash: Hints of new physics 
 
 The key word is hints!
