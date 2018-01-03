@@ -21,9 +21,10 @@ In the weekly lessons, you will often see many discussions between Sophie and Ma
 
 The full list of objectives can be found on Canvas
 
-1. LOPro01 read and interpret graphs and data
-2. LOPro02 calculate with large and small numbers using the scientific notation.
-3. LOPW01 recall the properties of electrons, protons, neutrons and atoms. 
+1. LOPro01: read and interpret graphs and data
+2. LOPro02: calculate with large and small numbers using the scientific notation.
+3. LOPW01: recall the properties of electrons, protons, neutrons and atoms. 
+4. LOPW07: determine the electric charge of an object 
 
 All readings and assignments can be found on Canvas.
 
