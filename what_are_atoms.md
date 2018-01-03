@@ -26,7 +26,9 @@ There are about 100,000,000,000,000,000,000,000 atoms in twenty grams of water (
 
 ## Atoms are Ageless
 
-Some atoms in your body are as old as the Universe, others were created in large supernovae explosions way before our sun even existed.  You continuously exchange atoms with the outside world (while you breath for example). Since there are as many atoms in your lungs as there are breaths of air in the atmosphere, it is almost certain that you have atoms inside your body right now that once belonged to Einstein, Gandhi or Newton. Atoms last forever, you don’t own them.
+Some atoms in your body are as old as the Universe, others were created in large supernovae explosions way before our sun even existed.  You continuously exchange atoms with the outside world (while you breath for example). Since there are as many atoms in your lungs as there are breaths of air in the atmosphere, it is almost certain that you have atoms inside your body right now that once belonged to Einstein, Gandhi or Newton. Atoms last forever, you don’t own them. 
+
+This begs the question - where do babies get their atoms to grow? They are not created in the womb, but come from the food the mother eats. Those atoms, are the same ones from the beginning of the universe! 
 
 Now, it is technically possible to create new atoms out of old ones by nuclear fusion (the sun transforms hydrogen into helium this way) or we can also destroy them via nuclear fission. For example, in nuclear reactors we break uranium into smaller parts. But both processes are hard to do and most atoms around you have been unchanged since the very beginning of the Universe!  We will learn more about nuclear fission and fusion later in this class.
 
@@ -38,10 +40,9 @@ This is because the atoms in the air are continuously bouncing off the dust part
 
 [ciscode|rev=1|tool=elmsmedia|item=801|entity_type=node|render=display_mode|display_mode=image]
 
-Brownian motion. A dust particle (itself made of many atoms) undergoes a random walk due to incessant bouncing from the atoms in the air.
-Random movement of a dust particle being hit constantly by jiggling atoms
+The movie shows Brownian motion of a dust particle (itself made of many atoms) undergoing random movement because it is being hit constantly by jiggling atoms
 
-Atoms move and their speed varies upon the state of matter (liquid, solid or gas) and on the amount of energy in the system. We will discuss in more details the various states of matter and the notion of energy and temperature but let us first get an idea of the approximate speed of atoms in the air around you.
+Atoms move, and their speed varies upon the state of matter (liquid, solid or gas) and on the amount of energy in the system. We will discuss in more details the various states of matter and the notion of energy and temperature later, but let us first get an idea of the approximate speed of atoms in the air around you.
 
 This is easy to figure out. When you see a lightning outside. It often takes a while to hear a thunder.
 
@@ -58,6 +59,6 @@ This is the speed of sound:  330 meters/s. We denote this to be 330 m/s
 In daily life you often don’t need the precise numbers so we can approximate like this.
 
 S: Ok that's all great but how does it have to do with the speed of molecules or atoms??
-M: Well, as you may know, and as we will learn later on, sound is a wave traveling through the air. In order for sound to go from one place to another, molecules of air need to go touch another one (to transmit the message if you like). Since sound move at 330 meters per second the same must be true for the molecules! Note that sounds travel faster in liquids and solids since the atoms/molecules already are in contact.
+M: Well, as you may know, and as we will learn later on, sound is a wave traveling through the air. In order for sound to go from one place to another, molecules of air need to go touch another one (to transmit the message if you like). Since sound move at 330 meters per second the same must be true for the molecules. Molecules move at the speed of sound! Note that sounds travel faster in liquids and solids since the atoms/molecules already are in contact.
 
 

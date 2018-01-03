@@ -9,7 +9,7 @@ The current coming out of the plug in the wall alternates direction. This is alt
 
 ## Magnetism and the Magnetic Field
 
-To understand why we use AC current, we need to learn about magnetism. Natural permanents magnets are actually hard to explain. Fortunately, it is easy to create an artificial magnet by simply moving electrons around. This is called an _electromagnet_.
+To understand why we use AC current, we need to learn about magnetism. Natural permanents magnets are actually hard to explain. Fortunately, it is easy to create an artificial magnet by simply moving electrons around. This is called an _electromagnet_, and it is really a physicists go-to way to discuss magnets and magnetism.
 
 As we saw, any object that has an electric charge will source an electric field E which exists everywhere in space and can be represented by field lines that are more or less dense depending on the magnitude of the electric field. The electric field has a direction and "sinks in" negatively charged objects while it "comes out" of positively charged ones.
 

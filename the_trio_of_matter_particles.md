@@ -2,18 +2,18 @@
 
 We observe that some objects or particle are easier to move than others. The resistance to changing the state of motion (either stopping or accelerating) is called inertia. 
 
-We can quantify the inertia of various objects with a parameter, the inertial mass or just the mass. 
-An object with more mass has more inertia and is thus harder to stop if it is already moving or to accelerate if it is not moving. 
+We can quantify the inertia of various objects with a parameter called, "the inertial mass" or just "mass". 
+An object with more mass has more inertia and is thus harder to stop if it is already moving or harder to accelerate if it is not moving. 
 
-The unit for mass is the kilogram (denoted) kg. This is the SI unit where SI stands for Systeme International. This is the standard unit used in science and what we will often use in this class. 
+The unit for mass is the kilogram (denoted) kg. This is the SI unit. SI stands for Systeme International. This is the standard unit used in science and what we will often use in this class. 
 
-To give you a sense of scale, a typical human as a mass of 75 kg. Since the atoms are really small, they have a correspondingly very small mass.
+To give you a sense of scale, a typical human as a mass of 75 kg. Since the atoms are really small, they have a correspondingly very small mass. What is the mass of an atom? First lets look at an atom's parts.
  
 ### Atoms are made of three basic particles.
 
 - **Electrons**: Our good friend the electron will be with us for the whole class. The electron has no fundamental substructure as far as we know. It is truly a fundamental particle and its motion is the source of all electricity in your daily life. We will study the electron a lot in this class. It has a negative electric charge and it has a mass of $9 \times 10^{-31}$ kg.
 - **Protons**. The proton is much bigger and much more massive than the electron. It is not truly fundamental, it is made of something else but this won't matter for us now. It has electric charge and a mass of $(1.7\times 10^{-27}$ kg. It is 2000 times heavier than the electron!
-- **Neutrons**: The neutron is very much like the proton. The main crucial difference is that the neutron is electrically neutral. It had not electric charge (we say it is neutral) and its mass is $1.7\times 10^{-27}$ kg (almost the same as the protons and thus much heavier than the electron). 
+- **Neutrons**: The neutron is very much like the proton. The main crucial difference is that the neutron is electrically neutral. It does not have electric charge (we say it is neutral) and its mass is $1.7\times 10^{-27}$ kg (almost the same as the protons and thus much heavier than the electron). 
 
 ### Putting Them Together
 
@@ -23,7 +23,7 @@ The simplest of all atom is hydrogen. It is also the most common atom in the Uni
 
 There are two basic components of an atom. The nucleus is at the center and it is made of protons and neutrons (except for hydrogen where the nucleus is just a proton). The nucleus is heavy. Almost all the mass of an atom is in the nucleus.
 
-Around the nucleus, electrons are moving around. In what is called the "Bohr model" of the atom, the electrons are going around in circles (orbits) around the nucleus. This is the picture of the atom that most people are used to. It is not quite right and we will see a better picture later on but the important thing to remember is that atoms are mostly made of **nothing** **or void**. Atoms are almost all empty space. The nucleus is very very small and the image above (in Fig. 4) is deceiving. If it was to scale, you would not be able to see the nucleus.
+Around the nucleus, electrons are moving around. In what is called the "Bohr model" of the atom, the electrons are going around in circles (orbits) around the nucleus. This is the picture of the atom that most people are used to. It is not quite right and we will see a better picture later on but the important thing to remember is that atoms are mostly made of **nothing** **or void**. Atoms are almost all empty space. The nucleus is very very small and the image above of Hydrogen is deceiving. If it was to scale, you would not be able to see the nucleus. A clever website illustrating the void between the proton and electron in Hydrogen is [KeithCom's Hydrogen atom](http://keithcom.com/atoms/scale.php).
 
 <div class="small-6 medium-4 column right">[ciscode|rev=1|tool=elmsmedia|item=424|entity_type=node|render=display_mode|display_mode=image]</div>
 
@@ -35,7 +35,7 @@ In addition to protons (with positive electric charge) and electrons (with negat
 - Marie: Shoot!
 - S: So...opposite electric charges attract and this is why the electron orbits around the nucleus...
 - M: Right...
-- S: But then particles with the same charge should repulse themselves, right? So, what keeps the protons stuck together in the nucleus?
+- S: But then particles with the same charge should repel themselves, right? So, what keeps the protons stuck together in the nucleus?
 - M: Very good question! Indeed protons and electrons are attracted to each other because of the electric forces and two protons do in fact repulse each other. So what do you think is happening?
 
 <iframe src="https://h5p.org/h5p/embed/75091" width="658" height="338" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>

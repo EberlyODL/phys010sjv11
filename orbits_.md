@@ -1,18 +1,18 @@
 Orbits are the subject of your lab this week. To study orbits, we do not need to use Einstein's theory of gravity. Newton's theory of universal attraction is perfectly good enough.
 
-If you launch a projectile on the surface of the Earth, you get a nice parabolic motion. An orbit is just a projectile that is unable to fall because the Earth is curving away from it; see Fig. "Orbits".
+If you launch a projectile on the surface of the Earth, you get a nice parabolic motion. An orbit is just a projectile that is unable to "land" back on the planet, because the Earth is curving away from it; see Fig. "Orbits".
 
 [ciscode|rev=1|tool=elmsmedia|item=887|entity_type=node|render=display_mode|display_mode=image]
 
-In order to stay in orbit, you need to move fast. The closer the orbit, the faster you need to go. The orbital velocity can be figured out using Newton's law of gravity. The formula is the following
+In order to stay in orbit, the object needs move fast. The closer the orbit to the surface of the planet, the faster you need to go. The orbital velocity can be figured out using Newton's law of gravity. The formula is the following
 
 $$v^2 = \frac{G M}{r}$$
 
 where $$G = 6.67 \times 10^{-11}\; N\;m^2/kg^2$$ is Newton's constant. M is the mass of the planet you are orbiting around and r is the distance between the satellite/moon and the center of that planet.
 
-You do not need to memorize the formula. The main point is that the closer the orbit is (smaller r) the faster you need to move!
+You do not need to memorize the formula, but you do need to understand it. The main point is that the closer the orbit is (smaller r) the faster you need to move!
 
-Instead of velocity, we often like to talk about period (T). The period tells us how long it takes the satellite/moon to go around once. The orbiting period is just the distance traveled in one turn divided by the speed.
+Instead of velocity, we often like to talk about period (T). The period tells us how long it takes the satellite/moon to go around once (time for one orbit). The orbiting period is just the distance traveled in one turn divided by the speed.
 
 $$T = 2\pi r/v$$
 

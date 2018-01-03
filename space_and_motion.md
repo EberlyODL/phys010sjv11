@@ -1,4 +1,4 @@
-Welcome back We are about to see the last building block of nature! After this week we will have all the pieces ready for the chess game, and we will start looking at the rules of the game.
+We are about to see the last building block of nature! After this week we will have all the pieces ready for the chess game, and we will start looking at the rules of the game.
 
 - S: So let's see ... What do we have for building blocks? The world is made of atoms, which have energy and momentum. And there are waves.
 - M: And the waves also have energy and momentum.
@@ -28,7 +28,9 @@ In summary, we live in a Universe with three dimensions of space and one of time
 
 ## Moving in space - Review
 
-Let us forget about time as a dimension and let us return to motion in space. We are interested in describing how objects move in space as a function of time. This means that the position coordinates x,y and z are really functions of time x(t), y(t) and z(t). Let's imagine that we move at a constant velocity in some direction such that the velocity
+Let us not think about time as a dimension for now and let us return to motion in space. We are interested in describing how objects move in space as a function of time. This means that the position coordinates x,y and z are really functions of time x(t), y(t) and z(t). That means only that your position can change as time passes (ie. you could have a velocity!). 
+
+Let's imagine that we move at a constant velocity in some direction such that the velocity
 
 $ v = \frac{\rm{distance}}{\rm{time}} = \rm{constant}$
 

@@ -24,7 +24,7 @@ When you drink this soda, you will be able to get 240 Calories of energy by brea
 
 But what is energy really?
 
-The formal definition of **energy** is **that which allows you to do work**, while **work** itself is defined as **a force over a distance**. We will return to that definition at the end of the lesson. Another good definition of **energy** is **anything that can be turned into thermal energy, which is what raises the temperature of a thermometer**. Again, its easier with examples; you don’t have to memorize the definitions.
+The formal definition of **energy** is **that which allows you to do work**, while **work** itself is defined as **a force exerted over a distance**. We will return to that definition at the end of the lesson. Another good definition of **energy** is **anything that can be turned into thermal energy, which is what raises the temperature of a thermometer**. Again, its easier with examples; you don’t have to memorize the definitions.
 
 ### Check Out this Spring!
 

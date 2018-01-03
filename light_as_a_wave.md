@@ -4,11 +4,11 @@ You will remember that electric charges are producing electric fields everywhere
 
 ## The Electromagnetic Wave
 
-As you might have guessed already, this back and forth—E creates B which then creates E—can go on indefinitely in the form of a traveling wave as shown below. A changing E field induces a changing B field. This back and forth is a wave, known as light!
+As you might have guessed already, this back and forth—E creates a back-and forth B which then creates E— which... can go on indefinitely in the form of a traveling wave as shown below. A changing E field induces a changing B field. This back and forth is a wave, known as light!
 
 [ciscode|rev=1|tool=elmsmedia|item=2175|entity_type=node|render=display_mode|display_mode=image]
 
-Electromagnetic waves travel at the speed of light with the usual relation
+Electromagnetic waves travel at the speed of light with the usual relation of wavelength and frequency:
 
 $c = \lambda f$
 

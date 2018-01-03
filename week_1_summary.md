@@ -1,4 +1,7 @@
-Here are some of the main points of this week. This is not meant to be exhaustive and you should refer to your textbook and to the webpages before.
+Here are some of the main points of this week, I go over some of them in this voicethread below. Voicethread requires flash to be enabled.
+<iframe width="480" height="360" src="https://psu.voicethread.com/app/player/?threadId=9281667" frameborder="0" allowfullscreen></iframe>
+ 
+The list below  has some facts for a further level of detail. This list and the Voicethread are not exhaustive (that would be repetitive!) please refer to your textbook and to the webpages before for the detailed information.
 
 ### Numbers and Units
 

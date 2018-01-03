@@ -2,7 +2,7 @@ Last week, we discussed how light can be thought to be made of particles with en
 
 $E = hf$
 
-where _h_ is known as Planck's constant. The frequency _f_ is the number of cycle per second that we would measure if we thought of light as a wave. Note how strange this is.  A property of the wave, the frequency, determines the energy of the particle...
+where _h_ is known as Planck's constant. The frequency _f_ is the number of cycles per second that we would measure of a light wave. Note how strange this is.  A property of the wave, the frequency, determines the energy of the light particle...
 
 Planck's constant is a small number equal to $h = 6.63\times 10^{-34}\; J\; s$. The units of _h_ are Joules times second. The particles of light are called photons.
 
@@ -21,6 +21,6 @@ To answer the next questions you may want to review energy in special relativity
  
 <iframe src="https://h5p.org/h5p/embed/88823" width="1090" height="319" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
  
-So light is made of particles called the photons. But as we have seen it is also an electromagnetic wave, a disturbance in the electromagnetic field. This was demonstrated in your first lab where you saw dark and bright fringes after light went through a double slit. These dark and bright fringes resulted from constructive and destructive interference which can only be explained using the principle of superposition that applies to wave. 
+So light is made of particles called the photons. But as we have seen it is also an electromagnetic wave, which is a disturbance in the electromagnetic field. This was demonstrated in your first lab where you saw dark and bright fringes after light went through a double slit. These dark and bright fringes resulted from constructive and destructive interference which can only be explained using the principle of superposition that applies to waves! 
 
-How can we reconcile this dual nature of wave and particle?
+So, how can we reconcile this dual nature of wave and particle?

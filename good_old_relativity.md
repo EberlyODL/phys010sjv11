@@ -17,15 +17,15 @@ We will see the laws of mechanics, briefly, in the next week. We will not discus
 
 This is a powerful statement. It says that the laws of mechanics are the same everywhere in the Universe (independent of location). They were the same in the past and will be the same in the future. They only seem to fail when an object is not moving at a constant velocity.
 
-> With the work of Newton, we have figured out "how" they fail and we can "correct" Newton's law to work when the observer is accelerating. The point is that the laws of physics are unchanged if the observer move at any constant velocity but are changed if the observer accelerate.
+> With the work of Newton, we have figured out "how" the laws fail when an observer is accelerating, and we can "correct" Newton's law so that it still works. The point is that the laws of physics are unchanged if the observer moves at a constant velocity but are changed if the observer accelerate.
 
-Galileo and Newton were pretty pleased with themselves. But then came a new theory, the theory of electricity, discovered by many people and synthesized by James Clerk Maxwell.
+Galileo and Newton were pretty pleased with themselves. But then came a new theory, the theory of electricity, discovered by many people and synthesized by James Clerk Maxwell. This complicated mechanical laws, if you can believe it.
 
 We will discuss the theory of electricity later on, but, for now, there is only one thing we need to know: the theory of electricity predicts that light is a wave moving with a speed of
 
 $ c = 299,792,458 \; m/s$, the speed of light.
 
-> the symbol "c" always means the speed of light (in vacuum). 
+> the symbol "c" always means the speed of light (in a vacuum). 
 
 - S: I do not see what is so strange here? Beside the fact that I don't see what light and electricity have to do with each other.
 - M: What is strange is that for the first time, a fundamental law of Nature was telling us specifically the speed of a wave. The speed was not an arbitrary derived quantity, it was right there in the equations.

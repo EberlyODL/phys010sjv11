@@ -1,4 +1,4 @@
-We are nearing the end of our exploration of the quantum world.  All 'particles' are represented by a wavefunction whose intensity tells us the probability of finding that particle at a particular location.
+All 'particles' are represented by a wavefunction whose intensity tells us the probability of finding that particle at a particular location.
 
 [ciscode|rev=1|tool=elmsmedia|item=840|entity_type=node|render=display_mode|display_mode=image__right]
 
@@ -10,14 +10,14 @@ If the particle is contained in a small area. The wavefunction must be a standin
 
 The most important properties of atoms have to do with their electrons, and this is what chemistry is about. We have seen that the quantization of energy of those electrons leads to atomic spectra, to band-gap in solids, and, ultimately, to all of the high tech in our world.
 
-One important aspect that we have not yet seen is the nucleus. We have treated the nucleus as a point particle even though it really should be described by a wave just like the electron.
+One important aspect of an atom that we have not yet studied is the nucleus. We have treated the nucleus as a point, even though it really should be described by a wave just like the electron.
 
-I remind you that the nucleus is made of protons and neutrons. The protons repulse each other because of electricity. In order to overcome that repulsion, there must be an attractive force. This is the nuclear force and it acts equally between protons and neutrons.
+I remind you that the nucleus is made of protons and neutrons (these are the "nucleons"). The protons repulse each other because of electricity. In order to overcome that repulsion, there must be an attractive force holding them in the nucleus. This is the **nuclear force** and it acts equally between protons and neutrons.
 
 The attractive nuclear force between nuclei has the following properties.
 
-- It is short range. It drops quickly outside of the nucleus.
-- The nuclear force is the same between protons and neutrons but because protons repulse each other due to the electric force, the combination of nuclear + electric force makes the attraction between protons slightly weaker than between neutrons.
+- It is short range. It drops to zero very quickly outside of the nucleus.
+- The nuclear force is the same between protons and neutrons but because protons repulse each other due to the electric force, the combination of nuclear + electric force makes the attraction between protons slightly weaker than between neutrons. 
 
 ## Radiation
 

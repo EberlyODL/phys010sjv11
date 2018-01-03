@@ -5,15 +5,15 @@ As we look at those billions of galaxies, there is one thing that is pretty stri
 
 ## Spectral Lines and the Doppler effect.
 
-As we saw earlier, energy of electrons inside of atoms are quantized. If you shine white light (with all colors) on a gas of a certain kind of atoms, only very specific set of wavelengths are absorbed. Theses lines of absorptions are unique to each atom and by looking at those lines we can tell the atomic composition of galaxies and stars; see Fig. "Absorption Spectrum".
+As we saw earlier, energy of electrons inside of atoms are quantized. If you shine white light (with all colors) on a gas of a certain kind of atoms, only very specific set of wavelengths are absorbed. Theses lines of absorptions are unique to each atom. We can actually observe the absorption lines from space, and by looking at those lines we can tell the atomic composition of galaxies and stars; see Fig. "Absorption Spectrum".
 
 [ciscode|rev=1|tool=elmsmedia|item=916|entity_type=node|render=display_mode|display_mode=image]
 
-There is even more information in those lines that we can extract when we know about the Doppler effect.
+But wait, there is even more information in those lines that we can extract - it requires using something called the Doppler effect.
 
 ## Doppler Effect.
 
-You know what the Doppler effect is from the sound of sirens on ambulances (or the whistle of a moving train). The Doppler effect arises when a source of a wave is moving. As you can see in Fig. "Doppler Effect", as the source moves to the right, the wavelength of the wave on the right is smaller than the wavelength on the left.
+You have heard the Doppler effect, even if you didn't know it. The Doppler effect is often heard from the sound of sirens on ambulances (or the whistle of a moving train) as they pass by you. The Doppler effect arises when a source of a wave is moving. As you can see in Fig. "Doppler Effect", as the source moves to the right, the wavelength of the wave on the right is smaller than the wavelength on the left.
 
 The wave is stretched if the source is moving away from you or it becomes more squeezed if the source is moving towards you; i.e., without looking you can tell whether the train is coming toward you or going away from you.
 

@@ -10,9 +10,9 @@
 - S: Well isn’t there room for errors in measurements?
 - M: Oh, yes, and this is really important. We will talk about that next week. A big part of the job of being an experimental physicist is to understand the errors and to try to minimize them.
 - S: I always think of physicists as being like Einstein, just thinking and figuring out how the world works.
-- M: This is a common misconception and really not true. Here, let's look at an example. Lets look at how physicists tried to find out whether light is a wave or a particle.
+- M: This is a common misconception and really not true. Here, let's look at an example. Lets look at how physicists tried to find out whether light is a wave or a particle... the first time.
 
-Is Light a Wave or a Particle? 
+Is Light a Wave or a Particle?   Newton's test
 -------------------------------
 
 [ciscode|rev=1|tool=elmsmedia|item=1041|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]

@@ -14,7 +14,7 @@ You can think of the situation as the energy diagram in the figure below. The el
 
 [ciscode|rev=1|tool=elmsmedia|item=792|entity_type=node|render=display_mode|display_mode=image]
 
-But as it is this battery won't last long since there will be an accumulation of negative charge on the silver. When the next electron comes in, all the electrons that accumulated before him will repulse it (see Fig 7.)
+But as it is, this battery won't last long since there will be an accumulation of negative charge on the silver. When the next electron comes in, all the electrons that accumulated before him will repulse it (see Fig 7.)
 
 The solution is to use an electrolyte. We put a substance in between the zinc and silver where the atoms are ionized and the positive ions are free to move. The ions will move to cancel the charge and the current between the zinc and silver can then continue unimpeded for much longer (see Fig. 8)
 
@@ -32,7 +32,7 @@ Lantern battery: 6 V
 Car battery: 12 V  
 B battery: 18 V
 
-Voltage is defined as Energy per unit of charge (Energy/charge) provided by the battery
+Voltage is defined as Energy per unit of charge (Energy/charge) provided by the battery. Interestingly, The electron-volt(eV) is a unit for energy, which is just the charge e times 1 volt. 1 eV = $1.602 \times 10^{-19}$ Joules, which is how much energy 1 electron gets from 1 Volt.
 
 Roughly speaking, voltage is a measure of the “push” each charge gets from the battery. Batteries are also characterized by the maximum current they can output and by the total amount of charge or energy available.
 
@@ -44,7 +44,7 @@ In the water tower analogy, we have
 
 1. The bigger the water tank, the bigger the battery reservoir of electrons. The longer it should last. Rectangular 9 V batteries or big D batteries (or a car battery) are all "big" batteries and they last longer. They have more electrons.
 2. The size of the pipe determines how big of a current you can get. A car battery is 12 V, which is not that much but it can give rises to very large currents. It has a large pipe.
-3. The height of the pipe is the voltage. It tells you how much energy each electron have. In order to operate certain devices, you need more or less energy per electrons. This determines the voltage of the battery you would need.
+3. The height of the pipe is the voltage. It tells you how much energy each electron has. In order to operate certain devices, you need more or less energy per electron (voltage). This determines the voltage of the battery you would need.
 
 Try the following exercise.
 

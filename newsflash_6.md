@@ -6,10 +6,10 @@ The Greenhouse effect is the warming of the atmosphere due to the way the gases 
 [ciscode|rev=1|tool=elmsmedia|item=2185|entity_type=node|render=display_mode|display_mode=image]
 
 - Solar radiation enters atmosphere as short wavelenghts (high energy).
-- Earth absorbs these short waves but reemits long wavelenghts (infrared).
+- Earth absorbs these short waves but reemits long wavelengths (infrared).
 - The long waves get absorbed by the greenhouse gases (mostly CO<sub>2</sub> and water) and come back.
 
-The net effect is analogous to a car in the parking lot. The layer of greenhouse gases in the atmosphere is like the windshield. It keeps the Earth warm.
+The net effect is analogous to a car heating up in the parking lot. The layer of greenhouse gases in the atmosphere is like the windshield. It keeps the Earth warm.
 
 <iframe src="https://h5p.org/h5p/embed/85368" width="1090" height="420" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
@@ -42,13 +42,13 @@ This is a surprisingly low-key and restrained position. Most people think scient
 
 The article that you read referred to a warming plateau. This is the fact that from 2000 to 2010 the rise in temperature slowed down (it now seems to be back up).
 
-Many critics of global warming use this warming plateau to show that the other side is wrong. This is an example _of cherry-picking data_. Cherry picking refers to the act of choosing data that you like and ignoring the data that you don't like. This is an unethical scientific behavior.
+Many critics of global warming use this warming plateau to show that the other side is wrong. This is an example _of cherry-picking data_. Cherry picking refers to the act of choosing data that you like and ignoring the data that you don't like. This is an unethical un-scientific behavior.
 
-It is already a very hard exercise with many years of work and analysis by a whole community of scientists to reach the conclusion that global warming is real.
+It is already a very hard exercise with many years of work and analysis by a whole community of scientists to reach the conclusion that global warming is real. 
 
-You may find someone who just looked at one part of a graph (the temperature graph over the last 10-15 years) and then decided that this means that scientists are wrong, but this is not good science.
+You may find when reading the news or in conversation someone who just looked at one part of a graph (the temperature graph over the last 10-15 years) and then decided that this means that scientists are wrong, but this is not good science.
 
-Scientists that work on global warming know about the warming plateau. They don't cherry pick data; the warming plateau is included in their analysis. After including all the data (including years where temperature was stable or going down), climate scientists have reached the conclusion that global warming is real and that
+Scientists that work on global warming know about the warming plateau. They don't cherry pick data; the warming plateau is included in their analysis. After including all the data (including years where temperature was stable or going down), climate scientists have still reached the conclusion that global warming is real and that
 
 > _It is 90% likely that humans are responsible for at least some or possibly most of the observed global warming of the last 50 years._
 

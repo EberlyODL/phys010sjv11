@@ -18,20 +18,20 @@ By increasing the momentum p, the energy increases. When accelerated electrons a
 
 ### Large Hadron Collider 
 
-Over the years, we have built many different particle accelerators. The latest, baddest and strongest machine is the Large Hadron Collider where they collide protons with protons at the LHC.
+Over the years, we have built many different particle accelerators. The latest, biggest, baddest and strongest machine is the Large Hadron Collider (the LHC) where they collide protons with protons.
 
-This is a 27 km long underground ring in which we accelerate protons (in both directions) until they go at nearly the speed of light (not quite, but some 99.999999% _c_). Their momentum grows to huge values and in fact the energy due to their motion is much more important than their mass energy (the $p^2$ term in the formula for energy dominates). The LHC accelerates protons until they have roughly the energy of the order of
+This is a 27 km long underground ring in which we accelerate protons (in both directions) until they go at nearly the speed of light (not quite, but some 99.999999% _c_). Their momentum grows to huge values and in fact the energy due to their motion is much more important than their mass energy (the $p^2$ term in the formula for energy dominates).  (remember how we said before that when a massive particle approaches c, its energy grows towards infinity) The LHC accelerates protons until they have roughly the energy of the order of
 
-> 1 TeV or $10^{12}$ eV. This is a million times the energy of the mass of the electron.
+> 1 TeV or $10^{12}$ eV. This is a million times the rest mass energy of the electron.
 
 Once in a while, the protons are allowed to collide with the protons going the opposite way in the beam. The collisions occur at four different sites where we have big (really big) experiments and detectors such as CMS and Atlas (see Fig "Particle Colliders").
 
 [ciscode|rev=1|tool=elmsmedia|item=930|entity_type=node|render=display_mode|display_mode=image]
 
-At these locations where the protons are allowed to collide, one gets a shower of particles (see Fig "Particle Production at LHC"). Among the mess, physicists are trying to find new clues about the underlying structure of the Universe.
+At these locations where the protons are allowed to collide, the result is a shower of particles shooting in all directions (see Fig "Particle Production at LHC"). Among the mess, physicists are trying to find new clues about the underlying structure of the Universe.
 
 [ciscode|rev=1|tool=elmsmedia|item=2632|entity_type=node|render=display_mode|display_mode=image__left]
 
 ### External Resources 
 
-- Look at this very good <a href="http://news.bbc.co.uk/2/hi/7543089.stm" target="_blank">Intro to LHC</a> from BBC news about the LHC.
+- Look at this very good <a href="http://news.bbc.co.uk/2/hi/7543089.stm" target="_blank">Intro to LHC</a> from BBC news.

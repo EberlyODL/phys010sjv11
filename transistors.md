@@ -8,7 +8,7 @@
 - S: Oh, I see, the transistor is where the 010010 bytes of computer come from!
 - M: Exactly!
 
-Here is a very well made video by Veritasium (who has many good videos on Youtube) about the transistor. There is not much to add to the video except to say don't worry about the last part about tunneling—we have not seen that yet.
+Here is a very well made video by Veritasium (who has many good videos on Youtube) about the transistor. There is not much to add to the video except to say don't worry about the last part about tunneling (we will not cover tunneling but there is a brief section in your book if you are interested).
 
  <iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/IcrBqCFLHIY?rel=0" width="560"> </iframe>
 

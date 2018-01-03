@@ -12,7 +12,7 @@ The change in volume caused by changing temperature is easy to understand: if th
 
 ### Demo Warming Balls
 
-In the demo below, I illustrate the change in volume that occurs when a metal ball is heated.
+In the demo below, Dr. Leblond illustrates the change in volume that occurs when a metal ball is heated.
 
 [ciscode|rev=1|tool=elmsmedia|item=2085|entity_type=node|render=display_mode|display_mode=mediavideo]
 
