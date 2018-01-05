@@ -1,6 +1,6 @@
 The tables we have seen previously are good to keep in mind. Energy and power are not quantities we deal with as much as mass and length and so it is important to get a good grasp of some example numbers. 
 
-Lets keep thinking about the asteroid energy as we move on to talk about different kinds of energy. Below is a list of different types of energy we will encounter:
+Let us keep thinking about the asteroid energy as we move on to talk about different kinds of energy. Below is a list of different types of energy we will encounter:
 
 [ciscode|rev=1|tool=elmsmedia|item=430|entity_type=node|render=display_mode|display_mode=image]
 
@@ -26,5 +26,5 @@ $$K=\frac12 mv^2$$
 
 Very large objects or objects with very large speed can have tremendous amount of kinetic energy. More importantly, doubling the speed means that you quadruple the energy. This means that when you drive twice as fast, you will suffer much more than twice the damage in a collision!
 
-Atoms move all the time and each atom has a certain amount of kinetic energy --&gt; how much kinetic energy the atoms have relates to the different states of matter!
+Atoms move all the time and each atom has a certain amount of kinetic energy --> how much kinetic energy the atoms have relates to the different states of matter!
 
