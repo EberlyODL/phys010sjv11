@@ -17,7 +17,8 @@ Earth is hit by meteors from time to time. The last big hit was in February 15, 
 
 Some facts about the asteroid from the European Space Agency (ESA) can be found [here](www.esa.int/Our_Activities/Operations/Space_Situational_Awareness/Russia_asteroid_impact_ESA_update_and_assessment).
 
-Lets do the calculation ourselves below: 
+**Lets do the calculation ourselves below: **
+
 Mass: 10,000 tons (9,000,000 kg!)
 Velocity: about 40,000 mph ( approx 64,000 km/h = 18,000 m/s) when it exploded.
 
