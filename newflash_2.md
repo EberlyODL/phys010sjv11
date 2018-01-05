@@ -19,12 +19,12 @@ Some facts about the asteroid from the European Space Agency (ESA) can be found 
 
 Lets do the calculation ourselves below: 
 Mass: 10,000 tons (9,000,000 kg!)
-Velocity: about 40,000 mph ( approx 64,000 km/h) when it exploded.
+Velocity: about 40,000 mph ( approx 64,000 km/h = 18,000 m/s) when it exploded.
 
 How much kinetic energy did it have when it landed?
 $K = \frac12 mv^2$
 
-$K= \frac12 (9000000\; kg)(18000\;m/s)^2$
+$K= \frac12 (9,000,000\; kg)(18,000\;m/s)^2$
 
 $K=1.4\times10^{15} J = 350$ billion Calories ( 4,000,000 kWh)
 
