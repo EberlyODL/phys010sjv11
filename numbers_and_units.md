@@ -7,9 +7,7 @@ Fig 1 and 2 are two artistic representations of atoms that you will often encoun
 
 In physics, we want to study the whole world and as you can imagine, we often end up dealing with very small and very big numbers. Of course, small or big is always in reference to something else. The atom is small compared to you but it is huge compared to the size of a proton!
 
-Compared to daily human scale the atoms are really small, so small that you cannot see them but not so small that we cannot manipulate them. You may have heard of nanoscience, nano-devices, nanocenters... The nano here refers to nanometer and it is a distance of $10^{-9}$ meters.  
-  
-which is the distance taken by a few atoms.
+Compared to daily human scale the atoms are really small, so small that you cannot see them but not so small that we cannot manipulate them. You may have heard of nanoscience, nano-devices, nanocenters... The nano here refers to nanometer and it is a distance of $10^{-9}$ meters.  This is the distance taken by a few atoms.
 
 - Marie (M): (interrupting) Do you know scientific notation?
 - Sophie (S): You mean the exponent? By the way, I thought there was no math in this class.
