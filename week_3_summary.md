@@ -1,4 +1,4 @@
-This week we continued exploring conservation, this time using Momentum
+This week we continued exploring conservation, this time using momentum
 
 * Conservation of Momentum: The total momentum in a closed system doesn’t change, but the momentum can move among the various parts of the system.
 
