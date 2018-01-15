@@ -4,7 +4,7 @@ The objectives for this lesson are that by the end of the week you will be able 
 
 * LONrgM08: calculate the momentum of a particle in one dimension with appropriate care for direction.
 
-* LONrgM09: apply the principle of conservation of momentum to collisions and explosions in one dimension
+* LONrgM09: apply the principle of conservation of momentum to collisions and explosions in one dimension.
 
 * LOPW02: note the similarities between various wave phenomena such as sound and light. 
 
