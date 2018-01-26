@@ -22,7 +22,7 @@ This figure is very informative. It tells us the position of the rocket car at d
 
 ## Graphs
 
-In science, we often like to use graphs to represent and visualize information. A graph is an abstract, conventional way of presenting scientific information to an audience. A common graph has two axes. For example, here is a positive versus time graph.
+In science, we often like to use graphs to represent and visualize information. A graph is an abstract, conventional way of presenting scientific information to an audience. A common graph has two axes. For example, here is a position versus time graph.
 
 [ciscode|rev=1|tool=elmsmedia|item=2063|entity_type=node|render=display_mode|display_mode=image]
 
