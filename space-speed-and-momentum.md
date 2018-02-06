@@ -10,7 +10,7 @@ Imagine we live in a Universe that is a single line. You can only move right/lef
 
 We can denote our position on this line using a label $x$. We can call our home the $x=0$ spot and everything to the right is positive $x$ values while everything to the left is negative $x$ value. **To prevent confusions, we will always take $x$ to increase to the right.**
 
-Let us look at the rocket motion in the video below done by Dr. Louis Leblond. This is a motion of a rocket-car in a straight line. The rocket started from rest and kept moving faster and faster each time from left to right. 
+Let us look at the rocket motion in the video below. This is a motion of a rocket-car in a straight line. The rocket started from rest and kept moving faster and faster each time from left to right. 
 
 [ciscode|rev=1|tool=elmsmedia|item=2057|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
@@ -22,7 +22,7 @@ This figure is very informative. It tells us the position of the rocket car at d
 
 ## Graphs
 
-In science, we often like to use graphs to represent and visualize information. A graph is an abstract, conventional way of presenting scientific information to an audience. A common graph has two axes. For example, here is a positive versus time graph.
+In science, we often like to use graphs to represent and visualize information. A graph is an abstract, conventional way of presenting scientific information to an audience. A common graph has two axes. For example, here is a position versus time graph.
 
 [ciscode|rev=1|tool=elmsmedia|item=2063|entity_type=node|render=display_mode|display_mode=image]
 
