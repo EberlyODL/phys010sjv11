@@ -11,7 +11,7 @@ Everything you need each week can always be found on the homepage on Canvas. The
 * Homework, discussion boards and or Labs (the activities). 
 
 
-<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#ecfaff">
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
   All weekly assignments are due on Sunday of any given week but there is no reasons to wait till the last minute! As stated in the syllabus, you can drop the lowest score for homework, discussion boards or labs. This is to account for legitimate life emergency that might prevent you from doing the assignments on time. All assignments are on Canvas.
 </lrndesign-sidenote>
 
