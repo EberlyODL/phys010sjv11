@@ -13,9 +13,11 @@ The class is divided in three units:
 5. Space
 6. Time
 
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 In one sentence:
-
-> The world is made of particles and waves; these particles/waves have energy and momentum which determines their motion through the spacetime tapestry.
+  
+The world is made of particles and waves; these particles/waves have energy and momentum which determines their motion through the spacetime tapestry.
+</lrndesign-sidenote>
 
 We do not really know why this is what the world is made of. We observe experimentally that those are the building blocks of Nature.
 
