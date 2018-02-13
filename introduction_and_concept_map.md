@@ -15,7 +15,6 @@ The class is divided in three units:
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 <p>In one sentence:<p>
-  
 <p>The world is made of particles and waves; these particles/waves have energy and momentum which determines their motion through the spacetime tapestry.</p>
 </lrndesign-sidenote>
 
