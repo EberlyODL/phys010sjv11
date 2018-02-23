@@ -16,5 +16,5 @@ News Article
 
 The 2003 Northeast blackout!
 
-- [The cause of the blackout.](http://www.scientificamerican.com/article.cfm?id=2003-blackout-five-years-later)
+- [The cause of the blackout.](https://www.scientificamerican.com/article/2003-blackout-five-years-later/)
 
