@@ -16,7 +16,7 @@ Here are a few important things to remember about atoms.
 * Atoms are ageless.
 * Atoms get around and move constantly.
 
-We have already discussed how small atoms are. One atom is about 0.1 nanometer in size $0.1\times10^{−9}=10^{−10}$.  What about numerous? How many atoms are there in the Universe?
+We have already discussed how small atoms are. One atom is about 0.1 nanometer in size <lrn-math>0.1\times10^{−9}=10^{−10}</lrn-math>.  What about numerous? How many atoms are there in the Universe?
 
 ## Atoms are Numerous
 
