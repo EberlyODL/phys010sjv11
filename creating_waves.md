@@ -11,14 +11,14 @@ Lets create some waves. Try the following applet and create waves of all kind on
 
 Starting from
 
-1. wavelength $\lambda$ = (distance)/(oscillation): The wavelength is the distance traveled per oscillation or cycle.
+1. wavelength <lrn-math>\lambda</lrn-math> = (distance)/(oscillation): The wavelength is the distance traveled per oscillation or cycle.
 2. Frequency f = (Oscillation)/(time): The frequency is the number of oscillation you do per unit of time. (usually in Hz so per second).
 
 one gets:
 
 (Wavelength)(frequency) = (distance)/(time) = speed v
 
-or speed of wave $v = \lambda f$. There is a subtle point here that the speed v is determined by the medium. The speed is usually constant. The wavelength and frequency are the things that adjust themselves such that the product always equals v.
+or speed of wave <lrn-math>v = \lambda f</lrn-math>. There is a subtle point here that the speed v is determined by the medium. The speed is usually constant. The wavelength and frequency are the things that adjust themselves such that the product always equals v.
 
 [ciscode|rev=1|tool=elmsmedia|item=2102|entity_type=node|render=display_mode|display_mode=image]
 

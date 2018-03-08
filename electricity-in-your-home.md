@@ -1,8 +1,8 @@
 Now that we have some background both the flow of electrons (current) and how electrons get their energy (batteries or power plants on the grid) we will focus a bit on how they are all connected, and what you can do with that current, specifically how it is used in the home. First, it is important to define the relationship between current and voltage in a circuit, and this is known as **Ohm's Law**, because it was defined by one Mr. Georg Ohm. He said that the amount of current that you get in a circuit depends on the voltage supplied divided by the amount of **resistance** to current in that circuit. 
 
-$I= V/R$    
+<lrn-math>I= V/R</lrn-math>    
 
-Resistance (which is the $R$ in the equation above), is just that - something which slows down the current flow, usually by taking some of the electron's kinetic energy and turning it into something else.  (We will not use this equation for any calculations, only for our discussion about safety). Resistors can be boring (There is an electrical part called a _resistor_  it is used to help set the correct current or voltage in a circuit) or they can be more directly used - lights, computers, refrigerators - all take the electrical voltage and current supplied and use it for various purposes.
+Resistance (which is the <lrn-math>R</lrn-math> in the equation above), is just that - something which slows down the current flow, usually by taking some of the electron's kinetic energy and turning it into something else.  (We will not use this equation for any calculations, only for our discussion about safety). Resistors can be boring (There is an electrical part called a _resistor_  it is used to help set the correct current or voltage in a circuit) or they can be more directly used - lights, computers, refrigerators - all take the electrical voltage and current supplied and use it for various purposes.
 
 
 ## Circuits 

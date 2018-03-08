@@ -2,7 +2,7 @@
 
 [ciscode|rev=1|tool=elmsmedia|item=2131|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]
 
-As we saw before, physics is an experimental science and every inquiry into Nature starts by making observation and taking measurements. Let us do a simple experiment. Pick up a pendulum in your house. Any object of some length with a mass at the tip will do. (For example, an antique pocket watch like you can see on the side, or more easily a rock tied on a string) The pendulum oscillates because of the force of gravity. The period is just a function of the length of the pendulum and of a constant of nature $g$ which is called the gravitational acceleration. Never mind what that is but let us imagine that you have your own hypothesis for what this constant of gravity is ($g$) and given the length of the pendulum and the period (how long for a back and forth) you are able to calculate $g$.
+As we saw before, physics is an experimental science and every inquiry into Nature starts by making observation and taking measurements. Let us do a simple experiment. Pick up a pendulum in your house. Any object of some length with a mass at the tip will do. (For example, an antique pocket watch like you can see on the side, or more easily a rock tied on a string) The pendulum oscillates because of the force of gravity. The period is just a function of the length of the pendulum and of a constant of nature <lrn-math>g</lrn-math> which is called the gravitational acceleration. Never mind what that is but let us imagine that you have your own hypothesis for what this constant of gravity is (<lrn-math>g</lrn-math>) and given the length of the pendulum and the period (how long for a back and forth) you are able to calculate <lrn-math>g</lrn-math>.
 
 [ciscode|rev=1|tool=elmsmedia|item=2133|entity_type=node|render=display_mode|display_mode=image]
 
@@ -10,7 +10,7 @@ You want to check whether your prediction agrees with experiments.
 
 To make sure you are doing things right, you take multiple measurements. I did it at home and here are my results for my own pocket watch whose length I measured to be 20 cm.
 
-|Period (s)|Length(m)| Gravitational constant "g" ($m/s^2$)
+|Period (s)|Length(m)| Gravitational constant "g" (<lrn-math>m/s^2</lrn-math>)
 |--------
 |0.95|0.2|8.75
 |1.05|0.2|7.16
@@ -39,6 +39,6 @@ Sample size is really important in science and when deciding whether or not to t
 
 The most dangerous source of error is the non-random one. These systematic (one way or the other) errors cannot be eliminated by taking many many measurements. They don't average out. If you don't know what they are, or what is causing them, it is very hard to eliminate them or even quantify their size. Here is an example:
 
-In the measurement of the pendulum above, I never specified how exactly I measured the length. From the tip of the chain to the top of the watch or to the middle of the watch? The standard formula for predicting the period from $g$ and the length of the pendulum is only correct if I measure the length to the center of mass of the watch(roughly in the middle), but if somebody had used the top (where the string attaches), they would have made a **_systematic error_**. All of their measurements would have been wrong (by a little bit).
+In the measurement of the pendulum above, I never specified how exactly I measured the length. From the tip of the chain to the top of the watch or to the middle of the watch? The standard formula for predicting the period from <lrn-math>g</lrn-math> and the length of the pendulum is only correct if I measure the length to the center of mass of the watch(roughly in the middle), but if somebody had used the top (where the string attaches), they would have made a **_systematic error_**. All of their measurements would have been wrong (by a little bit).
 
 Thinking about sources of errors is something physicists, and scientists spend a great deal of time thinking about and understanding. It is very important for scientists to design experiments with these sources of errors in mind, and they do!

@@ -10,7 +10,7 @@ As you might have guessed already, this back and forth—E creates a back-and fo
 
 Electromagnetic waves travel at the speed of light with the usual relation of wavelength and frequency:
 
-$c = \lambda f$
+<lrn-math>c = \lambda f</lrn-math>
 
 where c stands for the speed of light.
 
@@ -22,10 +22,10 @@ Just like any other wave, the electromagnetic wave has, in addition to a wavelen
 
 Instead of talking about the amplitude, we often talk about the intensity of a wave I. This is the average energy transferred over a certain area. This is averaged over one cycle of oscillation. The intensity can be written as the power (energy per time) divided by the area
 
-$ I = \frac {\rm{Power}}{\rm{Area}} $
+<lrn-math> I = \frac {\rm{Power}}{\rm{Area}} </lrn-math>
 
 if you double the amplitude of a wave, the amount of energy per second per unit of area will quadruple.
 
-$ Intensity \propto \rm{Amplitude}^2$ 
+<lrn-math> Intensity \propto \rm{Amplitude}^2</lrn-math> 
 
-The unit of intensity is Watts per meter squared $W/m^2$
+The unit of intensity is Watts per meter squared <lrn-math>W/m^2</lrn-math>

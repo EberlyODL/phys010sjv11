@@ -18,7 +18,7 @@ Constructive interference occurs when the two waves are exactly in phase (left i
 
 The destructive interference happens when one wave is shifted compared to other by an amount that is half a wavelength.
 
-$\rm{shift} = \frac{\lambda}{2}$ leads to destructive interference.
+<lrn-math>\rm{shift} = \frac{\lambda}{2}</lrn-math> leads to destructive interference.
 
 Constructive interference is easier to explain, the two waves are exactly in phase and it looks like there is no shift between the two. 
 

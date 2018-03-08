@@ -23,7 +23,7 @@ Galileo and Newton were pretty pleased with themselves. But then came a new theo
 
 We will discuss the theory of electricity later on, but, for now, there is only one thing we need to know: the theory of electricity predicts that light is a wave moving with a speed of
 
-$ c = 299,792,458 \; m/s$, the speed of light.
+<lrn-math> c = 299,792,458 \; m/s</lrn-math>, the speed of light.
 
 > the symbol "c" always means the speed of light (in a vacuum). 
 
@@ -34,6 +34,6 @@ $ c = 299,792,458 \; m/s$, the speed of light.
 - S: I see... Is there any other law of nature that predicts a speed of something else?
 - M: Yes some others. Einstein's theory of gravity (general relativity) predicts gravitational waves and it predicts their speed. Also neutrinos have their speed predicted.
 - S: So what is the prediction for the speed of gravitational waves or neutrinos?
-- M: It is $ c = 299,792,458 \; m/s$, the speed of light.
+- M: It is <lrn-math> c = 299,792,458 \; m/s</lrn-math>, the speed of light.
 - S: Hmmm, I guess there is really something special about that number.
 - M: There is. The speed of light is really a _property of spacetime_. It is the speed limit. And Nature is very good at enforcing this speed limit.

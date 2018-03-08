@@ -6,9 +6,9 @@ Creating an electromagnetic wave is fairly easy, you just shake back and forth s
 
 <iframe src="https://h5p.org/h5p/embed/85365" width="1090" height="466" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-In a radio antenna, we shake the electron at a frequency of $10^4$ Hz. This is 10,000 cycles per second! And this is the low frequency range! If you shake the electron with a frequency of $10^{12}$ Hz, you will get infrared light while $10^{15}$ Hz is the frequency of visible light.
+In a radio antenna, we shake the electron at a frequency of <lrn-math>10^4</lrn-math> Hz. This is 10,000 cycles per second! And this is the low frequency range! If you shake the electron with a frequency of <lrn-math>10^{12}</lrn-math> Hz, you will get infrared light while <lrn-math>10^{15}</lrn-math> Hz is the frequency of visible light.
 
-For each corresponding frequency, we can find the corresponding wavelength $\lambda = c/f$. For radio, the wavelength is about 1 km while for visible light it is about $0.5\mu m$ (where $\mu m = 10^{-6}\; m$). Look at fig "spectrum" below to get an idea of the range of electromagnetic waves.
+For each corresponding frequency, we can find the corresponding wavelength <lrn-math>\lambda = c/f</lrn-math>. For radio, the wavelength is about 1 km while for visible light it is about <lrn-math>0.5\mu m</lrn-math> (where <lrn-math>\mu m = 10^{-6}\; m</lrn-math>). Look at fig "spectrum" below to get an idea of the range of electromagnetic waves.
 
 [ciscode|rev=1|tool=elmsmedia|item=2179|entity_type=node|render=display_mode|display_mode=image]
 
@@ -30,5 +30,5 @@ The important thing to remember is that all of these seemingly different waves a
 
 ## Color
 
-Even in the small range of frequencies and wavelengths that we can detect, the visible spectrum, we can make further subdivision. Our eyes can detect the differences between a light wave of 600 nm versus 400 nm where (1 nm = 1 nanometer = $10^{-9}$ m) and these differences are interpreted in our brain as different colors. Below is the spectrum of visible light:
+Even in the small range of frequencies and wavelengths that we can detect, the visible spectrum, we can make further subdivision. Our eyes can detect the differences between a light wave of 600 nm versus 400 nm where (1 nm = 1 nanometer = <lrn-math>10^{-9}</lrn-math> m) and these differences are interpreted in our brain as different colors. Below is the spectrum of visible light:
 [ciscode|rev=1|tool=elmsmedia|item=2183|entity_type=node|render=display_mode|display_mode=image]

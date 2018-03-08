@@ -32,7 +32,7 @@ Lantern battery: 6 V
 Car battery: 12 V  
 B battery: 18 V
 
-Voltage is defined as Energy per unit of charge (Energy/charge) provided by the battery. Interestingly, The electron-volt(eV) is a unit for energy, which is just the charge e times 1 volt. 1 eV = $1.602 \times 10^{-19}$ Joules, which is how much energy 1 electron gets from 1 Volt.
+Voltage is defined as Energy per unit of charge (Energy/charge) provided by the battery. Interestingly, The electron-volt(eV) is a unit for energy, which is just the charge e times 1 volt. 1 eV = <lrn-math>1.602 \times 10^{-19}</lrn-math> Joules, which is how much energy 1 electron gets from 1 Volt.
 
 Roughly speaking, voltage is a measure of the “push” each charge gets from the battery. Batteries are also characterized by the maximum current they can output and by the total amount of charge or energy available.
 

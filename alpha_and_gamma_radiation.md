@@ -37,11 +37,11 @@ The other type of nuclear radiation is a photon. To understand why, we need to g
 
 [ciscode|rev=1|tool=elmsmedia|item=911|entity_type=node|render=display_mode|display_mode=image]
 
-The energy in the square box goes like $$ E_n = n^2 E_1$$, where $$E_1$$ is the ground state energy which depends on the size of the box. The ground state energy goes like $$E_1 \propto 1/L^2$$, the smaller the nucleus (L) the bigger the energy. Because the nucleus is so much smaller than the atom, the ground state energy is bigger and the energy of the photon emitted is bigger as well.
+The energy in the square box goes like <lrn-math> E_n = n^2 E_1</lrn-math>, where <lrn-math>E_1</lrn-math> is the ground state energy which depends on the size of the box. The ground state energy goes like <lrn-math>E_1 \propto 1/L^2</lrn-math>, the smaller the nucleus (L) the bigger the energy. Because the nucleus is so much smaller than the atom, the ground state energy is bigger and the energy of the photon emitted is bigger as well.
 
-A typical electron transition in an atom creates photons with energy of about 1 eV. Via $$E=hf$$, this amount of energy corresponds to frequencies of about $$10^{14}$$ Hz, or visible light.
+A typical electron transition in an atom creates photons with energy of about 1 eV. Via <lrn-math>E=hf</lrn-math>, this amount of energy corresponds to frequencies of about <lrn-math>10^{14}</lrn-math> Hz, or visible light.
 
-A typical nuclei transition inside the atom create photons with energy of about $$10^6$$ eV which are gamma rays!
+A typical nuclei transition inside the atom create photons with energy of about <lrn-math>10^6</lrn-math> eV which are gamma rays!
 
 [ciscode|rev=1|tool=elmsmedia|item=2704|entity_type=node|render=display_mode|display_mode=h5p]
 
@@ -50,6 +50,6 @@ A typical nuclei transition inside the atom create photons with energy of about 
 
 Let us say that an atom's nucleus decays from an excited state and emits a 1 MeV gamma ray. The atom is at rest at the beginning and so shooting out a photon will make it recoil a bit, but not very much (remember conservation of momentum?). But where does that gamma ray's energy come from?
 
-It came from the mass of the nucleus. An excited atom that emits a 1 MeV gamma ray weighs more before than after. The atom loses mass. Exactly as predicted by $$E=mc^2$$.
+It came from the mass of the nucleus. An excited atom that emits a 1 MeV gamma ray weighs more before than after. The atom loses mass. Exactly as predicted by <lrn-math>E=mc^2</lrn-math>.
 
 Same thing happens when polonium emits an alpha particle. The mass of the alpha particle plus the final lead atom is actually less than the original mass of the polonium. The mass difference between the end products and the beginning products all goes into kinetic energy of the alpha particle and the lead atom!

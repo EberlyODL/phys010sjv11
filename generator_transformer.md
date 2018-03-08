@@ -65,5 +65,5 @@ The transformer only works with AC current and this is ultimately why that's the
 
 
 - S: Wait, I though current was dangerous, not voltage. Why do we have to worry about those "Danger High Voltage" signs?
-- M: Well, this goes back to resistance and Ohm's Law $(I=V/R)$. High voltage will create a big current, even if your resistance is also large. So, its dangerous all the time, wet hands or dry hands. 
+- M: Well, this goes back to resistance and Ohm's Law <lrn-math>(I=V/R)</lrn-math>. High voltage will create a big current, even if your resistance is also large. So, its dangerous all the time, wet hands or dry hands. 
 - S: I'll be sure to stay away!

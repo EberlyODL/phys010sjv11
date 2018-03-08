@@ -19,7 +19,7 @@ Now we will turn on a very low power laser to send one single photon at a time t
 
 ## Photon Probability
 
-Let's say we want to know the probability that a photon will land on the screen in some small band of width $\delta x$ near position _x_ (see Fig. "Photon Prob"). Just as we did for the dartboard, we send photons and count them. After sending a lot of photons, we can define the probability of landing in the rectangle of Fig. "Photon Prob" by counting how many photons landed there versus the total that we sent.
+Let's say we want to know the probability that a photon will land on the screen in some small band of width <lrn-math>\delta x</lrn-math> near position _x_ (see Fig. "Photon Prob"). Just as we did for the dartboard, we send photons and count them. After sending a lot of photons, we can define the probability of landing in the rectangle of Fig. "Photon Prob" by counting how many photons landed there versus the total that we sent.
 
 [ciscode|rev=1|tool=elmsmedia|item=2245|entity_type=node|render=display_mode|display_mode=image__left]
 
@@ -33,7 +33,7 @@ So good, there is a **link between the wave and the particle**. And the link is 
 
 > **The probability p of detecting a photon at a particular point x is directly proportional to the intensity of the light wave at that point.**
 > 
-> $P(x) \propto I(x) \propto A(x)^2$
+> <lrn-math>P(x) \propto I(x) \propto A(x)^2</lrn-math>
 > 
 > In the last part, we wrote that the intensity is the square of the amplitude of the wave A. For an electromagnetic wave, the amplitude will be given by the maximum electric field as we saw before.
 

@@ -12,6 +12,6 @@ If  the only nuclear waste was U-235, nuclear waste would be small, but, of cour
 
 PU-239 can also be used in the nuclear reactor, but mostly it's a dangerous waste because it emits alpha particles, and we are just stuck with it. The half-life for Plutonium is
 
-$$t_{\frac12}$$ = 24,000 years
+<lrn-math>t_{\frac12}</lrn-math> = 24,000 years
 
 This is a horrible number. If it was 30 years half-life, than after 1000 years, all the radiation in the nuclear waste facilities would be gone. But with such a long half-life (24,000 years), plutonium waste is going to remain with us for a really long time.

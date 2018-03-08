@@ -1,10 +1,10 @@
 Last week, we discussed how light can be thought to be made of particles with energy
 
-$E = hf$
+<lrn-math>E = hf</lrn-math>
 
 where _h_ is known as Planck's constant. The frequency _f_ is the number of cycles per second that we would measure of a light wave. Note how strange this is.  A property of the wave, the frequency, determines the energy of the light particle...
 
-Planck's constant is a small number equal to $h = 6.63\times 10^{-34}\; J\; s$. The units of _h_ are Joules times second. The particles of light are called photons.
+Planck's constant is a small number equal to <lrn-math>h = 6.63\times 10^{-34}\; J\; s</lrn-math>. The units of _h_ are Joules times second. The particles of light are called photons.
 
 ## The Photon
 

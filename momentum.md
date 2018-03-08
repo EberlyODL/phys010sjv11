@@ -1,6 +1,6 @@
 Energy is not the only thing that is conserved in the world. There is another quantity that all particles have; it is called momentum \(momenta is the plural form\).
 
-We use the letter $p$ to denote momentum. And just like energy, it is a law of physics that the **total momentum of a system is conserved.** Before we look at that statement in more details lets  examine the Newton's cradle:
+We use the letter <lrn-math>p</lrn-math> to denote momentum. And just like energy, it is a law of physics that the **total momentum of a system is conserved.** Before we look at that statement in more details lets  examine the Newton's cradle:
 
 [ciscode|rev=1|tool=elmsmedia|item=2078|entity_type=node|render=display_mode|display_mode=image_gallery__basic_gallery]
 
@@ -10,7 +10,7 @@ So what is momentum? Fundamentally, momentum and energy are very related. We tal
 
 There is simple formula for momentum. It is just
 
-$p = mv$
+<lrn-math>p = mv</lrn-math>
 
 just mass times velocity.
 
@@ -27,11 +27,11 @@ With velocity, we indicate both the speed and the direction of travel. For us in
 
 If a car has a speed of 60 mph moving right we will say that it has a velocity of
 
-$v = + 60 \;\rm{mph}$
+<lrn-math>v = + 60 \;\rm{mph}</lrn-math>
 
 where the + \(positive\) sign indicates that the car is moving right. If it moves left, we say that it has a velocity of
 
-$v = -60\; \rm{mph}$
+<lrn-math>v = -60\; \rm{mph}</lrn-math>
 
 where the minus sign indicates that motion is to the left.
 
@@ -43,11 +43,11 @@ To continue the car example, let us imagine that your car has a mass of 1000 kg.
 
 The momentum of the car if you are moving to the right is
 
-$$p=mv= (1000\;kg) \times (25\;m/s) = 2500\;kg\;m/s$$
+<lrn-math>p=mv= (1000\;kg) \times (25\;m/s) = 2500\;kg\;m/s</lrn-math>
 
 Moving to the left it would be
 
-$$p=mv= (1000\;kg) \times (-25\;m/s) = -2500\;kg\;m/s$$
+<lrn-math>p=mv= (1000\;kg) \times (-25\;m/s) = -2500\;kg\;m/s</lrn-math>
 
 There is no special name for the unit of momentum. We just carry the whole kilogram times meters per second \(kg m/s\) around and yes this is a mouthful.
 
