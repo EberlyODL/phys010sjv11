@@ -20,7 +20,7 @@ This is just distance divided by the speed, in this case the speed of light.
 
 Now another observer passes by and he/she measures the time on his/her clock (denoted <lrn-math>\Delta t'</lrn-math> pronounced "delta t prime") between the start and the end of the pulse of light.
 
-> using "prime" is just a notation to differentiate between two cases. Here <lrn-math>\Delta t</lrn-math> is the time interval measured by the observer at rest.  <lrn-math>\Delta t'</lrn-math> is the time interval measure by the observer moving
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">using "prime" is just a notation to differentiate between two cases. Here <lrn-math>\Delta t</lrn-math> is the time interval measured by the observer at rest.  <lrn-math>\Delta t'</lrn-math> is the time interval measure by the observer moving</lrndesign-sidenote>
 
   As you can see from the figure 6, the distance travelled as seen by the observer moving is bigger that as seen from the observer at rest with respect to the mirrors. We have that <lrn-math>2D>2L</lrn-math>, the factor of 2 is because the light goes back and forth. But the speed is supposed to be the same. Since <lrn-math>\Delta t' = \frac{\rm{distance}}{c}</lrn-math> and the distance is bigger, it must be that the time is longer
 
