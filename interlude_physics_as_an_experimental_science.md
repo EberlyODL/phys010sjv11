@@ -2,7 +2,9 @@
 - S: Ok and what is that?
 - M: Physics is a science, and a powerful one at that, because it is based on experimental evidences. It all starts with measurements. Here is a quote from Lord Kelvin:
 
-> _I often say that when you can measure something and express it in numbers, you know something about it. When you cannot measure it, when you cannot express it in numbers, your knowledge is of a meager and unsatisfactory kind._
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+I often say that when you can measure something and express it in numbers, you know something about it. When you cannot measure it, when you cannot express it in numbers, your knowledge is of a meager and unsatisfactory kind.
+</lrndesign-sidenote>
 
 - S: That's not so nice to say for all the non-scientific knowledge out there.
 - M: True. It was Kelvin’s personal opinion that scientific knowledge based on measurements expressible by numbers (mathematics) is the surest, highest form of knowledge. This is an opinion that is shared by many people nowadays and while you may not agree with the statement, you would be hard pressed not to acknowledge how experimental science has changed our view of the world and our society in the last thousand years.
