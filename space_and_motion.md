@@ -24,7 +24,9 @@ In summary, we live in a Universe with three dimensions of space and one of time
 
 [ciscode|rev=1|tool=elmsmedia|item=976|entity_type=node|render=display_mode|display_mode=image]
 
-> Nobody knows why the Universe is 3+1 dimensional. We could have lived in a Universe with four dimensions of space and one of time (4+1). Or maybe two space dimensions and two time dimensions (2 + 2). Obviously, the laws of physics would change quite a bit if the number of dimensions were different.
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+Nobody knows why the Universe is 3+1 dimensional. We could have lived in a Universe with four dimensions of space and one of time (4+1). Or maybe two space dimensions and two time dimensions (2 + 2). Obviously, the laws of physics would change quite a bit if the number of dimensions were different.
+</lrndesign-sidenote>
 
 ## Moving in space - Review
 
