@@ -16,13 +16,13 @@ M: Well, just remember that energy _is the ability to do work, that is the abili
 
 M: We can divide this list into 2 types of energy, although this is ultimately just our organization as there are no fundamental differences between all these types of energies:
 
-**Energy of Movement**. Obviously, this is kinetic energy but less obvious \(and it was discovered much later\), thermal energy \(heat\) is really also just energy of movement as we will see. You should even think of the mass energy $E=mc^2$ as energy related to movement.
+**Energy of Movement**. Obviously, this is kinetic energy but less obvious \(and it was discovered much later\), thermal energy \(heat\) is really also just energy of movement as we will see. You should even think of the mass energy <lrn-math>E=mc^2</lrn-math> as energy related to movement.
 
 **Potential Energy**. This is stored energy that can be converted into kinetic energy. Each force of nature can cause particles to move and as such there is a potential energy associated with each force. In fact, some might say that force is really a derived concept. All there is in the Universe is energy that wants to make things move. The water behind a dam has gravitational potential energy that is converted to kinetic energy when we open the dam. Chemical bonds between atoms in TNT have electrical potential energy that is released with the appropriate stimuli into kinetic energy \(the explosion\). And finally, nuclear energy is due to the release of energy from the nuclear force that binds protons and neutrons together.
 
 But let us return to kinetic energy. This is the energy of movement, which will bring us to thermal energy. Again, the formula here is easy to remember, the energy of movement is proportional to the mass and goes like the velocity squared.
 
-$$K=\frac12 mv^2$$
+<lrn-math>K=\frac12 mv^2</lrn-math>
 
 Very large objects or objects with very large speed can have tremendous amount of kinetic energy. More importantly, doubling the speed means that you quadruple the energy. This means that when you drive twice as fast, you will suffer much more than twice the damage in a collision!
 

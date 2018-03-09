@@ -7,7 +7,7 @@ We are about to see the last building block of nature! After this week we will h
 - S: Hmmm, ok. So what's next, then?
 - M: A pretty important piece actually: Spacetime. This is the fabric on which everything moves. This week we will learn how to describe motion in spacetime and how motion is relative. Different observers see different motions.
 - M: This will lead us to some strange ideas, like time dilation; and it also leads us to reevaluate what we mean by energy and momentum.
-- S: O<span style="line-height: 20.3999996185303px;">h wow. So this week we see why $E=mc^2$?</span>
+- S: O<span style="line-height: 20.3999996185303px;">h wow. So this week we see why <lrn-math>E=mc^2</lrn-math>?</span>
 - M: Indeed!
 
 ## Dimensions of Space
@@ -20,7 +20,7 @@ If I want to make sure that you don't barge in during the middle of the night, I
 
 The most remarkable thing about time is that it seems to flow forward irrevocably. We seem to have no control over our motion in time while we obviously can affect our motion in space. This is not quite right. As it turns out, we can affect our "time position" but we need to go fast.
 
-In summary, we live in a Universe with three dimensions of space and one of time and we can move from point to point (from event to event). As we will see, not all motion is allowed. We often represent spacetime in a diagram like the diagram below. The horizontal axis (distance) is really all three spatial coordinates but for visual necessity we just reduce it to one dimension. The vertical axis is time, while $E_1$ and $E_2$ denote two spacetime events.
+In summary, we live in a Universe with three dimensions of space and one of time and we can move from point to point (from event to event). As we will see, not all motion is allowed. We often represent spacetime in a diagram like the diagram below. The horizontal axis (distance) is really all three spatial coordinates but for visual necessity we just reduce it to one dimension. The vertical axis is time, while <lrn-math>E_1</lrn-math> and <lrn-math>E_2</lrn-math> denote two spacetime events.
 
 [ciscode|rev=1|tool=elmsmedia|item=976|entity_type=node|render=display_mode|display_mode=image]
 
@@ -32,6 +32,6 @@ Let us not think about time as a dimension for now and let us return to motion i
 
 Let's imagine that we move at a constant velocity in some direction such that the velocity
 
-$ v = \frac{\rm{distance}}{\rm{time}} = \rm{constant}$
+<lrn-math> v = \frac{\rm{distance}}{\rm{time}} = \rm{constant}</lrn-math>
 
 We will always consider motion in a single line to simplify the discussion and so the velocity is just some numbers of meters per second. A positive number means that we are moving right while a negative number means that we are moving left.

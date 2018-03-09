@@ -10,11 +10,11 @@ Since the force of gravity is always attractive, it wins on large distances and 
 
 > For comparison, the two nuclear forces are short range and only apply on small length scales such as the nucleus.
 
-So in 1687, in his famous work "Principia Mathematica", Newton proposed the _Universal_ law of Gravitation with emphasis on the universal part of it. The law states that any two objects with mass $$m_1$$ and $$m_2$$ attract each other with a force proportional to both masses and inversely proportional the distance between the objects squared, see Fig. "Law of Gravity".
+So in 1687, in his famous work "Principia Mathematica", Newton proposed the _Universal_ law of Gravitation with emphasis on the universal part of it. The law states that any two objects with mass <lrn-math>m_1</lrn-math> and <lrn-math>m_2</lrn-math> attract each other with a force proportional to both masses and inversely proportional the distance between the objects squared, see Fig. "Law of Gravity".
 
 [ciscode|rev=1|tool=elmsmedia|item=902|entity_type=node|render=display_mode|display_mode=image]
 
-The constant G is know as the Newton's gravitational constant. It is equal to $$G = 6.67 \times 10^{-11}\; N\;m^2/kg^2$$
+The constant G is know as the Newton's gravitational constant. It is equal to <lrn-math>G = 6.67 \times 10^{-11}\; N\;m^2/kg^2</lrn-math>
 
 [ciscode|rev=1|tool=elmsmedia|item=2736|entity_type=node|render=display_mode|display_mode=h5p]
 
@@ -26,8 +26,8 @@ The constant G is know as the Newton's gravitational constant. It is equal to $$
 
 ## Optional:
 
-The Universal law of Gravity does reduce to the simpler relationship we saw earlier $$F=mg$$. You just take the more general law $$F = G m_1m_2/r^2$$ and you replace the radius with the radius of the Earth and the mass of the second object with the mass of the Earth and you get
+The Universal law of Gravity does reduce to the simpler relationship we saw earlier <lrn-math>F=mg</lrn-math>. You just take the more general law <lrn-math>F = G m_1m_2/r^2</lrn-math> and you replace the radius with the radius of the Earth and the mass of the second object with the mass of the Earth and you get
 
-$$F = m_1 g$$
+<lrn-math>F = m_1 g</lrn-math>
 
-where the little g factor is equal to $$G m_{earth}/r_{earth}^2 = 9.8\; m/s^2$$
+where the little g factor is equal to <lrn-math>G m_{earth}/r_{earth}^2 = 9.8\; m/s^2</lrn-math>

@@ -29,4 +29,4 @@ So, just like an atom can emit light from electrons undergoing transitions betwe
 
 1. **Alpha radiation:** This is really a helium atom without any electrons (it is doubly ionized).
 2. **Beta radiation:** This is just an electron (or sometimes a positron, the anti-particle). _We will not discuss this type of radiation in this class._ It happens when a neutron decides to transform into a proton. This transformation is possible (although rare) and in the process, an electron is ejected. We call this a beta-ray.
-3. **Gamma radiation**. This is a photon (light) of wavelength of about $$10^{-12}$$ m or frequency of about $$10^{20}$$ Hz. So this is a highly energetic photon.
+3. **Gamma radiation**. This is a photon (light) of wavelength of about <lrn-math>10^{-12}</lrn-math> m or frequency of about <lrn-math>10^{20}</lrn-math> Hz. So this is a highly energetic photon.

@@ -2,9 +2,9 @@ Momentum , like energy, is a conserved quantity, which means no momentum can be 
 
 Conservation of momentum is the cause for recoil and it is what allows rockets to move. \(It is also how the momentum in the Newton's Cradle is transferred from one ball to the next.\)
 
-Imagine a cannon, loaded with a cannon ball, at rest on the fortification. The initial speed \(as seen from somebody also at rest\) is zero and therefore the system \(cannon + cannonball\) has zero momentum $p=mv = m\times 0 = 0$.
+Imagine a cannon, loaded with a cannon ball, at rest on the fortification. The initial speed \(as seen from somebody also at rest\) is zero and therefore the system \(cannon + cannonball\) has zero momentum <lrn-math>p=mv = m\times 0 = 0</lrn-math>.
 
-After ignition, the cannon ball of mass $m\_b$ is shot with velocity $v\_b$.
+After ignition, the cannon ball of mass <lrn-math>m\_b</lrn-math> is shot with velocity <lrn-math>v\_b</lrn-math>.
 
 > Subscripts are often used in physics to label the various parts of the system, here b = ball and c = cannon
 
@@ -16,7 +16,7 @@ This means that the cannon must recoil with equal momentum that the ball took wi
 
 As you can see from the figure above. We must have that
 
-$p\_b +p\_c = 0$
+<lrn-math>p\_b +p\_c = 0</lrn-math>
 
 This is what recoil is. We started with zero momentum, we split the system in two parts and one moves left \(say\), the other must move right with a momentum equal in magnitude \(but opposite in direction\).
 

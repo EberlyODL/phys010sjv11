@@ -11,9 +11,9 @@ To give you a sense of scale, a typical human as a mass of 75 kg. Since the atom
  
 ### Atoms are made of three basic particles.
 
-- **Electrons**: Our good friend the electron will be with us for the whole class. The electron has no fundamental substructure as far as we know. It is truly a fundamental particle and its motion is the source of all electricity in your daily life. We will study the electron a lot in this class. It has a negative electric charge and it has a mass of $9 \times 10^{-31}$ kg.
-- **Protons**. The proton is much bigger and much more massive than the electron. It is not truly fundamental, it is made of something else but this won't matter for us now. It has electric charge and a mass of $(1.7\times 10^{-27}$ kg. It is 2000 times heavier than the electron!
-- **Neutrons**: The neutron is very much like the proton. The main crucial difference is that the neutron is electrically neutral. It does not have electric charge (we say it is neutral) and its mass is $1.7\times 10^{-27}$ kg (almost the same as the protons and thus much heavier than the electron). 
+- **Electrons**: Our good friend the electron will be with us for the whole class. The electron has no fundamental substructure as far as we know. It is truly a fundamental particle and its motion is the source of all electricity in your daily life. We will study the electron a lot in this class. It has a negative electric charge and it has a mass of <lrn-math>9 \times 10^{-31}</lrn-math> kg.
+- **Protons**. The proton is much bigger and much more massive than the electron. It is not truly fundamental, it is made of something else but this won't matter for us now. It has electric charge and a mass of <lrn-math>(1.7\times 10^{-27}</lrn-math> kg. It is 2000 times heavier than the electron!
+- **Neutrons**: The neutron is very much like the proton. The main crucial difference is that the neutron is electrically neutral. It does not have electric charge (we say it is neutral) and its mass is <lrn-math>1.7\times 10^{-27}</lrn-math> kg (almost the same as the protons and thus much heavier than the electron). 
 
 ### Putting Them Together
 

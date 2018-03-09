@@ -10,9 +10,9 @@ Imagine the following situation: You are blindfolded and throwing darts at a dar
 
 Because 45 out of 100 throws ended up in region A, we could say that the chance of hitting region A is 45%. In general we can say that the probability of hitting region A is just the number of hits in A divided by the total.
 
-$P_A = \frac{N_A}{N_{tot}}$
+<lrn-math>P_A = \frac{N_A}{N_{tot}}</lrn-math>
 
-This probability is more and more accurate as the total number of throws gets really large. Similarly, we can define the probability of throwing in region B and C ($P_B$ and $P_C$) by counting the number of throws in region B or C ($N_B$ or $N_C$) and dividing it by the total number of throws ($N_{TOT}$). The bigger the total number of throws, the more accurate the probability becomes.
+This probability is more and more accurate as the total number of throws gets really large. Similarly, we can define the probability of throwing in region B and C (<lrn-math>P_B</lrn-math> and <lrn-math>P_C</lrn-math>) by counting the number of throws in region B or C (<lrn-math>N_B</lrn-math> or <lrn-math>N_C</lrn-math>) and dividing it by the total number of throws (<lrn-math>N_{TOT}</lrn-math>). The bigger the total number of throws, the more accurate the probability becomes.
 
 ## The Word OR
 
@@ -20,13 +20,13 @@ Let's say you want to know the probability that the dart was in region A **OR** 
 
 Since it does not matter which one, you just count all throws that landed in A or B.
 
-$P_{A\; or \; B} = \frac{N_A + N_B}{N_{tot}} = P_A+P_B$
+<lrn-math>P_{A\; or \; B} = \frac{N_A + N_B}{N_{tot}} = P_A+P_B</lrn-math>
 
 So, the probability of hitting A or B is the sum of the probability of hitting A and probability of hitting B. So in our example this would be 35% + 45% = 80%.
 
 Note that the chance of hitting anything at all (A OR B OR C) should be 1 or 100%.
 
-$P_A+P_B+P_C =1$
+<lrn-math>P_A+P_B+P_C =1</lrn-math>
 
 > As we will see, quantum mechanics is special when it comes to adding probability because of interference which happens.
 

@@ -7,7 +7,7 @@ Fig 1 and 2 are two artistic representations of atoms that you will often encoun
 
 In physics, we want to study the whole world and as you can imagine, we often end up dealing with very small and very big numbers. Of course, small or big is always in reference to something else. The atom is small compared to you but it is huge compared to the size of a proton!
 
-Compared to daily human scale the atoms are really small, so small that you cannot see them but not so small that we cannot manipulate them. You may have heard of nanoscience, nano-devices, nanocenters... The nano here refers to nanometer and it is a distance of $10^{-9}$ meters.  This is the distance taken by a few atoms.
+Compared to daily human scale the atoms are really small, so small that you cannot see them but not so small that we cannot manipulate them. You may have heard of nanoscience, nano-devices, nanocenters... The nano here refers to nanometer and it is a distance of <lrn-math>10^{-9}</lrn-math> meters.  This is the distance taken by a few atoms.
 
 - Marie (M): (interrupting) Do you know scientific notation?
 - Sophie (S): You mean the exponent? By the way, I thought there was no math in this class.
@@ -16,22 +16,22 @@ Compared to daily human scale the atoms are really small, so small that you cann
 ### The scientific notation
 
 
-I could have written nanometer as 0.000000001 meters but it is hard to see with your eyes exactly how many zeros there are, so scientists just write $10^{-9}$. The minus signs indicates that this is smaller than 1 so there is a decimal and as you can see above there are 9 zeros (including the first one before the decimal).
+I could have written nanometer as 0.000000001 meters but it is hard to see with your eyes exactly how many zeros there are, so scientists just write <lrn-math>10^{-9}</lrn-math>. The minus signs indicates that this is smaller than 1 so there is a decimal and as you can see above there are 9 zeros (including the first one before the decimal).
 
-Another example is $10^{-2}$ which is 0.01, there are 2 zeros.
+Another example is <lrn-math>10^{-2}</lrn-math> which is 0.01, there are 2 zeros.
 
-If the number in the exponent is positive then there is no decimal. For example $10^3$ is a 1 followed by 3 zeros or also known as a thousand: 1000. We also often call $10^3$ a kilo something. A kilometer is $10^3$ meters or 1000 meters. These are all the same.
+If the number in the exponent is positive then there is no decimal. For example <lrn-math>10^3</lrn-math> is a 1 followed by 3 zeros or also known as a thousand: 1000. We also often call <lrn-math>10^3</lrn-math> a kilo something. A kilometer is <lrn-math>10^3</lrn-math> meters or 1000 meters. These are all the same.
 
 Note that up to now we used only 1 and 0, but of course we could have
 
-3 kilometers, which is $3 \times 10^3$ meters or 3000 meters.  
-6 nanometers, which is $6 \times 10^{-9}$ meters or 0.000000006 meters.
+3 kilometers, which is <lrn-math>3 \times 10^3</lrn-math> meters or 3000 meters.  
+6 nanometers, which is <lrn-math>6 \times 10^{-9}</lrn-math> meters or 0.000000006 meters.
 
 When you multiply or add large numbers in exponential forms, you just add or subtract the exponents!
 
-**Example problem:** Let's say, I put side by side on a line $10^{23}$ atoms (this is called a mole of atoms) and let's say these are atoms of helium which are roughly $10^{-10}$ meters in size. How long would the line be?
+**Example problem:** Let's say, I put side by side on a line <lrn-math>10^{23}</lrn-math> atoms (this is called a mole of atoms) and let's say these are atoms of helium which are roughly <lrn-math>10^{-10}</lrn-math> meters in size. How long would the line be?
 
-- S: That's not too hard. I just multiply the number of atoms times the size per each atom like this $10^{23}$ atoms $\times 10^{−10}$ meter/per atom. That gives $10^{23−10}=10^{13}$ meters.
+- S: That's not too hard. I just multiply the number of atoms times the size per each atom like this <lrn-math>10^{23}</lrn-math> atoms <lrn-math>\times 10^{−10}</lrn-math> meter/per atom. That gives <lrn-math>10^{23−10}=10^{13}</lrn-math> meters.
 - M: Good! There is one last step. Whenever you are done with a calculation, you need to step back and think about your answer. What do you think of the number?
 - S: Hmm. . . It's large.
 - M: Indeed, it's huge! The line would stretch 10,000 times around the whole circumference of the Earth. Yet you have many, many moles of water molecule in a glass water, how does that make sense?

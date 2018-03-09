@@ -2,29 +2,29 @@ So, how can this work in practice?
   
 Look at the two images below.
 
-> The symbol $\Delta$ in $\Delta t$ denotes an interval of time. In general $\Delta $ means difference between the final value of something and its initial value.
+> The symbol <lrn-math>\Delta</lrn-math> in <lrn-math>\Delta t</lrn-math> denotes an interval of time. In general <lrn-math>\Delta </lrn-math> means difference between the final value of something and its initial value.
 
 On the left, I am sending a pulse of light up to a mirror and it bounces back. The time it took for the trip back and forth is just the distance divided by the speed
 
-$time = \frac{distance}{speed}$
+<lrn-math>time = \frac{distance}{speed}</lrn-math>
 
 [ciscode|rev=1|tool=elmsmedia|item=981|entity_type=node|render=display_mode|display_mode=image]
 
 On the top figure the observer is at rest and the time measured is
 
-$\Delta t = 2L/c$
+<lrn-math>\Delta t = 2L/c</lrn-math>
 
 This is just distance divided by the speed, in this case the speed of light.
 
 [ciscode|rev=1|tool=elmsmedia|item=982|entity_type=node|render=display_mode|display_mode=image]
 
-Now another observer passes by and he/she measures the time on his/her clock (denoted $\Delta t'$ pronounced "delta t prime") between the start and the end of the pulse of light.
+Now another observer passes by and he/she measures the time on his/her clock (denoted <lrn-math>\Delta t'</lrn-math> pronounced "delta t prime") between the start and the end of the pulse of light.
 
-> using "prime" is just a notation to differentiate between two cases. Here $\Delta t$ is the time interval measured by the observer at rest.  $\Delta t'$ is the time interval measure by the observer moving
+> using "prime" is just a notation to differentiate between two cases. Here <lrn-math>\Delta t</lrn-math> is the time interval measured by the observer at rest.  <lrn-math>\Delta t'</lrn-math> is the time interval measure by the observer moving
 
-  As you can see from the figure 6, the distance travelled as seen by the observer moving is bigger that as seen from the observer at rest with respect to the mirrors. We have that $2D>2L$, the factor of 2 is because the light goes back and forth. But the speed is supposed to be the same. Since $\Delta t' = \frac{\rm{distance}}{c}$ and the distance is bigger, it must be that the time is longer
+  As you can see from the figure 6, the distance travelled as seen by the observer moving is bigger that as seen from the observer at rest with respect to the mirrors. We have that <lrn-math>2D>2L</lrn-math>, the factor of 2 is because the light goes back and forth. But the speed is supposed to be the same. Since <lrn-math>\Delta t' = \frac{\rm{distance}}{c}</lrn-math> and the distance is bigger, it must be that the time is longer
 
-$\Delta t' > \Delta t $
+<lrn-math>\Delta t' > \Delta t </lrn-math>
 
 This is **time dilation**. If I measure the time between two events on my watch, and you measure the time between the same two events but you are moving with respect to me, the time you measure will be longer than mine.
 

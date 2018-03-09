@@ -20,9 +20,9 @@ So where do waves fit in this picture?
   - Described by a period (T), a frequency (f) and an amplitude (A).
 - Wave: A type of oscillation (disturbance) that travels in space. 
   - Described by a period (T), a frequency (f) and an amplitude (A) like an oscillation
-  - But also has a wavelength $\lambda$ which is the distance between wave crests.
+  - But also has a wavelength <lrn-math>\lambda</lrn-math> which is the distance between wave crests.
 
-A wave varies in space with wavelength $\lambda$. A plot of a wave variation in space looks like
+A wave varies in space with wavelength <lrn-math>\lambda</lrn-math>. A plot of a wave variation in space looks like
 
 [ciscode|rev=1|tool=elmsmedia|item=2100|entity_type=node|render=display_mode|display_mode=image]
 

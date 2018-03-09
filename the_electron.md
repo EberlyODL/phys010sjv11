@@ -8,7 +8,7 @@ Electricity is almost always caused by the movement of a single particle: the el
 
 As far as we know the electron has no substructure (it is not made of anything else). It is a fundamental particle of Nature and it has the following properties:
 
-1. It has a mass of $m_e= 9.1 \times 10^{-31}$ kg
+1. It has a mass of <lrn-math>m_e= 9.1 \times 10^{-31}</lrn-math> kg
 2. It has an electric charge of -1e
 
 ## Electric Charge
@@ -17,7 +17,7 @@ The electromagnetic force acts on every particle that is charged. As we saw in w
 
 Experiments show that all charges that we see comes in integer units of an elementary charge _e_.
 
-$ e = 1.602\times10^{-19}$ Coulombs
+<lrn-math> e = 1.602\times10^{-19}</lrn-math> Coulombs
 
 where Coulombs is the unit for charge (name after a physicist called Coulomb). The electron really has a charge of -_e_ while the proton is +_e_ but we often just say -1 and +1 where the 1 means 1 unit of the elementary charge e.
 

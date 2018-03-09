@@ -7,7 +7,7 @@ Coming back to the Newsflash about the asteroid hitting Russia - Can you answer 
 * Power is energy delivered per unit of time. Units for power are Watts while energy would be in Watt-hour for example
 * Kinetic energy \(denoted K\) is given by
 
-$K = \frac12 mv^2$
+<lrn-math>K = \frac12 mv^2</lrn-math>
 
 If we use kg for mass and meters per second for speed we get K in Joules.
 

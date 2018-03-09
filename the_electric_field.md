@@ -22,7 +22,7 @@ Here is what you should remember from these figures.
 
 1. The electric field has a direction has shown by the arrows on the field lines.
 2. The electric field has a value. The denser the field lines on the figure, the bigger the electric field is. While the more spread out the field lines are, the smaller the value of the electric field is.
-3. The electric field is everywhere in space and all charged particles can source it and change it. The electric field has different values at different spacetime points, it is a function of space and time $E(x,t)$
+3. The electric field is everywhere in space and all charged particles can source it and change it. The electric field has different values at different spacetime points, it is a function of space and time <lrn-math>E(x,t)</lrn-math>
 
 ## Phet Simulation
 

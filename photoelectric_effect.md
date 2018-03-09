@@ -23,7 +23,7 @@ When light is shone on a target, the photoelectrons are ejected from the target 
 
 As you can remember from the week on electricity, a **Volt is energy per unit of charge** and so the relation between V and U is just
 
-$U = q V$
+<lrn-math>U = q V</lrn-math>
 
 They are closely related as you can see.
 
@@ -35,7 +35,7 @@ By turning a potential (a Voltage), it is as if we were setting up a slope, as i
 
 In the experiment, we can adjust the potential on the battery just to the point where there is no more current. When current = zero, we have found the spot where kinetic energy is equal to potential energy on top of the slope! We call this critical value of voltage, **the stopping potential.**
 
-$K = U = e V_{stop}$
+<lrn-math>K = U = e V_{stop}</lrn-math>
 
 where e is the charge of the electron. The stopping potential is the minimum voltage needed to stop the electrons (higher voltage just make the electron stop and turn earlier than the anode). 
 
@@ -45,8 +45,8 @@ where e is the charge of the electron. The stopping potential is the minimum vol
 
 Electric Potential is energy per charge. This means that charge times potential is an energy. (Electric Potential is sometimes just called Voltage - it is the same thing!)
 
- We define a new unit of energy, the electron volt eV, to be the charge of an electron $1.602\times 10^{-19}$ C times one volt
+ We define a new unit of energy, the electron volt eV, to be the charge of an electron <lrn-math>1.602\times 10^{-19}</lrn-math> C times one volt
 
-1 eV = $1.602\times 10^{-19}\;\rm{C}\times\;1;\rm{Volt} = 1.602\times 10^{-19}$ Joules
+1 eV = <lrn-math>1.602\times 10^{-19}\;\rm{C}\times\;1;\rm{Volt} = 1.602\times 10^{-19}</lrn-math> Joules
 
 > This unit of energy is much smaller than Joules and more practical for talking about the electrons and atoms. We will use it often.

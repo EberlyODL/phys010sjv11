@@ -20,7 +20,7 @@ This is this week's subject of study. This is the work for which Einstein won th
 4.  **Energy Mass Equivalence**: "_Does the Inertia of a Body Depend Upon Its Energy Content?_" 
 <a href="http://www.physik.uni-augsburg.de/annalen/history/einstein-papers/1905_18_639-641.pdf" target="_blank">Original</a> and
 <a href="http://www.fourmilab.ch/etexts/einstein/E_mc2/www/" target="_blank">Translated</a>
-This was a direct consequence of the previous paper. He showed, among other things, that $E = mc^2$.
+This was a direct consequence of the previous paper. He showed, among other things, that <lrn-math>E = mc^2</lrn-math>.
 
 S: Wow, quite a year!
 
@@ -32,17 +32,17 @@ S: What was Einstein's solution to the experiment we just did?
 
 Einstein's proposition is that light is not really a continuous wave but, instead, arrives in small packets, small bunches - a **"quantum"**. He imagined that each "quantum" of light has an energy given by
 
-$E = hf$
+<lrn-math>E = hf</lrn-math>
 
 where f is the frequency and h is a number: Planck's constant. (It was introduced by Max Planck a couple years earlier.) Planck's constant is very important in this course. It is as important as it is small
 
-$h = 6.63\times 10^{-34}\;J\cdot s = 4.14\times 10^{-15} \rm{eV}\cdot s$
+<lrn-math>h = 6.63\times 10^{-34}\;J\cdot s = 4.14\times 10^{-15} \rm{eV}\cdot s</lrn-math>
 
-The units are Joules times second or electron volt (1 eV = $1.602\times10^{-19}$ J) times second. Einstein then supposed that when light interacts with electrons, it is an all-or-nothing business. The electrons can absorb only 1 quanta of light at a time (not 1.5 not 2). If light is absorbed in quanta, we say that it is _quantized_.
+The units are Joules times second or electron volt (1 eV = <lrn-math>1.602\times10^{-19}</lrn-math> J) times second. Einstein then supposed that when light interacts with electrons, it is an all-or-nothing business. The electrons can absorb only 1 quanta of light at a time (not 1.5 not 2). If light is absorbed in quanta, we say that it is _quantized_.
 
-> Just a reminder that eV is just a (very small) unit of energy 1 eV = $1.602\times 10^{-19}$ Joules
+> Just a reminder that eV is just a (very small) unit of energy 1 eV = <lrn-math>1.602\times 10^{-19}</lrn-math> Joules
 
-Einstein's equation $E = hf $ is super simple and super important. I do expect you to be able to use it, so let's practice.
+Einstein's equation <lrn-math>E = hf </lrn-math> is super simple and super important. I do expect you to be able to use it, so let's practice.
 
 Let's see how this could work. Imagine that the electrons in a metal like zinc are in a potential well (like a pool) that is 3 eV (3 electron volts) in depth.
 

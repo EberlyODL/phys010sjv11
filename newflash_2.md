@@ -1,8 +1,7 @@
 ### Kinetic Energy
 
 The amount of energy in a moving object can be huge (e.g. meteors). Here is a simple equation that describes this   
-  
-$K= \frac12 m v^2$   
+<lrn-math>K= \frac12 m v^2</lrn-math>   
   
 We will use the letter K to denote kinetic energy. If you put the mass of the object in kilograms, the velocity of the object in meters/second, then the energy in this equation will be in Joules. This simple equation will come back again and again in this class and you should know the following facts which follows from it:
 
@@ -23,11 +22,11 @@ Mass: 10,000 tons (9,000,000 kg!)
 Velocity: about 40,000 mph ( approx 64,000 km/h = 18,000 m/s) when it exploded.
 
 How much kinetic energy did it have when it landed?
-$K = \frac12 mv^2$
+<lrn-math>K = \frac12 mv^2</lrn-math>
 
-$K= \frac12 (9,000,000\; kg)(18,000\;m/s)^2$
+<lrn-math>K= \frac12 (9,000,000\; kg)(18,000\;m/s)^2</lrn-math>
 
-$K=1.4\times10^{15} J = 350$ billion Calories ( 4,000,000 kWh)
+<lrn-math>K=1.4\times10^{15} J = 350</lrn-math> billion Calories ( 4,000,000 kWh)
 
 Equal to ~500 kilotons of TNT!  
 

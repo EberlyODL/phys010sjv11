@@ -12,4 +12,4 @@ Newton's laws in terms of momentum:
 3. **Momentum is conserved.**
 
 A constant force F applied over an interval of time \(\Delta t\) changes the momentum by the amount   
-  $F\Delta t = \Delta p$
+  <lrn-math>F\Delta t = \Delta p</lrn-math>

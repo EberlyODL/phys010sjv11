@@ -17,22 +17,22 @@ This law essentially defined the notion of an inertial reference frame as we dis
 
 > _An unbalanced force causes an object to accelerate. This is often mathematically expressed by_
 > 
-> _$F= ma$. The force which is moving an object equals the mass of the object times its acceleration._
+> _<lrn-math>F= ma</lrn-math>. The force which is moving an object equals the mass of the object times its acceleration._
 
-Acceleration measures the change in velocity per unit of time. Remember: change is written using the $\Delta$ symbol which means the difference between the end and beginning.
+Acceleration measures the change in velocity per unit of time. Remember: change is written using the <lrn-math>\Delta</lrn-math> symbol which means the difference between the end and beginning.
 
-$a = \frac{\Delta v}{\Delta t}$
+<lrn-math>a = \frac{\Delta v}{\Delta t}</lrn-math>
 
 Here's the breakdown of that equation:
 
-The time interval between some initial time $t_i$ and some final time $t_f$ is expressed as $\Delta t = t_f -t_i$.
+The time interval between some initial time <lrn-math>t_i</lrn-math> and some final time <lrn-math>t_f</lrn-math> is expressed as <lrn-math>\Delta t = t_f -t_i</lrn-math>.
 
-During this time interval, the speed of the object may change from initial value $v_i$ to some final value $v_f$. Again the change in velocity is $\Delta v = v_f-v_i$. **Remember that velocity has a sign, negative if you move left or positive if you move right.**
+During this time interval, the speed of the object may change from initial value <lrn-math>v_i</lrn-math> to some final value <lrn-math>v_f</lrn-math>. Again the change in velocity is <lrn-math>\Delta v = v_f-v_i</lrn-math>. **Remember that velocity has a sign, negative if you move left or positive if you move right.**
 
 
 
 So acceleration can also be positive or negative, because velocity has a direction. For example, when you go east at 20 m/s and change to go west at 20 m/s in a span of 4 seconds, the acceleration would be
 
-$a = \frac{20 - (-20)}{4} = 10\; m/s^2$
+<lrn-math>a = \frac{20 - (-20)}{4} = 10\; m/s^2</lrn-math>
 
 We will not use acceleration very much in this class. Instead we will use change in momentum which is really the same thing!

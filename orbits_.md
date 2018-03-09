@@ -6,15 +6,15 @@ If you launch a projectile on the surface of the Earth, you get a nice parabolic
 
 In order to stay in orbit, the object needs move fast. The closer the orbit to the surface of the planet, the faster you need to go. The orbital velocity can be figured out using Newton's law of gravity. The formula is the following
 
-$$v^2 = \frac{G M}{r}$$
+<lrn-math>v^2 = \frac{G M}{r}</lrn-math>
 
-where $$G = 6.67 \times 10^{-11}\; N\;m^2/kg^2$$ is Newton's constant. M is the mass of the planet you are orbiting around and r is the distance between the satellite/moon and the center of that planet.
+where <lrn-math>G = 6.67 \times 10^{-11}\; N\;m^2/kg^2</lrn-math> is Newton's constant. M is the mass of the planet you are orbiting around and r is the distance between the satellite/moon and the center of that planet.
 
 You do not need to memorize the formula, but you do need to understand it. The main point is that the closer the orbit is (smaller r) the faster you need to move!
 
 Instead of velocity, we often like to talk about period (T). The period tells us how long it takes the satellite/moon to go around once (time for one orbit). The orbiting period is just the distance traveled in one turn divided by the speed.
 
-$$T = 2\pi r/v$$
+<lrn-math>T = 2\pi r/v</lrn-math>
 
 
 ## Low Earth Orbits (LEO)

@@ -12,14 +12,14 @@ We can also modify the units by adding a prefix. Here is a list of common prefix
 
 | name | abbreviation | factor |
 | :--- | :--- | :--- |
-| pico | p | $10^{-12}$ |
-| nano | n | $10^{-9}$ |
-| micro | $\mu$ | $10^{-6}$ |
-| milli | m | $10^{-3}$ |
-| centi | c | $10^{-2}$ |
-| kilo | k | $10^{3}$ |
-| mega | M | $10^{6}$ |
-| giga | G | $10^{9}$ |
+| pico | p | <lrn-math>10^{-12}</lrn-math> |
+| nano | n | <lrn-math>10^{-9}</lrn-math> |
+| micro | <lrn-math>\mu</lrn-math> | <lrn-math>10^{-6}</lrn-math> |
+| milli | m | <lrn-math>10^{-3}</lrn-math> |
+| centi | c | <lrn-math>10^{-2}</lrn-math> |
+| kilo | k | <lrn-math>10^{3}</lrn-math> |
+| mega | M | <lrn-math>10^{6}</lrn-math> |
+| giga | G | <lrn-math>10^{9}</lrn-math> |
 
 > Usain Bolt ran the 100 m race. This is the same as the 0.1 km \(0.1 kilometer\) race.
 

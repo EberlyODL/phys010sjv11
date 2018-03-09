@@ -1,4 +1,4 @@
-* An electromagnetic wave is made of photons. The more intense the light is, the more photons it contains. Each individual photons has an energy given by $E = h f$ with _h_ being Planck's constant.
+* An electromagnetic wave is made of photons. The more intense the light is, the more photons it contains. Each individual photons has an energy given by <lrn-math>E = h f</lrn-math> with _h_ being Planck's constant.
 
 * The probability of finding a particle at a given point is proportional to the intensity of wave at that point. The more intense the wave, the more probable it is that you will "see" the photon. Use the PHET simulation to go over how probability of photon detection works again.
 

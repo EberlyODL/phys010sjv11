@@ -32,9 +32,9 @@ We know from Newton's theory that in order for the galaxies in Abell 370 to be g
 
 There is an escape velocity for any object in orbit (to let it escape orbit). The escape velocity is
 
-$$v_{escape}^2 = \frac{2 G M}{r}$$
+<lrn-math>v_{escape}^2 = \frac{2 G M}{r}</lrn-math>
 
-This is (up to a factor of two) the same as the orbital velocity you saw last week. In this formula, $$r$$ is the radial position of a galaxy you are looking at from the center of the galaxy cluster and $$M$$ is the mass of the galaxy cluster inside the radius. For galaxy clusters like Abell 370, the escape velocity is of the order of 300 km/s given the mass we measure from looking at all gases and luminous objects.  When we look at the data, we see galaxies with speeds all the way up to 1000 km/s. How can this be? With double the speed, galaxies have four times the kinetic energy and they should be able to easily escape - but they don't!
+This is (up to a factor of two) the same as the orbital velocity you saw last week. In this formula, <lrn-math>r</lrn-math> is the radial position of a galaxy you are looking at from the center of the galaxy cluster and <lrn-math>M</lrn-math> is the mass of the galaxy cluster inside the radius. For galaxy clusters like Abell 370, the escape velocity is of the order of 300 km/s given the mass we measure from looking at all gases and luminous objects.  When we look at the data, we see galaxies with speeds all the way up to 1000 km/s. How can this be? With double the speed, galaxies have four times the kinetic energy and they should be able to easily escape - but they don't!
 
 There are a couple of possibilities:
 

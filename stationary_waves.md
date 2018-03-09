@@ -24,10 +24,10 @@ In the demo below, I will produce standing sound waves in a tube. This is analog
 
 The upshot and most important thing to remember is that only a specific set of wavelengths are allowed on a string (or in a tube open at both sides). For a string or tube of length L, the possible wavelengths are given by the formula
 
-$\lambda_n = \frac{2L}{n}$
+<lrn-math>\lambda_n = \frac{2L}{n}</lrn-math>
 
 for n = 1, 2, 3, ....
 
-So, for example, the first harmonic, the fundamental, has a wavelength equal to $\lambda_1 = 2L.$ This makes sense since as you can see from Fig. 3, the first harmonic looks like half a wavelength on the whole string.
+So, for example, the first harmonic, the fundamental, has a wavelength equal to <lrn-math>\lambda_1 = 2L.</lrn-math> This makes sense since as you can see from Fig. 3, the first harmonic looks like half a wavelength on the whole string.
 
 [ciscode|rev=1|tool=elmsmedia|item=2612|entity_type=node|render=display_mode|display_mode=h5p]

@@ -7,7 +7,7 @@ What Einstein did with special relativity is to propose to extend the old relati
 From this principle, the theory of special relativity follows. Here is the logic for special relativity: 
 
 1. Maxwell's theory of electricity is true for all observers moving at constant speed.
-2. Maxwell's theory predicts that light travels at $ c= 299,792,458\; m/s$.
+2. Maxwell's theory predicts that light travels at <lrn-math> c= 299,792,458\; m/s</lrn-math>.
 3. Therefore, **light travels at speed c as seen by all observers moving at constant speed**.
 
 - M: This means that for any experiments, irrespective of the speed the observers are moving, will measure the speed of light to be c.
@@ -20,19 +20,19 @@ From this principle, the theory of special relativity follows. Here is the logic
 
 ## How to add  speeds: \*\* this is optional \*\*, your book also discusses this.
 
-Einstein's principle of relativity says that the speed of light is measured to be the same for all observers moving at constant velocity. Lets go back to Marie's example: Imagine I turn on a flashlight in a train moving at the speed of c/2 with respect to the ground $v_{TG} = c/2$, the speed of the light with respect to the train $v_{cT}$ is c and the speed of light with respect to the ground $v_{cG}$ must also be c. 
+Einstein's principle of relativity says that the speed of light is measured to be the same for all observers moving at constant velocity. Lets go back to Marie's example: Imagine I turn on a flashlight in a train moving at the speed of c/2 with respect to the ground <lrn-math>v_{TG} = c/2</lrn-math>, the speed of the light with respect to the train <lrn-math>v_{cT}</lrn-math> is c and the speed of light with respect to the ground <lrn-math>v_{cG}</lrn-math> must also be c. 
 
 Clearly the speed of light **does not** satisfy the simple addition of speed that we have seen before.
 
-$ v_{cG} \neq v_{cT}+v_{TG}$
+<lrn-math> v_{cG} \neq v_{cT}+v_{TG}</lrn-math>
 
 We need a new formula. It must be a formula that keeps the speed constant. It's a fun little math problem to find a way to add velocity such that the speed of light always stays the same. Here is a way (the correct one) to do it (**\*\* You do not need to remember or be able to use this formula**):
 
-$ v_{cG} = \frac{v_{cT}+v_{TG}}{1+\frac{v_{cT}v_{TG}}{c^2}}$
+<lrn-math> v_{cG} = \frac{v_{cT}+v_{TG}}{1+\frac{v_{cT}v_{TG}}{c^2}}</lrn-math>
 
-It's almost just the same as before but we now divide by the factor $1+\frac{v_{cT}v_{TG}}{c^2}$. So if the speed of the light with respect to the train is c and the speed of the train is c/2 we find that the speed of light with respect to ground is
+It's almost just the same as before but we now divide by the factor <lrn-math>1+\frac{v_{cT}v_{TG}}{c^2}</lrn-math>. So if the speed of the light with respect to the train is c and the speed of the train is c/2 we find that the speed of light with respect to ground is
 
-$ v_{cG} = \frac{c+c/2}{1+\frac{c^2}{2 c^2}} = c$
+<lrn-math> v_{cG} = \frac{c+c/2}{1+\frac{c^2}{2 c^2}} = c</lrn-math>
 
 In fact for any speed of the train the speed of light is always c in any reference frame. Even if the train moves at the speed of light, the speed of light inside the train remains c with respect to the ground or with respect to the train. Also this formula shows that if the two velocity you are adding are less than c, than the resulting "sum" is always less than c.
 

@@ -3,7 +3,7 @@ Before we look into more details of the photoelectric effect, we need to go over
 [ciscode|rev=1|tool=elmsmedia|item=2206|entity_type=node|render=display_mode|display_mode=image]
 
 - S: Can you remind me again what is potential energy?
-- M: Sure, first lets remember the Potetial Energy when we looked at the skateboarder. That was "gravitational potential energy" and the further you were away from Earth, the bigger the potential energy (the "potential to have motion, or... fall!"). There is a potential energy for each force. Right now, the only force you have studied is the electric force which, as you remember, is the charge q times the electric field (not energy) $F=qE$.
+- M: Sure, first lets remember the Potetial Energy when we looked at the skateboarder. That was "gravitational potential energy" and the further you were away from Earth, the bigger the potential energy (the "potential to have motion, or... fall!"). There is a potential energy for each force. Right now, the only force you have studied is the electric force which, as you remember, is the charge q times the electric field (not energy) <lrn-math>F=qE</lrn-math>.
 - S: Yes, I remember both those things.
 - M: Ok, well another way to think about the force is in term of electric potential energy **U**. The electric potential energy can be graphed just like the skate park from week 2. This potential energy is everywhere in space (just like the electric field) and you can find the force on a particle by simply looking at the **slope** of the potential energy. The steeper the slope, the stronger the electric force.
 
@@ -16,7 +16,7 @@ Before we look into more details of the photoelectric effect, we need to go over
 
 The total energy of an electron and proton under the effect of an electric force with electric potential energy is, like before, just its potential energy + kinetic energy.
 
-$E_{tot} = K+U$
+<lrn-math>E_{tot} = K+U</lrn-math>
 
 ### Turning Points
 

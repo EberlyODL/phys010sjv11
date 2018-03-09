@@ -14,7 +14,7 @@
 
 - The stopping potential is the value in volt that will stop the electrons.
 
-$K = e V_{stop}$
+<lrn-math>K = e V_{stop}</lrn-math>
 
 - The two unusual things about the photoelectric effect are that
 
@@ -23,11 +23,11 @@ $K = e V_{stop}$
 
 - Einstein's explanation was that light is made of particle (photons). The energy of each particle is related to the frequency of the wave by the simple relationship (which you need to be able to use).
 
-$E = hf $
+<lrn-math>E = hf </lrn-math>
 
 with
 
-$h = 6.63\times 10^{-34}\;J\; s = 4.14\times 10^{-15} \rm{eV}\;s$
+<lrn-math>h = 6.63\times 10^{-34}\;J\; s = 4.14\times 10^{-15} \rm{eV}\;s</lrn-math>
 
 (do not memorize)
 

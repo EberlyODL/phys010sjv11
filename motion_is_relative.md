@@ -1,6 +1,6 @@
 ## Relative Velocity 
 
-Imagine a train car moving with velocity $v_T$ of 2 m/s (this is 2 meters per second). Inside there is a cart moving at $v_C = 1\;m/s$. Still inside the cart there is a ball moving at $v_B= 4\;m/s$. See the figure
+Imagine a train car moving with velocity <lrn-math>v_T</lrn-math> of 2 m/s (this is 2 meters per second). Inside there is a cart moving at <lrn-math>v_C = 1\;m/s</lrn-math>. Still inside the cart there is a ball moving at <lrn-math>v_B= 4\;m/s</lrn-math>. See the figure
 
 [ciscode|rev=1|tool=elmsmedia|item=984|entity_type=node|render=display_mode|display_mode=image]
 
@@ -8,19 +8,19 @@ Imagine a train car moving with velocity $v_T$ of 2 m/s (this is 2 meters per se
  
 ## Velocity With Respect To? 
 
-Imagine a train car moving with velocity $v_{TG}= 2\;m/s$ **_with respect to the ground_**. Inside there is a cart moving at $v_{CT} = 1\;m/s$ **_with respect to the train_**. Still inside the cart there is a ball moving at $v_{BC}= 4\;m/s$ **_with respect to the cart_**.
+Imagine a train car moving with velocity <lrn-math>v_{TG}= 2\;m/s</lrn-math> **_with respect to the ground_**. Inside there is a cart moving at <lrn-math>v_{CT} = 1\;m/s</lrn-math> **_with respect to the train_**. Still inside the cart there is a ball moving at <lrn-math>v_{BC}= 4\;m/s</lrn-math> **_with respect to the cart_**.
 
-Velocities are always measured with respect to something. We call the viewpoint "the observer" even though that does not mean there is an actual human there. So we would say that the velocity of the train, as seen by an observer on the ground, is 2 m/s ($v_{TG}$) The notation is important to know:
+Velocities are always measured with respect to something. We call the viewpoint "the observer" even though that does not mean there is an actual human there. So we would say that the velocity of the train, as seen by an observer on the ground, is 2 m/s (<lrn-math>v_{TG}</lrn-math>) The notation is important to know:
 
-$ v_{TG} = v_{\rm{train(T)\;with\;respect\;to\;ground(G)}}$
+<lrn-math> v_{TG} = v_{\rm{train(T)\;with\;respect\;to\;ground(G)}}</lrn-math>
 
-$ v_{CT} = v_{\rm{cart(C)\;with\;respect\;to\;train(T)}}$
+<lrn-math> v_{CT} = v_{\rm{cart(C)\;with\;respect\;to\;train(T)}}</lrn-math>
 
 > The choices of letters C, T, B, G are arbitrary; you just choose whatever you want, in this case I choose the starting letter of the word - easier to remember.
 
 - M: Interesting note: if you reverse the order, you just reverse the sign of the speed.
 - S: What do you mean?
-- M: For example, we know that the train is moving at 2 m/s to the right with respect to an observer on the ground $v_{TG}$ . If we want to have the velocity of the ground as seen by an observer on the train, we just reverse the subscript and the sign $v_{GT}$ and this is –2 m/s. This is the velocity of the ground with respect to the train. This just means that the ground is moving at 2 m/s to the left, as seen from someone on the train.
+- M: For example, we know that the train is moving at 2 m/s to the right with respect to an observer on the ground <lrn-math>v_{TG}</lrn-math> . If we want to have the velocity of the ground as seen by an observer on the train, we just reverse the subscript and the sign <lrn-math>v_{GT}</lrn-math> and this is –2 m/s. This is the velocity of the ground with respect to the train. This just means that the ground is moving at 2 m/s to the left, as seen from someone on the train.
 - S: Oh like when I am on the bus. I see the trees and sign post moving to the back of the bus.
 - M: That's right, the trees have a velocity with respect to you.
 
