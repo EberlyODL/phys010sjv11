@@ -2,7 +2,7 @@ So, how can this work in practice?
   
 Look at the two images below.
 
-> The symbol <lrn-math>\Delta</lrn-math> in <lrn-math>\Delta t</lrn-math> denotes an interval of time. In general <lrn-math>\Delta </lrn-math> means difference between the final value of something and its initial value.
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">The symbol <lrn-math>\Delta</lrn-math> in <lrn-math>\Delta t</lrn-math> denotes an interval of time. In general <lrn-math>\Delta </lrn-math> means difference between the final value of something and its initial value.</lrndesign-sidenote>
 
 On the left, I am sending a pulse of light up to a mirror and it bounces back. The time it took for the trip back and forth is just the distance divided by the speed
 
